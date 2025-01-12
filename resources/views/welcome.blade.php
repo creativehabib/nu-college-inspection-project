@@ -28,9 +28,9 @@
                             Laravel
                         </a>
                         <nav>
-                            <ul class="space-x-4 lg:space-x-6 md:space-x-4">
+                            <ul class="">
                                 <li class="inline-block">
-                                    <a href="https://laravel.com/docs" class="dark:hover:text-white/80">Docs</a>
+                                    <a href="{{ url('/') }}" class="dark:hover:text-white/80">Home</a>
                                 </li>
                                 <li class="relative inline-block group">
                                     <a href="#" class="flex items-center dark:hover:text-white/70 p-4">
@@ -57,9 +57,6 @@
                                             <a href="#option3" class="dark:hover:text-white/80 p-4">Professional</a>
                                         </li>
                                     </ul>
-                                </li>
-                                <li class="inline-block">
-                                    <a href="https://laravel-news.com" class="dark:hover:text-white/70">News</a>
                                 </li>
                                 @if (Route::has('login'))
                                     @auth
