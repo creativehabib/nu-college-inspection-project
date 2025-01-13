@@ -1,7 +1,20 @@
 <?php
 
+use App\Http\Controllers\PermissionController;
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\RoleController;
 use Illuminate\Support\Facades\Route;
+
+//Permission Route
+Route::resource('permissions', PermissionController::class);
+
+// Role Route
+Route::resource('roles', RoleController::class);
+//assign permission to role
+Route::get('roles/{role}/assign-permission', [RoleController::class, 'assignPermission'])->name('roles.assign-permission');
+//process assign permission to role
+Route::put('roles/{role}/assign-permission', [RoleController::class, 'processAssignPermission'])->name('roles.process-assign-permission');
+
 
 Route::get('/', function () {
     return view('welcome');
