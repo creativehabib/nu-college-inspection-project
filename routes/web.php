@@ -3,6 +3,7 @@
 use App\Http\Controllers\PermissionController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\RoleController;
+use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
 
 //Permission Route
@@ -15,6 +16,10 @@ Route::get('roles/{role}/assign-permission', [RoleController::class, 'assignPerm
 //process assign permission to role
 Route::put('roles/{role}/assign-permission', [RoleController::class, 'processAssignPermission'])->name('roles.process-assign-permission');
 
+// user Route
+Route::resource('users', UserController::class);
+//assign role to user
+Route::get('users/{user}/assign-role', [UserController::class, 'assignRole'])->name('users.assign-role');
 
 Route::get('/', function () {
     return view('welcome');

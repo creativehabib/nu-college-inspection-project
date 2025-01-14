@@ -16,13 +16,18 @@
                         @method('PUT')
                         <div class="mb-4">
                             <label for="permission" class="block text-sm font-medium text-gray-700 dark:text-gray-200">Permission</label>
-{{--                            check box with selected cheeck box--}}
                             @foreach ($permissions as $permission)
                                 <div class="mt-1">
-                                    <label class="inline-flex items-center">
-                                        <input type="checkbox" name="permission[]" value="{{ $permission->name }}" class="form-checkbox dark:bg-gray-700 dark:text-gray-200" {{ in_array($permission->id, $rolePermissions) ? 'checked':'' }}>
-                                        <span class="ml-2 dark:text-gray-200">{{ $permission->name }}</span>
-                                    </label>
+                                    <div class="flex items-center">
+                                        <input
+                                            id="{{ $permission->id }}"
+                                               type="checkbox"
+                                               name="permission[]"
+                                               value="{{ $permission->name }}"
+                                               class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+                                            {{ in_array($permission->id, $rolePermissions) ? 'checked':'' }}>
+                                        <label for="{{ $permission->id }}" class="ml-2 text-sm cursor-pointer font-medium text-gray-900 dark:text-gray-300">{{ $permission->name }}</label>
+                                    </div>
                                 </div>
                             @endforeach
                             @error('permission')
