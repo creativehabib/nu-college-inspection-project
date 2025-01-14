@@ -46,7 +46,6 @@
                                         <form action="{{ route('users.destroy', $user->id) }}" method="POST" class="inline">
                                             @csrf
                                             @method('DELETE')
-                                            {{-- when you click the delete button, the form will be submitted--}}
                                             <button type="submit" onclick="return confirm('Are you sure you want to delete this user?')" class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">Delete</button>
                                         </form>
                                     </td>
