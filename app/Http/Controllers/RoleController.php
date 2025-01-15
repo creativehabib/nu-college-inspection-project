@@ -12,14 +12,13 @@ class RoleController extends Controller
     public function index()
     {
         $roles = Role::latest()->paginate(5);
-
-        return view('role-permissions.role.index', compact('roles'))
+        return view('role-permission.role.index', compact('roles'))
             ->with('i', (request()->input('page', 1) - 1) * 5);
     }
 
     public function create()
     {
-        return view('role-permissions.role.create');
+        return view('role-permission.role.create');
     }
 
     public function store(Request $request)
@@ -36,7 +35,7 @@ class RoleController extends Controller
 
     public function edit(Role $role)
     {
-        return view('role-permissions.role.edit', compact('role'));
+        return view('role-permission.role.edit', compact('role'));
     }
 
     public function update(Request $request, Role $role)
@@ -67,7 +66,7 @@ class RoleController extends Controller
             ->where('role_has_permissions.role_id', $role->id)
             ->pluck('role_has_permissions.permission_id','role_has_permissions.permission_id')
             ->all();
-        return view('role-permissions.role.assign-permission', compact('role', 'permissions', 'rolePermissions'));
+        return view('role-permission.role.assign-permission', compact('role', 'permissions', 'rolePermissions'));
     }
 
     public function processAssignPermission(Request $request, Role $role)
@@ -78,11 +77,4 @@ class RoleController extends Controller
             ->with('success', 'Permission assigned to role successfully');
     }
 
-    public function removePermission(Role $role, Permission $permission)
-    {
-        $role->revokePermissionTo($permission->name);
-
-        return redirect()->route('roles.index')
-            ->with('success', 'Permission removed from role successfully');
-    }
 }

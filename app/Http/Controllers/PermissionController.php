@@ -11,13 +11,13 @@ class PermissionController extends Controller
     {
         $permissions = Permission::latest()->paginate(5);
 
-        return view('role-permissions.permission.index', compact('permissions'))
+        return view('role-permission.permission.index', compact('permissions'))
             ->with('i', (request()->input('page', 1) - 1) * 5);
     }
 
     public function create()
     {
-        return view('role-permissions.permission.create');
+        return view('role-permission.permission.create');
     }
 
     public function store(Request $request)
@@ -34,7 +34,7 @@ class PermissionController extends Controller
 
     public function edit(Permission $permission)
     {
-        return view('role-permissions.permission.edit', compact('permission'));
+        return view('role-permission.permission.edit', compact('permission'));
     }
 
     public function update(Request $request, Permission $permission)
@@ -56,6 +56,4 @@ class PermissionController extends Controller
         return redirect()->route('permissions.index')
             ->with('success', 'Permission deleted successfully');
     }
-
 }
-

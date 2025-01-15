@@ -15,7 +15,7 @@ class UserController extends Controller
         // Fetch all users data & user role
         $users = User::with('roles')->latest()->paginate(5);
 
-        return view('role-permissions.user.index', compact('users'))
+        return view('role-permission.user.index', compact('users'))
             ->with('i', (request()->input('page', 1) - 1) * 5);
     }
 
@@ -23,7 +23,7 @@ class UserController extends Controller
     public function create()
     {
         $roles = Role::pluck('name','name')->all();
-        return view('role-permissions.user.create', ['roles' => $roles]);
+        return view('role-permission.user.create', ['roles' => $roles]);
     }
 
     public function store(Request $request)
@@ -51,7 +51,7 @@ class UserController extends Controller
     {
         $roles = Role::pluck('name','name')->all();
         $userRoles = $user->roles->pluck('name','name')->all();
-        return view('role-permissions.user.edit', [
+        return view('role-permission.user.edit', [
             'user' => $user,
             'roles' => $roles,
             'userRoles' => $userRoles
@@ -103,7 +103,7 @@ class UserController extends Controller
             ->pluck('model_has_roles.role_id','model_has_roles.role_id')
             ->all();
 
-        return view('role-permissions.user.assign-role', compact('user', 'roles', 'userRoles'));
+        return view('role-permission.user.assign-role', compact('user', 'roles', 'userRoles'));
     }
 
     // process assign role to user
@@ -127,7 +127,7 @@ class UserController extends Controller
     // user profile
     public function profile()
     {
-        return view('role-permissions.user.profile');
+        return view('role-permission.user.profile');
     }
 
     // update user profile
