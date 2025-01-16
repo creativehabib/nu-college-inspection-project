@@ -48,7 +48,7 @@
                                     </a>
                                     <ul class="absolute hidden group-hover:block bg-white dark:bg-gray-800 py-2 shadow-lg rounded-lg">
                                         <li class="px-4 py-2 hover:bg-gray-200 dark:hover:bg-gray-700">
-                                            <a href="#" class="dark:hover:text-white/80 p-4">Degree</a>
+                                            <a href="/degree" class="dark:hover:text-white/80 p-4">Degree</a>
                                         </li>
                                         <li class="px-4 py-2 hover:bg-gray-200 dark:hover:bg-gray-700">
                                             <a href="#" class="dark:hover:text-white/80 p-4">Honours</a>

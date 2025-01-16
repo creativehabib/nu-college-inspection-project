@@ -31,4 +31,7 @@ Route::resource('users', App\Http\Controllers\UserController::class);
 //assign role to user
 Route::get('users/{user}/assign-role', [App\Http\Controllers\UserController::class, 'assignRole'])->name('users.assign-role');
 
+Route::resource('degree', App\Http\Controllers\HomeController::class);
+
+
 require __DIR__.'/auth.php';
