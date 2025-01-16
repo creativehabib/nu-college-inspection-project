@@ -87,10 +87,24 @@ class UserController extends Controller
     // delete user
     public function destroy(User $user)
     {
-        $user->delete();
+        // Get the currently authenticated user's ID
+        $currentUserId = auth()->user()->id;
 
-        return redirect()->route('users.index')
-            ->with('success', 'User deleted successfully');
+        // Check if the ID to be deleted is the same as the current user's ID
+        if ($currentUserId == $user->id) {
+            return redirect()->back()->with('error', 'You cannot delete yourself.');
+        }
+
+        // Find the user to delete
+        $user = User::find($user->id);
+
+        if (!$user) {
+            return redirect()->back()->with('error', 'User not found.');
+        }
+
+        // Perform the delete operation
+        $user->delete();
+        return redirect()->back()->with('success', 'User deleted successfully.');
     }
 
     // assign role to user
