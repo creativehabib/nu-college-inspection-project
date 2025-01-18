@@ -41,6 +41,7 @@
                             <div class="mb-4">
                                 <label for="roles" class="block text-sm font-medium text-gray-700 dark:text-gray-200">Roles</label>
                                 <select name="roles[]" id="roles" class="form-multiselect block w-full dark:bg-gray-700 dark:text-gray-200">
+                                    <option value="">Select Role</option>
                                     @foreach ($roles as $role)
                                         <option value="{{ $role }}" {{ $user->roles->contains($role) ? 'selected' : '' }}>{{ $role }}</option>
                                     @endforeach

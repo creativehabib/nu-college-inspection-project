@@ -533,7 +533,7 @@
                                     />
                                 </div>
                             </div>
-                            
+
                             <!-- Brief Background -->
                             <div class="flex flex-col">
                                 <label for="about_college" class="text-gray-700 font-medium">Brief Background of the College</label>
