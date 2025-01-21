@@ -1,9 +1,4 @@
 <x-app-layout>
-    <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight">
-            {{ __('Course List') }}
-        </h2>
-    </x-slot>
 
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
@@ -16,6 +11,7 @@
                     </div>
                 @endif
                 <div class="p-6 text-gray-900 dark:text-gray-100">
+                    <h2 class="text-2xl font-semibold">Course List</h2>
                     <div class="flex justify-end mb-4">
                         <a href="{{ route('nu-course.create') }}" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Add Course</a>
                     </div>
@@ -70,8 +66,8 @@
                                         <div class="text-sm text-gray-900 dark:text-gray-100">{{ $course->created_at->diffForHumans() }}</div>
                                     </td>
                                     <td class="px-6 py-2 whitespace-nowrap text-center text-sm font-medium">
-                                        <a href="{{ route('nu-subject.edit', $course->id) }}" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Edit</a>
-                                        <form action="{{ route('nu-subject.destroy', $course->id) }}" method="POST" class="inline">
+                                        <a href="{{ route('nu-course.edit', $course->id) }}" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Edit</a>
+                                        <form action="{{ route('nu-course.destroy', $course->id) }}" method="POST" class="inline">
                                             @csrf
                                             @method('DELETE')
                                             <button type="submit" class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded" onclick="return confirm('Are you sure?')">Delete </button>
@@ -107,13 +103,13 @@
         // Handle the toggle switch change
         $('.toggle-class').change(function () {
             const status = $(this).prop('checked') ? 1 : 0;
-            const coursetId = $(this).data('id');
+            const courseId = $(this).data('id');
 
             $.ajax({
                 type: 'POST',
                 url: '{{ route('nu-course.update.status') }}',
                 data: {
-                    id: coursetId,
+                    id: courseId,
                     status: status
                 },
                 success: function (response) {

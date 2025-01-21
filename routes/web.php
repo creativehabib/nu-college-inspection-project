@@ -31,7 +31,7 @@ Route::group(['middleware' => ['role:super-admin|admin']], function() {
     // user
     Route::resource('users', App\Http\Controllers\UserController::class);
 
-    Route::resource('degree', App\Http\Controllers\HomeController::class);
+
 
     // Nu Program
     Route::resource('nu-program', App\Http\Controllers\NuProgramController::class);
@@ -50,6 +50,13 @@ Route::group(['middleware' => ['role:super-admin|admin']], function() {
 
 });
 
+Route::get('degree', [App\Http\Controllers\HomeController::class, 'index']);
 
+Route::post('fetch-districts', [App\Http\Controllers\HomeController::class, 'fetchDistrict']);
+Route::post('fetch-upazilas', [App\Http\Controllers\HomeController::class, 'fetchUpazila']);
+Route::post('fetch-unions', [App\Http\Controllers\HomeController::class, 'fetchUnion']);
 
 require __DIR__.'/auth.php';
+
+
+//Route::get('read-json', [App\Http\Controllers\JsonController::class, 'index']);

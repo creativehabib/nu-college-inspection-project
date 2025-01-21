@@ -144,44 +144,44 @@
                                     <!-- Division and District -->
                                     <div class="grid grid-cols-2 gap-4">
                                         <div class="flex flex-col">
+                                            {{-- division dropdown list--}}
                                             <label for="division" class="text-gray-700 font-medium">Division</label>
-                                            <input
-                                                type="text"
+                                            <select
                                                 id="division"
-                                                placeholder="Ex. Dhaka"
-                                                class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700"
-                                            />
+                                                class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700">
+                                                <option value="">Select Division</option>
+                                                @foreach($divisions as $division)
+                                                    <option value="{{$division->id}}">{{$division->name}}</option>
+                                                @endforeach
+                                            </select>
                                         </div>
                                         <div class="flex flex-col">
+                                            {{-- district dropdown list--}}
                                             <label for="district" class="text-gray-700 font-medium">District</label>
-                                            <input
-                                                type="text"
+                                            <select
                                                 id="district"
-                                                placeholder="Ex. Jashore"
-                                                class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700"
-                                            />
+                                                class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700">
+                                            </select>
                                         </div>
                                     </div>
 
-                                    <!-- Upazilla and Post Code -->
+                                    <!-- Upazilla -->
                                     <div class="grid grid-cols-2 gap-4">
                                         <div class="flex-col flex">
-                                            <label for="upazilla" class="text-gray-700 font-medium">Upazilla/Thana</label>
-                                            <input
-                                                type="text"
+                                            {{-- upazilla dropdown list--}}
+                                            <label for="upazilla" class="text-gray-700 font-medium">Upazilla</label>
+                                            <select
                                                 id="upazilla"
-                                                placeholder="Ex. Upazilla/Thana"
-                                                class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700"
-                                            />
+                                                class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700">
+                                            </select>
                                         </div>
                                         <div class="flex flex-col">
-                                            <label for="post-code" class="text-gray-700 font-medium">Post Code</label>
-                                            <input
-                                                type="text"
-                                                id="post-code"
-                                                placeholder="Ex. 9300"
-                                                class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700"
-                                            />
+                                            {{-- union dropdown list --}}
+                                            <label for="union" class="text-gray-700 font-medium">Union</label>
+                                            <select
+                                                id="union"
+                                                class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700">
+                                            </select>
                                         </div>
                                     </div>
 
@@ -259,9 +259,10 @@
                                 <select
                                     id="affiliation_type"
                                     class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700">
-                                    <option>Degree</option>
-                                    <option>Honours</option>
-                                    <option>Professional</option>
+                                    <option value="">Select Program</option>
+                                    @foreach($programs as $program)
+                                        <option value="{{$program->id}}">{{$program->name}}</option>
+                                    @endforeach
                                 </select>
                             </div>
 
@@ -278,237 +279,34 @@
 
                             <!-- Course Name -->
                             <div class="flex items-center space-x-2 justify-between">
+                                @foreach($courses as $course)
                                 <div>
                                     <input
-                                        id="ba"
+                                        id="co-{{$course->id}}"
                                         type="checkbox"
                                         name="course_name[]"
                                         class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
                                     >
-                                    <label for="ba" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">BA</label>
+                                    <label for="co-{{$course->id}}" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">{{ $course->name }}</label>
                                 </div>
-                                <div>
-                                    <input
-                                        id="bss"
-                                        type="checkbox"
-                                        name="course_name[]"
-                                        class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                    >
-                                    <label for="bss" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">BSS</label>
-                                </div>
-                                <div>
-                                    <input
-                                        id="bbs"
-                                        type="checkbox"
-                                        name="course_name[]"
-                                        class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                    >
-                                    <label for="bbs" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">BBS</label>
-                                </div>
-                                <div>
-                                    <input
-                                        id="bsc"
-                                        type="checkbox"
-                                        name="course_name[]"
-                                        class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                    >
-                                    <label for="bsc" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">BSC</label>
-                                </div>
+                                @endforeach
                             </div>
 
                             <!-- Subject -->
                             <div class="flex flex-col">
                                 <label for="college-address" class="text-gray-700 font-medium">Subject List</label>
                                 <div class="grid grid-cols-2 gap-2">
+                                    @foreach($subjects as $subject)
                                     <div>
                                         <input
-                                            id="bangla"
+                                            id="sub-{{$subject->id}}"
                                             type="checkbox"
-                                            name="course_name[]"
+                                            name="subject_name[]"
                                             class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
                                         >
-                                        <label for="bangla" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Bangla</label>
+                                        <label for="sub-{{$subject->id}}" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">{{ $subject->name }}</label>
                                     </div>
-                                    <div>
-                                        <input
-                                            id="english"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="english" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">English</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="math"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="math" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Math</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="history"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="history" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">History</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="islamic_h"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="islamic_h" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Islamic History</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="geography"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="geography" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Geography</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="sociology"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="sociology" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Sociology</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="s_work"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="s_work" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Social Work</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="politics"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="politics" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Politics</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="management"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="management" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Management</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="management"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="management" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Management</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="management"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="management" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Management</label>
-                                    </div><div>
-                                        <input
-                                            id="management"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="management" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Management</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="management"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="management" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Management</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="management"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="management" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Management</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="management"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="management" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Management</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="management"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="management" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Management</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="management"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="management" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Management</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="management"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="management" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Management</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="management"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="management" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Management</label>
-                                    </div>
-                                    <div>
-                                        <input
-                                            id="management"
-                                            type="checkbox"
-                                            name="course_name[]"
-                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded cursor-pointer border-gray-300"
-                                        >
-                                        <label for="management" class="ml-2 text-sm cursor-pointer font-medium text-gray-900">Management</label>
-                                    </div>
-
+                                    @endforeach
                                 </div>
                             </div>
 
@@ -711,5 +509,98 @@
         </div>
     </div>
 </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+
+    $(document).ready(function () {
+
+        /*------------------------------------------
+         District Dropdown Change Event
+        --------------------------------------------*/
+
+        $('#division').on('change', function () {
+            var idDivision = this.value;
+            $("#district").html('');
+
+            $.ajax({
+                url: "{{url('fetch-districts')}}",
+                type: "POST",
+                data: {
+                    division_id: idDivision,
+                    _token: '{{csrf_token()}}'
+                },
+                dataType: 'json',
+                success: function (result) {
+                    $('#district').html('<option value="">Select District</option>');
+                    $.each(result.districts, function (key, value) {
+                        $("#district").append('<option value="' + value
+                            .id + '">' + value.name + '</option>');
+                    });
+                    $('#upazilla').html('<option value="">Select Upazila</option>');
+                    $('#union').html('<option value="">Select Union</option>');
+                }
+
+            });
+
+        });
+
+
+        /*------------------------------------------
+        --------------------------------------------
+        Upazilla Dropdown Change Event
+        --------------------------------------------
+        --------------------------------------------*/
+        $('#district').on('change', function () {
+            var idDistrict = this.value;
+            $("#upazilla").html('');
+            $.ajax({
+                url: "{{url('fetch-upazilas')}}",
+                type: "POST",
+                data: {
+                    district_id: idDistrict,
+                    _token: '{{csrf_token()}}'
+                },
+                dataType: 'json',
+                success: function (res) {
+                    $('#upazilla').html('<option value="">Select Upazilla</option>');
+                    $.each(res.upazilas, function (key, value) {
+                        $("#upazilla").append('<option value="' + value
+                            .id + '">' + value.name + '</option>');
+                    });
+                    $('#union').html('<option value="">Select Union</option>');
+                }
+            });
+        });
+
+        /*------------------------------------------
+        --------------------------------------------
+        Upazilla Dropdown Change Event
+        --------------------------------------------
+        --------------------------------------------*/
+        $('#upazilla').on('change', function () {
+            var idUpazilla = this.value;
+            $("#union").html('');
+            $.ajax({
+                url: "{{url('fetch-unions')}}",
+                type: "POST",
+                data: {
+                    upazilla_id: idUpazilla,
+                    _token: '{{csrf_token()}}'
+                },
+                dataType: 'json',
+                success: function (res) {
+                    $('#union').html('<option value="">Select Union</option>');
+                    $.each(res.unions, function (key, value) {
+                        $("#union").append('<option value="' + value
+                            .id + '">' + value.name + '</option>');
+                    });
+                }
+            });
+        });
+
+    });
+
+</script>
 </body>
 </html>

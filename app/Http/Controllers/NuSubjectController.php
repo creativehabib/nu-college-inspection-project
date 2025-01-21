@@ -75,14 +75,11 @@ class NuSubjectController extends Controller
     {
         // Validate request
         $request->validate([
-            'name' => 'required',
-            'code' => 'required',
-            'credit' => 'required',
-            'status' => 'required',
+            'name' => 'required'
         ]);
 
         // Update data
-        $nuSubject->update($request->all());
+        $nuSubject->update(['name' => $request->name]);
 
         // Redirect to index view
         return redirect()->route('nu-subject.index')

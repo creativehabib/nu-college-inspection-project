@@ -88,9 +88,26 @@ class NuCourseController extends Controller
     {
         // Validate request
         $request->validate([
-            'name' => 'required',
-            'program_id' => 'required'
+            'name' => [
+                'required',
+                Rule::unique('nu_courses')->ignore($nuCourse->id)->where(function ($query) use ($request) {
+                    return $query->where('type', $request->program_id);
+                }),
+            ],
+            'program_id' => 'required|exists:nu_programs,id',
+        ], [
+            'name.unique' => 'The course name is already assigned to this program.',
         ]);
+
+        // Update data
+        $nuCourse->update([
+            'name' => $request->name,
+            'type' => $request->program_id,
+        ]);
+
+        // Redirect to index view
+        return redirect()->route('nu-course.index')
+            ->with('success', 'Course updated successfully.');
     }
 
     /**
