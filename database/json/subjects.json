@@ -1,0 +1,224 @@
+{
+    "subjects": [
+        {
+            "id": "1",
+            "name": "Bangla",
+            "code": "1001"
+        },
+        {
+            "id": "2",
+            "name": "English",
+            "code": "1101"
+        },
+        {
+            "id": "3",
+            "name": "Arabic",
+            "code": "1201"
+        },
+        {
+            "id": "4",
+            "name": "Sanskrit",
+            "code": "1301"
+        },
+        {
+            "id": "5",
+            "name": "History",
+            "code": "1501"
+        },
+        {
+            "id": "6",
+            "name": "Islamic History & Culture",
+            "code": "1601"
+        },
+        {
+            "id": "7",
+            "name": "Philosophy",
+            "code": "1701"
+        },
+        {
+            "id": "8",
+            "name": "Islamic Studies",
+            "code": "1801"
+        },
+        {
+            "id": "9",
+            "name": "Political Science",
+            "code": "1901"
+        },
+        {
+            "id": "10",
+            "name": "Sociology",
+            "code": "2001"
+        },
+        {
+            "id": "11",
+            "name": "Social Work",
+            "code": "2101"
+        },
+        {
+            "id": "12",
+            "name": "Economics",
+            "code": "2201"
+        },
+        {
+            "id": "13",
+            "name": "Anthropology",
+            "code": "4001"
+        },
+        {
+            "id": "14",
+            "name": "Library & Information Science",
+            "code": "3801"
+        },
+        {
+            "id": "15",
+            "name": "Home Economics",
+            "code": "3501"
+        },
+        {
+            "id": "16",
+            "name": "Music",
+            "code": "4501"
+        },
+        {
+            "id": "17",
+            "name": "Marketing",
+            "code": "2301"
+        },
+        {
+            "id": "18",
+            "name": "Finance & Banking",
+            "code": "2401"
+        },
+        {
+            "id": "19",
+            "name": "Accounting",
+            "code": "2501"
+        },
+        {
+            "id": "20",
+            "name": "Management",
+            "code": "2601"
+        },
+        {
+            "id": "21",
+            "name": "Physics",
+            "code": "2701"
+        },
+        {
+            "id": "22",
+            "name": "Chemistry",
+            "code": "2801"
+        },
+        {
+            "id": "23",
+            "name": "Biochemistry",
+            "code": "2901"
+        },
+        {
+            "id": "24",
+            "name": "Botany",
+            "code": "3001"
+        },
+        {
+            "id": "25",
+            "name": "Zoology",
+            "code": "3101"
+        },
+        {
+            "id": "26",
+            "name": "Soil Science",
+            "code": "3301"
+        },
+        {
+            "id": "27",
+            "name": "Statistics",
+            "code": "3601"
+        },
+        {
+            "id": "28",
+            "name": "Mathematics",
+            "code": "3701"
+        },
+        {
+            "id": "29",
+            "name": "Environmental Science",
+            "code": "4401"
+        },
+        {
+            "id": "30",
+            "name": "Geography & Environment",
+            "code": "3201"
+        },
+        {
+            "id": "31",
+            "name": "Psychology",
+            "code": "3401"
+        },
+        {
+            "id": "32",
+            "name": "Computer Science & Engineering",
+            "code": "4101"
+        },
+        {
+            "id": "33",
+            "name": "Information & Communication Technology",
+            "code": "4201"
+        },
+        {
+            "id": "34",
+            "name": "Software Engineering",
+            "code": "4301"
+        },
+        {
+            "id": "35",
+            "name": "Public Administration",
+            "code": "3901"
+        },
+        {
+            "id": "36",
+            "name": "Tourism & Hospitality Management",
+            "code": "4601"
+        },
+        {
+            "id": "37",
+            "name": "Law",
+            "code": "4701"
+        },
+        {
+            "id": "38",
+            "name": "Physical Education",
+            "code": "4801"
+        },
+        {
+            "id": "39",
+            "name": "Education",
+            "code": "4901"
+        },
+        {
+            "id": "40",
+            "name": "Fine Arts",
+            "code": "5001"
+        },
+        {
+            "id": "41",
+            "name": "Theatre & Performance Studies",
+            "code": "5101"
+        },
+        {
+            "id": "42",
+            "name": "Television, Film & Photography",
+            "code": "5201"
+        },
+        {
+            "id": "43",
+            "name": "Journalism & Media Studies",
+            "code": "5301"
+        },
+        {
+            "id": "44",
+            "name": "Development Studies",
+            "code": "5401"
+        }
+    ]
+}

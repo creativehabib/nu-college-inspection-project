@@ -582,18 +582,18 @@
             var idUpazilla = this.value;
             $("#union").html('');
             $.ajax({
-                url: "{{url('fetch-unions')}}",
+                url: "{{url('fetch-postcodes')}}",
                 type: "POST",
                 data: {
-                    upazilla_id: idUpazilla,
+                    id: idUpazilla,
                     _token: '{{csrf_token()}}'
                 },
                 dataType: 'json',
                 success: function (res) {
                     $('#union').html('<option value="">Select Union</option>');
-                    $.each(res.unions, function (key, value) {
+                    $.each(res.post_codes, function (key, value) {
                         $("#union").append('<option value="' + value
-                            .id + '">' + value.name + '</option>');
+                            .id + '">' + value.postCode + '</option>');
                     });
                 }
             });

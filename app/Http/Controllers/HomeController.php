@@ -7,6 +7,7 @@ use App\Models\Division;
 use App\Models\NuCourse;
 use App\Models\NuProgram;
 use App\Models\NuSubject;
+use App\Models\PostCode;
 use App\Models\Union;
 use App\Models\Upazila;
 use Illuminate\Http\Request;
@@ -47,6 +48,14 @@ class HomeController extends Controller
     public function fetchUnion(Request $request)
     {
         $data['unions'] = Union::where('upazilla_id', $request->upazilla_id)->get(['name', 'id']);
+        return response()->json($data);
+    }
+
+    // fetch postcodes
+    public function fetchPostCode(Request $request)
+    {
+        $upazila = Upazila::find($request->id);
+        $data['post_codes'] = PostCode::where('district_id', $upazila['district_id'])->get(['postCode', 'postOffice', 'upazila']);
         return response()->json($data);
     }
 }

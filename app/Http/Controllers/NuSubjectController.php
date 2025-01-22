@@ -12,9 +12,11 @@ class NuSubjectController extends Controller
      */
     public function index()
     {
-        // Get all subjects with pagination & index view
+        // Get all subjects
         $subjects = NuSubject::latest()->paginate(5);
-        return view('nu.nu-subject.index', compact('subjects'));
+        // Subjects count
+        $totalSubjects = NuSubject::count();
+        return view('nu.nu-subject.index', compact('subjects', 'totalSubjects'));
     }
 
     /**
@@ -33,7 +35,7 @@ class NuSubjectController extends Controller
     {
         // Validate request
         $request->validate([
-            'name' => 'required',
+            'name' => 'required|unique:nu_subjects,name',
             'code' => 'string|unique:nu_subjects,code',
         ]);
         // 100+ continue number

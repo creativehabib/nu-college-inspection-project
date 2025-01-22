@@ -55,6 +55,7 @@ Route::get('degree', [App\Http\Controllers\HomeController::class, 'index']);
 Route::post('fetch-districts', [App\Http\Controllers\HomeController::class, 'fetchDistrict']);
 Route::post('fetch-upazilas', [App\Http\Controllers\HomeController::class, 'fetchUpazila']);
 Route::post('fetch-unions', [App\Http\Controllers\HomeController::class, 'fetchUnion']);
+Route::post('fetch-postcodes', [App\Http\Controllers\HomeController::class, 'fetchPostCode']);
 
 require __DIR__.'/auth.php';
 

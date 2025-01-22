@@ -1,0 +1,446 @@
+{
+    "college": {
+        "id": 165,
+        "college_code": "0101",
+        "college_name": "GOVT. P. C. COLLEGE",
+        "college_name_bn": "",
+        "role": "user",
+        "email": "pccollege1918@gmail.com",
+        "email_verified_at": null,
+        "password": "$2y$10$4CKFY1VgdJM3jfMBSFPtPOYVFp1oahASELXzuExncDKoTxtcSwZgW",
+        "otp": "9836",
+        "approved": "1",
+        "remember_token": null,
+        "created_at": "2024-09-11T14:00:11.000000Z",
+        "updated_at": "2024-12-18T12:50:47.000000Z",
+        "college_user_detail": {
+            "id": 165,
+            "user_id": 165,
+            "college_code": "0101",
+            "principal_name": "PROF. MD. SHAH ALAM FARAZI",
+            "v_principal_name": "PROF. MD. SHAH ALAM FARAZI",
+            "clerkname": "Anawar Hossain khan",
+            "college_phone": "046862324",
+            "college_mobile": "01720018872",
+            "principal_mobile": "01558313862",
+            "vice_principal_mobile": "01921728918",
+            "cleark_mobile": "01728450401",
+            "address": "VILL-HARINKHANA, P.O- P.C. COLLEGE, BAGERHAT",
+            "upazilla": "BAGERHAT SADAR",
+            "post_code": null,
+            "fax": null,
+            "male_female": "B",
+            "col_type": "Y",
+            "college_Location": "Horinkhana, Bagerhat",
+            "total_Land": "20 acrs",
+            "establish_Year": "1918",
+            "background": "This college was established in 1918 and nationalized on 7th may in 1979. Now it is a post graduate institution.",
+            "website": "www.pccollegebd.com",
+            "lat": 22.665531,
+            "lng": 89.78286,
+            "logo": "0101_logo.jpg",
+            "banner": "0101_124_1365844280.jpg",
+            "eiin": "114830",
+            "created_at": "2024-09-11T14:21:07.000000Z",
+            "updated_at": "2025-01-14T14:05:47.000000Z"
+        }
+    },
+    "collegeSubjectLists": [
+        {
+            "course_code": "1",
+            "course_name": "Bachelor Degree (Pass)",
+            "subject_code": "01",
+            "subject_name": "B. A. (Pass)",
+            "college_code": "0101",
+            "aff_date": "2024-12-06",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "1",
+            "course_name": "Bachelor Degree (Pass)",
+            "subject_code": "02",
+            "subject_name": "B. S. S. (Pass)",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "1",
+            "course_name": "Bachelor Degree (Pass)",
+            "subject_code": "03",
+            "subject_name": "B. Sc. (Pass)",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "1",
+            "course_name": "Bachelor Degree (Pass)",
+            "subject_code": "04",
+            "subject_name": "B. B. S. (Pass)",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "1",
+            "course_name": "Bachelor Degree (Pass)",
+            "subject_code": "07",
+            "subject_name": "C.C",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "2",
+            "course_name": "Bachelor Degree Honours ",
+            "subject_code": "10",
+            "subject_name": "BENGALI",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": "50"
+        },
+        {
+            "course_code": "2",
+            "course_name": "Bachelor Degree Honours ",
+            "subject_code": "11",
+            "subject_name": "ENGLISH",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "2",
+            "course_name": "Bachelor Degree Honours ",
+            "subject_code": "15",
+            "subject_name": "HISTORY",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "2",
+            "course_name": "Bachelor Degree Honours ",
+            "subject_code": "16",
+            "subject_name": "ISLAMIC HISTORY AND CULTURE",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": "20"
+        },
+        {
+            "course_code": "2",
+            "course_name": "Bachelor Degree Honours ",
+            "subject_code": "17",
+            "subject_name": "PHILOSOPHY",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "2",
+            "course_name": "Bachelor Degree Honours ",
+            "subject_code": "19",
+            "subject_name": "POLITICAL SCIENCE",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "2",
+            "course_name": "Bachelor Degree Honours ",
+            "subject_code": "22",
+            "subject_name": "ECONOMICS",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "2",
+            "course_name": "Bachelor Degree Honours ",
+            "subject_code": "25",
+            "subject_name": "ACCOUNTING",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "2",
+            "course_name": "Bachelor Degree Honours ",
+            "subject_code": "26",
+            "subject_name": "MANAGEMENT",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "2",
+            "course_name": "Bachelor Degree Honours ",
+            "subject_code": "27",
+            "subject_name": "PHYSICS",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "2",
+            "course_name": "Bachelor Degree Honours ",
+            "subject_code": "28",
+            "subject_name": "CHEMISTRY",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "2",
+            "course_name": "Bachelor Degree Honours ",
+            "subject_code": "30",
+            "subject_name": "BOTANY",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "2",
+            "course_name": "Bachelor Degree Honours ",
+            "subject_code": "31",
+            "subject_name": "ZOOLOGY",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "2",
+            "course_name": "Bachelor Degree Honours ",
+            "subject_code": "37",
+            "subject_name": "MATHEMATICS",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "3",
+            "course_name": "Masters Final",
+            "subject_code": "10",
+            "subject_name": "BENGALI",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "3",
+            "course_name": "Masters Final",
+            "subject_code": "11",
+            "subject_name": "ENGLISH",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "3",
+            "course_name": "Masters Final",
+            "subject_code": "13",
+            "subject_name": "SANSKRIT",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "3",
+            "course_name": "Masters Final",
+            "subject_code": "15",
+            "subject_name": "HISTORY",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "3",
+            "course_name": "Masters Final",
+            "subject_code": "16",
+            "subject_name": "ISLAMIC HISTORY AND CULTURE",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "3",
+            "course_name": "Masters Final",
+            "subject_code": "17",
+            "subject_name": "PHILOSOPHY",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "3",
+            "course_name": "Masters Final",
+            "subject_code": "18",
+            "subject_name": "ISLAMIC STUDIES",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "3",
+            "course_name": "Masters Final",
+            "subject_code": "19",
+            "subject_name": "POLITICAL SCIENCE",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "3",
+            "course_name": "Masters Final",
+            "subject_code": "20",
+            "subject_name": "SOCIOLOGY",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "3",
+            "course_name": "Masters Final",
+            "subject_code": "22",
+            "subject_name": "ECONOMICS",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "3",
+            "course_name": "Masters Final",
+            "subject_code": "25",
+            "subject_name": "ACCOUNTING",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "3",
+            "course_name": "Masters Final",
+            "subject_code": "26",
+            "subject_name": "MANAGEMENT",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "3",
+            "course_name": "Masters Final",
+            "subject_code": "30",
+            "subject_name": "BOTANY",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "4",
+            "course_name": "Masters Preliminary",
+            "subject_code": "10",
+            "subject_name": "BENGALI",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "4",
+            "course_name": "Masters Preliminary",
+            "subject_code": "11",
+            "subject_name": "ENGLISH",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "4",
+            "course_name": "Masters Preliminary",
+            "subject_code": "13",
+            "subject_name": "SANSKRIT",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "4",
+            "course_name": "Masters Preliminary",
+            "subject_code": "15",
+            "subject_name": "HISTORY",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "4",
+            "course_name": "Masters Preliminary",
+            "subject_code": "16",
+            "subject_name": "ISLAMIC HISTORY AND CULTURE",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "4",
+            "course_name": "Masters Preliminary",
+            "subject_code": "17",
+            "subject_name": "PHILOSOPHY",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "4",
+            "course_name": "Masters Preliminary",
+            "subject_code": "18",
+            "subject_name": "ISLAMIC STUDIES",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "4",
+            "course_name": "Masters Preliminary",
+            "subject_code": "19",
+            "subject_name": "POLITICAL SCIENCE",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "4",
+            "course_name": "Masters Preliminary",
+            "subject_code": "20",
+            "subject_name": "SOCIOLOGY",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "4",
+            "course_name": "Masters Preliminary",
+            "subject_code": "22",
+            "subject_name": "ECONOMICS",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "4",
+            "course_name": "Masters Preliminary",
+            "subject_code": "25",
+            "subject_name": "ACCOUNTING",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        },
+        {
+            "course_code": "4",
+            "course_name": "Masters Preliminary",
+            "subject_code": "26",
+            "subject_name": "MANAGEMENT",
+            "college_code": "0101",
+            "aff_date": "0000-00-00",
+            "seat_capacity": ""
+        }
+    ]
+}

@@ -11,7 +11,7 @@
                     </div>
                 @endif
                 <div class="p-6 text-gray-900 dark:text-gray-100">
-                    <h2 class="text-2xl font-semibold">NU Subject List</h2>
+                    <h2 class="text-2xl font-semibold">NU Subject List  {{ $totalSubjects }}</h2>
                     <div class="flex justify-end mb-4">
                         <a href="{{ route('nu-subject.create') }}" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Add Subject</a>
                     </div>
