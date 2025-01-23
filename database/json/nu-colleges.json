@@ -2,914 +2,572 @@
     {
         "college_code": "0101",
         "college_name": "GOVT. P. C. COLLEGE",
-        "email": "pccollege1918@gmail.com",
-        "id": 165,
-        "role": "user",
-        "approved": "1"
+        "email": "pccollege1918@gmail.com"
     },
     {
         "college_code": "0102",
         "college_name": "SHERE BANGLA COLLEGE",
-        "email": "sherebanglacollege@gmail.com",
-        "id": 978,
-        "role": "user",
-        "approved": "1"
+        "email": "sherebanglacollege@gmail.com"
     },
     {
         "college_code": "0103",
         "college_name": "BAGERHAT GOVT. MAHILA COLLEGE",
-        "email": "bgg.coll@gmail.com",
-        "id": 915,
-        "role": "user",
-        "approved": "1"
+        "email": "bgg.coll@gmail.com"
     },
     {
         "college_code": "0104",
         "college_name": "RAMPAL GOVT. COLLEGE",
-        "email": "collegerampal@gmail.com",
-        "id": 445,
-        "role": "user",
-        "approved": "1"
+        "email": "collegerampal@gmail.com"
     },
     {
         "college_code": "0105",
         "college_name": "GILATALA ABUL KALAM COLLEGE",
-        "email": "AKC_GILATALA@YAHOO.COM",
-        "id": 1171,
-        "role": "user",
-        "approved": "1"
+        "email": "AKC_GILATALA@YAHOO.COM"
     },
     {
         "college_code": "0106",
         "college_name": "MORELGANJ SIRAJUDDIN MEMO. COLLEGE",
-        "email": "smcollege68@gmail.com",
-        "id": 1393,
-        "role": "user",
-        "approved": "1"
+        "email": "smcollege68@gmail.com"
     },
     {
         "college_code": "0107",
         "college_name": "KAZI AZHAR ALI COLLEGE",
-        "email": "kaacprincipal@gmail.com",
-        "id": 583,
-        "role": "user",
-        "approved": "1"
+        "email": "kaacprincipal@gmail.com"
     },
     {
         "college_code": "0108",
         "college_name": "KHALILUR RAHMAN COLLEGE",
-        "email": "azadkrc@yahoo.com",
-        "id": 248,
-        "role": "user",
-        "approved": "1"
+        "email": "azadkrc@yahoo.com"
     },
     {
         "college_code": "0109",
         "college_name": "SHARANKHOLA DEGREE COLLEGE",
-        "email": "shorankholacollege78@gmail.com",
-        "id": 1003,
-        "role": "user",
-        "approved": "1"
+        "email": "shorankholacollege78@gmail.com"
     },
     {
         "college_code": "0110",
         "college_name": "MONGLA GOVT. COLLEGE",
-        "email": "collegemongla@yahoo.com",
-        "id": 387,
-        "role": "user",
-        "approved": "1"
+        "email": "collegemongla@yahoo.com"
     },
     {
         "college_code": "0111",
         "college_name": "ROWSHAN ARA SMRITI MAHILA COLLEGE",
-        "email": "rowshanaramemorialwomencollege@yahoo.com",
-        "id": 1945,
-        "role": "user",
-        "approved": "1"
+        "email": "rowshanaramemorialwomencollege@yahoo.com"
     },
     {
         "college_code": "0112",
         "college_name": "KACHUA COLLEGE",
-        "email": "kachuadegreecollege@gmail.com",
-        "id": 1601,
-        "role": "user",
-        "approved": "1"
+        "email": "kachuadegreecollege@gmail.com"
     },
     {
         "college_code": "0113",
         "college_name": "SUNDARBAN MAHILA COLLEGE",
-        "email": "sundarbanmc@gmail.com",
-        "id": 412,
-        "role": "user",
-        "approved": "1"
+        "email": "sundarbanmc@gmail.com"
     },
     {
         "college_code": "0114",
         "college_name": "GOVT. FAKIRHAT FAZILATUNNESSA MUJIB MAHILA COLLEGE",
-        "email": "principalffmmc@gmail.com",
-        "id": 485,
-        "role": "user",
-        "approved": "1"
+        "email": "principalffmmc@gmail.com"
     },
     {
         "college_code": "0115",
         "college_name": "A. R. KHAN DEGREE COLLEGE",
-        "email": "arkhandegreecollege@gmail.com",
-        "id": 1474,
-        "role": "user",
-        "approved": "1"
+        "email": "arkhandegreecollege@gmail.com"
     },
     {
         "college_code": "0116",
         "college_name": "SHAHID SMRITI COLLEGE",
-        "email": "shaheedsmritidegreecollege@ymail.com",
-        "id": 1188,
-        "role": "user",
-        "approved": "1"
+        "email": "shaheedsmritidegreecollege@ymail.com"
     },
     {
         "college_code": "0117",
         "college_name": "GOVT. SHAHID SHEIKH ABU NASER MAHILA COLLEGE",
-        "email": "ssanmd.college@yahoo.com",
-        "id": 1404,
-        "role": "user",
-        "approved": "1"
+        "email": "ssanmd.college@yahoo.com"
     },
     {
         "college_code": "0118",
         "college_name": "DIGRAJ DEGREE MAHAVIDYALAYA",
-        "email": "collegedigraj@yahoo.com",
-        "id": 439,
-        "role": "user",
-        "approved": "1"
+        "email": "collegedigraj@yahoo.com"
     },
     {
         "college_code": "0119",
         "college_name": "BAGERHAT LAW COLLEGE",
-        "email": "cwbg.bd@gmail.com",
-        "id": 2608,
-        "role": "user",
-        "approved": "1"
+        "email": "cwbg.bd@gmail.com"
     },
     {
         "college_code": "0120",
         "college_name": "D. MIA ABBAS UDDIN TEACHERS' TRAINING COLLEGE",
-        "email": "dmattc02@gmail.com",
-        "id": 2246,
-        "role": "user",
-        "approved": "1"
+        "email": "dmattc02@gmail.com"
     },
     {
         "college_code": "0121",
         "college_name": "GOVT. PHYSICAL EDUCATION COLLEGE",
-        "email": "kpec_ds@yahoo.com",
-        "id": 2401,
-        "role": "user",
-        "approved": "1"
+        "email": "kpec_ds@yahoo.com"
     },
     {
         "college_code": "0122",
         "college_name": "BELAYET HOSSAIN DEGREE COLLEGE",
-        "email": "belayethossain.college@yahoo.com",
-        "id": 351,
-        "role": "user",
-        "approved": "1"
+        "email": "belayethossain.college@yahoo.com"
     },
     {
         "college_code": "0125",
         "college_name": "SALIMABAD DEGREE COLLEGE",
-        "email": "salimabaddegreecollege@gmail.com",
-        "id": 1822,
-        "role": "user",
-        "approved": "1"
+        "email": "salimabaddegreecollege@gmail.com"
     },
     {
         "college_code": "0126",
         "college_name": "SHEIKH HELAL UDDIN GOVT. COLLEGE",
-        "email": "sk.helaluddincollege@gmail.com",
-        "id": 1484,
-        "role": "user",
-        "approved": "1"
+        "email": "sk.helaluddincollege@gmail.com"
     },
     {
         "college_code": "0127",
         "college_name": "KALIDAS BARAL SMRITI COLLEGE",
-        "email": "kalidasbaralsmriticollege@gmail.com",
-        "id": 979,
-        "role": "user",
-        "approved": "1"
+        "email": "kalidasbaralsmriticollege@gmail.com"
     },
     {
         "college_code": "0128",
         "college_name": "GOVT. BANGABANDHU MOHILA COLLEGE",
-        "email": "bbmcc95@gmail.com",
-        "id": 891,
-        "role": "user",
-        "approved": "1"
+        "email": "bbmcc95@gmail.com"
     },
     {
         "college_code": "0129",
         "college_name": "KHAN JAHAN ALI COLLEGE",
-        "email": "college1979@gmail.com",
-        "id": 1533,
-        "role": "user",
-        "approved": "1"
+        "email": "college1979@gmail.com"
     },
     {
         "college_code": "0130",
         "college_name": "BANGABANDHU MOHILA GOVT. COLLEGE",
-        "email": "bmc_mongla@yahoo.com",
-        "id": 1987,
-        "role": "user",
-        "approved": "1"
+        "email": "bmc_mongla@yahoo.com"
     },
     {
         "college_code": "0131",
         "college_name": "MATREEBHASHA COLLEGE",
-        "email": "matreebhashacollege@gmail.com",
-        "id": 2606,
-        "role": "user",
-        "approved": "1"
+        "email": "matreebhashacollege@gmail.com"
     },
     {
         "college_code": "0132",
         "college_name": "MA BABAR RHIN COLLEGE",
-        "email": "mbrcollege478@gmail.com",
-        "id": 2615,
-        "role": "user",
-        "approved": "1"
+        "email": "mbrcollege478@gmail.com"
     },
     {
         "college_code": "0133",
         "college_name": "LAILA AZAD COLLEGE",
-        "email": "lailaazadcollege@gmail.com",
-        "id": 2780,
-        "role": "user",
-        "approved": "1"
+        "email": "lailaazadcollege@gmail.com"
     },
     {
         "college_code": "0201",
         "college_name": "SATKHIRA GOVT. COLLEGE",
-        "email": "satkhiragovtcollege@yahoo.com",
-        "id": 383,
-        "role": "user",
-        "approved": "1"
+        "email": "satkhiragovtcollege@yahoo.com"
     },
     {
         "college_code": "0202",
         "college_name": "SATKHIRA DAY\/NIGHT COLLEGE",
-        "email": "admin@sdncollege.org",
-        "id": 957,
-        "role": "user",
-        "approved": "1"
+        "email": "admin@sdncollege.org"
     },
     {
         "college_code": "0203",
         "college_name": "SATKHIRA CITY COLLEGE",
-        "email": "satkhiracitycollege@gmail.com",
-        "id": 639,
-        "role": "user",
-        "approved": "1"
+        "email": "satkhiracitycollege@gmail.com"
     },
     {
         "college_code": "0204",
         "college_name": "SATKHIRA GOVT. MAHILA COLLEGE",
-        "email": "satgmc0204@gmail.com",
-        "id": 358,
-        "role": "user",
-        "approved": "1"
+        "email": "satgmc0204@gmail.com"
     },
     {
         "college_code": "0205",
         "college_name": "KUMIRA MAHILA DEGREE COLLEGE",
-        "email": "kumiramahiladegreecollege@gmail.com",
-        "id": 126,
-        "role": "user",
-        "approved": "1"
+        "email": "kumiramahiladegreecollege@gmail.com"
     },
     {
         "college_code": "0206",
         "college_name": "ASSASUNI GOVERNMENT COLLEGE",
-        "email": "collegeassasuni@yahoo.com",
-        "id": 375,
-        "role": "user",
-        "approved": "1"
+        "email": "collegeassasuni@yahoo.com"
     },
     {
         "college_code": "0207",
         "college_name": "SHAYMNAGAR GOVT. MOHSIN COLLEGE",
-        "email": "principalsmc2015@yahoo.com",
-        "id": 421,
-        "role": "user",
-        "approved": "1"
+        "email": "principalsmc2015@yahoo.com"
     },
     {
         "college_code": "0208",
         "college_name": "KALIGANJ GOVT. COLLEGE",
-        "email": "kaliganjgovt.college@gmail.com",
-        "id": 1291,
-        "role": "user",
-        "approved": "1"
+        "email": "kaliganjgovt.college@gmail.com"
     },
     {
         "college_code": "0209",
         "college_name": "KOLAROA GOVT. COLLEGE",
-        "email": "Kalaroagc09@gmail.com",
-        "id": 857,
-        "role": "user",
-        "approved": "1"
+        "email": "Kalaroagc09@gmail.com"
     },
     {
         "college_code": "0210",
         "college_name": "GOVT. KHAN BAHADUR AHSANULLAH COLLEGE",
-        "email": "kbacollege@gmail.com",
-        "id": 570,
-        "role": "user",
-        "approved": "1"
+        "email": "kbacollege@gmail.com"
     },
     {
         "college_code": "0211",
         "college_name": "TALA GOVT. COLLEGE",
-        "email": "talagovtcollege@gmail.com",
-        "id": 1794,
-        "role": "user",
-        "approved": "1"
+        "email": "talagovtcollege@gmail.com"
     },
     {
         "college_code": "0212",
         "college_name": "MUNSHIGONG COLLEGE",
-        "email": "munshigonjcollege@gmail.com",
-        "id": 1936,
-        "role": "user",
-        "approved": "1"
+        "email": "munshigonjcollege@gmail.com"
     },
     {
         "college_code": "0213",
         "college_name": "BHALUKA CHANDPUR ADRASHA DEGREE COLLEGE",
-        "email": "bcac.college1994@gmail.com",
-        "id": 1545,
-        "role": "user",
-        "approved": "1"
+        "email": "bcac.college1994@gmail.com"
     },
     {
         "college_code": "0214",
         "college_name": "SHIMANTA ADARSHA COLLEGE",
-        "email": "sacms1997@gmail.com",
-        "id": 722,
-        "role": "user",
-        "approved": "1"
+        "email": "sacms1997@gmail.com"
     },
     {
         "college_code": "0215",
         "college_name": "RAHIMA EZAHAR MEMORIAL B. ED. COLLEGE",
-        "email": "don506011@gmail.com",
-        "id": 2291,
-        "role": "user",
-        "approved": "1"
+        "email": "don506011@gmail.com"
     },
     {
         "college_code": "0216",
         "college_name": "NALTA AHSANIA MISSION RESIDENTIAL COLLEGE",
-        "email": "naltaamr.college@yahoo.com",
-        "id": 782,
-        "role": "user",
-        "approved": "1"
+        "email": "naltaamr.college@yahoo.com"
     },
     {
         "college_code": "0217",
         "college_name": "SUNDERBAN SCIENCE AND BUSINESS COLLEGE",
-        "email": "sunderbanbusinesscollege@yahoo.com",
-        "id": 2209,
-        "role": "user",
-        "approved": "1"
+        "email": "sunderbanbusinesscollege@yahoo.com"
     },
     {
         "college_code": "0218",
         "college_name": "BANGABONDHU MOHILA COLLEGE",
-        "email": "bmckalaroa1994@gmail.com",
-        "id": 1663,
-        "role": "user",
-        "approved": "1"
+        "email": "bmckalaroa1994@gmail.com"
     },
     {
         "college_code": "0219",
         "college_name": "KAZIRHAT COLLEGE",
-        "email": "kazirhatcollege@yahoo.com",
-        "id": 2062,
-        "role": "user",
-        "approved": "1"
+        "email": "kazirhatcollege@yahoo.com"
     },
     {
         "college_code": "0220",
         "college_name": "SHALIKHA COLLEGE",
-        "email": "shalikha_college1@yahoo.com",
-        "id": 1716,
-        "role": "user",
-        "approved": "1"
+        "email": "shalikha_college1@yahoo.com"
     },
     {
         "college_code": "0236",
         "college_name": "SHEIKH AMANULLAH DEGREE COLLEGE",
-        "email": "skamanullahcollege@gmail.com",
-        "id": 134,
-        "role": "user",
-        "approved": "1"
+        "email": "skamanullahcollege@gmail.com"
     },
     {
         "college_code": "0237",
         "college_name": "SHAHID SMRITI COLLEGE",
-        "email": "shahidsmriti0237@gmail.com",
-        "id": 852,
-        "role": "user",
-        "approved": "1"
+        "email": "shahidsmriti0237@gmail.com"
     },
     {
         "college_code": "0238",
         "college_name": "ROKEYA MANSUR MAHILA COLLEGE",
-        "email": "rmmcollege@yahoo.com",
-        "id": 575,
-        "role": "user",
-        "approved": "1"
+        "email": "rmmcollege@yahoo.com"
     },
     {
         "college_code": "0239",
         "college_name": "SHAMNAGAR ATARJAN MOHILA COLLEGE",
-        "email": "atarjancollege@gmail.com",
-        "id": 1109,
-        "role": "user",
-        "approved": "1"
+        "email": "atarjancollege@gmail.com"
     },
     {
         "college_code": "0240",
         "college_name": "TALA MOHILA COLLEGE",
-        "email": "talamohilacollege@gmail.com",
-        "id": 1569,
-        "role": "user",
-        "approved": "1"
+        "email": "talamohilacollege@gmail.com"
     },
     {
         "college_code": "0241",
         "college_name": "HAJI KEYAMUDDIN MEMORIAL MOHILA COLLEGE",
-        "email": "hkmmcollege@gmail.com",
-        "id": 1911,
-        "role": "user",
-        "approved": "1"
+        "email": "hkmmcollege@gmail.com"
     },
     {
         "college_code": "0242",
         "college_name": "KATUNIA RAJBARI COLLEGE",
-        "email": "krdc1995@gmail.com",
-        "id": 1349,
-        "role": "user",
-        "approved": "1"
+        "email": "krdc1995@gmail.com"
     },
     {
         "college_code": "0243",
         "college_name": "SHAHEED MUKTIJODHYA MAHABIDYALYA",
-        "email": "smcollege.tala@gmail.com",
-        "id": 1560,
-        "role": "user",
-        "approved": "1"
+        "email": "smcollege.tala@gmail.com"
     },
     {
         "college_code": "0244",
         "college_name": "NAWABENKI COLLEGE",
-        "email": "nowabenkicollege@yahoo.com",
-        "id": 1828,
-        "role": "user",
-        "approved": "1"
+        "email": "nowabenkicollege@yahoo.com"
     },
     {
         "college_code": "0245",
         "college_name": "SAFURANNESSA MOHILA COLLEGE",
-        "email": "safurannessamohalacollege@yahoo.com",
-        "id": 2045,
-        "role": "user",
-        "approved": "1"
+        "email": "safurannessamohalacollege@yahoo.com"
     },
     {
         "college_code": "0246",
         "college_name": "SATKHIRA LAW COLLEGE",
-        "email": "slc_haider@yahoo.com",
-        "id": 2204,
-        "role": "user",
-        "approved": "1"
+        "email": "slc_haider@yahoo.com"
     },
     {
         "college_code": "0247",
         "college_name": "KALARUA SHIKKHAK PROSHIKHAN COLLEGE, KALARUA",
-        "email": "kalaroabedcollege@gmail.com",
-        "id": 2433,
-        "role": "user",
-        "approved": "1"
+        "email": "kalaroabedcollege@gmail.com"
     },
     {
         "college_code": "0249",
         "college_name": "A. P. S. MAHABIDDALOY",
-        "email": "apscollege1999@gmail.com",
-        "id": 1610,
-        "role": "user",
-        "approved": "1"
+        "email": "apscollege1999@gmail.com"
     },
     {
         "college_code": "0250",
         "college_name": "SUNDARBON SHIKKHOK PROSHIKHAN COLLEGE",
-        "email": "sunderbonttcollege@yahoo.com",
-        "id": 2274,
-        "role": "user",
-        "approved": "1"
+        "email": "sunderbonttcollege@yahoo.com"
     },
     {
         "college_code": "0251",
         "college_name": "KALARUA PHYSICAL EDUCATION COLLEGE",
-        "email": "kalaroabpedcollege@gmail.com",
-        "id": 2434,
-        "role": "user",
-        "approved": "1"
+        "email": "kalaroabpedcollege@gmail.com"
     },
     {
         "college_code": "0252",
         "college_name": "ADVOCATE ABDUR RAHMAN COLLEGE, BINERPOTA",
-        "email": "adv.abdurrahmancollege@gmail.com",
-        "id": 1627,
-        "role": "user",
-        "approved": "1"
+        "email": "adv.abdurrahmancollege@gmail.com"
     },
     {
         "college_code": "0253",
         "college_name": "KAZI ALAUDDIN DEGREE COLLEGE",
-        "email": "kazialauddindegreecollege@gmail.com",
-        "id": 1561,
-        "role": "user",
-        "approved": "1"
+        "email": "kazialauddindegreecollege@gmail.com"
     },
     {
         "college_code": "0254",
         "college_name": "DEBHATA COLLEGE",
-        "email": "debhatacollegedebhata@gmail.com",
-        "id": 381,
-        "role": "user",
-        "approved": "1"
+        "email": "debhatacollegedebhata@gmail.com"
     },
     {
         "college_code": "0255",
         "college_name": "JHAUDANGA COLLEGE",
-        "email": "jhaudangacollege@yahoo.com",
-        "id": 641,
-        "role": "user",
-        "approved": "1"
+        "email": "jhaudangacollege@yahoo.com"
     },
     {
         "college_code": "0256",
         "college_name": "HAZI WAZED ALI TEACHERS' TRAINING COLLEGE",
-        "email": "hwattc@gmail.com",
-        "id": 2366,
-        "role": "user",
-        "approved": "1"
+        "email": "hwattc@gmail.com"
     },
     {
         "college_code": "0257",
         "college_name": "ASSASUNI MOHILLA COLLEGE",
-        "email": "assasunimohilacollege@gmail.com",
-        "id": 1850,
-        "role": "user",
-        "approved": "1"
+        "email": "assasunimohilacollege@gmail.com"
     },
     {
         "college_code": "0258",
         "college_name": "PATKELGHAT HARUN-OR-RASHID COLLEGE",
-        "email": "phrcollegesatkhira@gmail.com",
-        "id": 1335,
-        "role": "user",
-        "approved": "1"
+        "email": "phrcollegesatkhira@gmail.com"
     },
     {
         "college_code": "0259",
         "college_name": "SHUVASHINI DEGREE COLLEGE",
-        "email": "shuvashinicollege@gmail.com",
-        "id": 1321,
-        "role": "user",
-        "approved": "1"
+        "email": "shuvashinicollege@gmail.com"
     },
     {
         "college_code": "0260",
         "college_name": "HAZI NASIRUDDIN COLLEGE",
-        "email": "biplob_hnc@yahoo.com",
-        "id": 1685,
-        "role": "user",
-        "approved": "1"
+        "email": "biplob_hnc@yahoo.com"
     },
     {
         "college_code": "0261",
         "college_name": "SONAR BANGLA COLLEGE",
-        "email": "sonarbangladegreecollege14@yahoo.com",
-        "id": 849,
-        "role": "user",
-        "approved": "1"
+        "email": "sonarbangladegreecollege14@yahoo.com"
     },
     {
         "college_code": "0262",
         "college_name": "SHAHEED ZIAUR RAHMAN DEGREE COLLEGE",
-        "email": "degreecollege4951@gmail.com",
-        "id": 1998,
-        "role": "user",
-        "approved": "1"
+        "email": "degreecollege4951@gmail.com"
     },
     {
         "college_code": "0263",
         "college_name": "BEGUM KHALEDA ZIA COLLEGE",
-        "email": "begumziacollege@gmail.com",
-        "id": 1832,
-        "role": "user",
-        "approved": "1"
+        "email": "begumziacollege@gmail.com"
     },
     {
         "college_code": "0264",
         "college_name": "BOALIA MUKTIJODDAH COLLEGE",
-        "email": "pr.faruk.059@gmail.com",
-        "id": 2187,
-        "role": "user",
-        "approved": "1"
+        "email": "pr.faruk.059@gmail.com"
     },
     {
         "college_code": "0265",
         "college_name": "DRM UNITED IDEAL COLLEGE",
-        "email": "drmuic@gmail.com",
-        "id": 2499,
-        "role": "user",
-        "approved": "1"
+        "email": "drmuic@gmail.com"
     },
     {
         "college_code": "0266",
         "college_name": "SUNDARBAN COLLEGE OF TECHNOLOGY",
-        "email": "sundarbancollegetech@gmail.com",
-        "id": 2626,
-        "role": "user",
-        "approved": "1"
+        "email": "sundarbancollegetech@gmail.com"
     },
     {
         "college_code": "0267",
         "college_name": "COLLEGE OF EDUCATION",
-        "email": "collegeofeducationsatkhira@gmail.com",
-        "id": 2577,
-        "role": "user",
-        "approved": "1"
+        "email": "collegeofeducationsatkhira@gmail.com"
     },
     {
         "college_code": "0268",
         "college_name": "CHANDANPUR UNITED COLLEGE",
-        "email": "chandanpurunitedcollege@gmail.com",
-        "id": 2740,
-        "role": "user",
-        "approved": "1"
+        "email": "chandanpurunitedcollege@gmail.com"
     },
     {
         "college_code": "0307",
         "college_name": "RAYERMOHAL COLLEGE",
-        "email": "rayermohalcollege2022@gmail.com",
-        "id": 1934,
-        "role": "user",
-        "approved": "1"
+        "email": "rayermohalcollege2022@gmail.com"
     },
     {
         "college_code": "0308",
         "college_name": "METROPOLITAN COLLEGE",
-        "email": "mpck308@gmail.com",
-        "id": 1990,
-        "role": "user",
-        "approved": "1"
+        "email": "mpck308@gmail.com"
     },
     {
         "college_code": "0309",
         "college_name": "KHANJAHAN ALI COLLEGE OF SCIENCE & TECHNOLOGY",
-        "email": "khanjahanali.kln@gmail.com",
-        "id": 2194,
-        "role": "user",
-        "approved": "1"
+        "email": "khanjahanali.kln@gmail.com"
     },
     {
         "college_code": "0310",
         "college_name": "KOYRA GOVERNMENT MOHILA COLLEGE",
-        "email": "koyramohilacollege@gmail.com",
-        "id": 871,
-        "role": "user",
-        "approved": "1"
+        "email": "koyramohilacollege@gmail.com"
     },
     {
         "college_code": "0311",
         "college_name": "ALAIPUR COLLEGE",
-        "email": "apcrupshakhl@gmail.com",
-        "id": 593,
-        "role": "user",
-        "approved": "1"
+        "email": "apcrupshakhl@gmail.com"
     },
     {
         "college_code": "0312",
         "college_name": "KHULNA GOVT. MAHILA COLLEGE",
-        "email": "kgcprin.ad@gmail.com",
-        "id": 802,
-        "role": "user",
-        "approved": "1"
+        "email": "kgcprin.ad@gmail.com"
     },
     {
         "college_code": "0313",
         "college_name": "AZAM KHAN GOVT. COMMERCE COLLEGE",
-        "email": "azamkhancollege@yahoo.com",
-        "id": 611,
-        "role": "user",
-        "approved": "1"
+        "email": "azamkhancollege@yahoo.com"
     },
     {
         "college_code": "0314",
         "college_name": "AHSANULLAH COLLEGE",
-        "email": "ahsanullahcollege@yahoo.com",
-        "id": 1079,
-        "role": "user",
-        "approved": "1"
+        "email": "ahsanullahcollege@yahoo.com"
     },
     {
         "college_code": "0315",
         "college_name": "GOVT. SUNDARBAN ADARSHA COLLEGE",
-        "email": "govt.sundarban.ac@gmail.com",
-        "id": 107,
-        "role": "user",
-        "approved": "1"
+        "email": "govt.sundarban.ac@gmail.com"
     },
     {
         "college_code": "0316",
         "college_name": "GOVT. M. M. CITY COLLEGE",
-        "email": "mmcitycollege.khulna@yahoo.com",
-        "id": 104,
-        "role": "user",
-        "approved": "1"
+        "email": "mmcitycollege.khulna@yahoo.com"
     },
     {
         "college_code": "0317",
         "college_name": "SHAHID SUHRAWARDI COLLEGE",
-        "email": "khulnasscollege@gmail.com",
-        "id": 352,
-        "role": "user",
-        "approved": "1"
+        "email": "khulnasscollege@gmail.com"
     },
     {
         "college_code": "0318",
         "college_name": "RUPSHA COLLEGE",
-        "email": "rupshacollege.khulna@yahoo.com",
-        "id": 902,
-        "role": "user",
-        "approved": "1"
+        "email": "rupshacollege.khulna@yahoo.com"
     },
     {
         "college_code": "0319",
         "college_name": "PIONEER GOVERNMENT MAHILA COLLEGE",
-        "email": "girlscollegepioneer@gmail.com",
-        "id": 942,
-        "role": "user",
-        "approved": "1"
+        "email": "girlscollegepioneer@gmail.com"
     },
     {
         "college_code": "0320",
         "college_name": "HAJI ABDUL MALEK ISLAMIA COLLEGE",
-        "email": "hmicprincipal27@gmail.com",
-        "id": 1117,
-        "role": "user",
-        "approved": "1"
+        "email": "hmicprincipal27@gmail.com"
     },
     {
         "college_code": "0321",
         "college_name": "GOVT. HAJI MD. MOHSIN COLLEGE",
-        "email": "moshincollege.khalishpur_khulna@yahoo.com",
-        "id": 270,
-        "role": "user",
-        "approved": "1"
+        "email": "moshincollege.khalishpur_khulna@yahoo.com"
     },
     {
         "college_code": "0322",
         "college_name": "GOVT. B. L. COLLEGE",
-        "email": "infoblcollege@gmail.com",
-        "id": 702,
-        "role": "user",
-        "approved": "1"
+        "email": "infoblcollege@gmail.com"
     },
     {
         "college_code": "0323",
         "college_name": "MOHSIN MAHILA COLLEGE",
-        "email": "muhsingirlscollege@yahoo.com",
-        "id": 179,
-        "role": "user",
-        "approved": "1"
+        "email": "muhsingirlscollege@yahoo.com"
     },
     {
         "college_code": "0324",
         "college_name": "DAULATPUR DAY\/NIGHT COLLEGE",
-        "email": "daulatpurcollegedn@yahoo.com",
-        "id": 776,
-        "role": "user",
-        "approved": "1"
+        "email": "daulatpurcollegedn@yahoo.com"
     },
     {
         "college_code": "0325",
         "college_name": "BAJUA SURENDRANATH COLLEGE",
-        "email": "bajuasurendranathcollege@gmail.com",
-        "id": 765,
-        "role": "user",
-        "approved": "1"
+        "email": "bajuasurendranathcollege@gmail.com"
     },
     {
         "college_code": "0326",
         "college_name": "GOVT. M. A. MAJID COLLEGE",
-        "email": "mamazid.dc.86@gmail.com",
-        "id": 1787,
-        "role": "user",
-        "approved": "1"
+        "email": "mamazid.dc.86@gmail.com"
     },
     {
         "college_code": "0327",
         "college_name": "GOVT. NORTH KHULNA COLLEGE",
-        "email": "northkhulnacollege@gmail.com",
-        "id": 156,
-        "role": "user",
-        "approved": "1"
+        "email": "northkhulnacollege@gmail.com"
     },
     {
         "college_code": "0328",
         "college_name": "DUMURIA COLLEGE",
-        "email": "dumuriacollege@gmail.com",
-        "id": 938,
-        "role": "user",
-        "approved": "1"
+        "email": "dumuriacollege@gmail.com"
     },
     {
         "college_code": "0329",
         "college_name": "GOVT. BATIAGHATA DEGREE COLLEGE",
-        "email": "batiaghatacollege@yahoo.com",
-        "id": 1312,
-        "role": "user",
-        "approved": "1"
+        "email": "batiaghatacollege@yahoo.com"
     },
     {
         "college_code": "0330",
         "college_name": "GOVT. SHAHPUR MADHUGRAM COLLEGE",
-        "email": "smc.principal@yahoo.com",
-        "id": 1237,
-        "role": "user",
-        "approved": "1"
+        "email": "smc.principal@yahoo.com"
     },
     {
         "college_code": "0331",
         "college_name": "FULTALA M. M. COLLEGE",
-        "email": "phummcollege@gmail.com",
-        "id": 1415,
-        "role": "user",
-        "approved": "1"
+        "email": "phummcollege@gmail.com"
     },
     {
         "college_code": "0332",
         "college_name": "PAIKGACHA GOVT. COLLEGE",
-        "email": "0332PC@GMAIL.COM",
-        "id": 1021,
-        "role": "user",
-        "approved": "1"
+        "email": "0332PC@GMAIL.COM"
     },
     {
         "college_code": "0333",
         "college_name": "KAPILMUNI COLLEGE",
-        "email": "collegekapilmuni@gmail.com",
-        "id": 1596,
-        "role": "user",
-        "approved": "1"
+        "email": "collegekapilmuni@gmail.com"
     },
     {
         "college_code": "0334",
         "college_name": "GOVT. BANGABANDHU COLLEGE",
-        "email": "info.bbckhl@gmail.com",
-        "id": 353,
-        "role": "user",
-        "approved": "1"
+        "email": "info.bbckhl@gmail.com"
     },
     {
         "college_code": "0335",
         "college_name": "ALHAJ SARWAR KHAN COLLEGE",
-        "email": "SKCOLLEGE92@GMAIL.COM",
-        "id": 588,
-        "role": "user",
-        "approved": "1"
+        "email": "SKCOLLEGE92@GMAIL.COM"
     },
     {
         "college_code": "0336",
         "college_name": "SABURANNESA MAHILA COLLEGE",
-        "email": "soburannesamohilacollege@gmail.com",
-        "id": 680,
-        "role": "user",
-        "approved": "1"
+        "email": "soburannesamohilacollege@gmail.com"
     },
     {
         "college_code": "0337",
         "college_name": "FASIAR RAHMAN MAHILA COLLEGE",
-        "email": "frwcspk@gmail.com",
-        "id": 1290,
-        "role": "user",
-        "approved": "1"
+        "email": "frwcspk@gmail.com"
     },
     {
         "college_code": "0338",
@@ -13546,146 +13204,92 @@
     {
         "college_code": "5001",
         "college_name": "GOVT. ASHEK MAHMUD COLLEGE",
-        "email": "ashekmahmudcollege@gmail.com",
-        "id": 1310,
-        "role": "user",
-        "approved": "1"
+        "email": "ashekmahmudcollege@gmail.com"
     },
     {
         "college_code": "5002",
         "college_name": "MADARGANJ A. H. Z. GOVT. COLLEGE",
-        "email": "mahzgovcollege@yahoo.com",
-        "id": 1266,
-        "role": "user",
-        "approved": "1"
+        "email": "mahzgovcollege@yahoo.com"
     },
     {
         "college_code": "5003",
         "college_name": "MELANDAH GOVT. COLLEGE",
-        "email": "govt.melandahcollege@gmail.com",
-        "id": 269,
-        "role": "user",
-        "approved": "1"
+        "email": "govt.melandahcollege@gmail.com"
     },
     {
         "college_code": "5004",
         "college_name": "JAHEDA SAFIR MAHILA COLLEGE",
-        "email": "gzsmc.jamalpur@gmail.com",
-        "id": 1065,
-        "role": "user",
-        "approved": "1"
+        "email": "gzsmc.jamalpur@gmail.com"
     },
     {
         "college_code": "5005",
         "college_name": "NANDINA SK. ANOWER HOSSAIN COLLEGE",
-        "email": "nandinasahcollege5005@gmail.com",
-        "id": 1558,
-        "role": "user",
-        "approved": "1"
+        "email": "nandinasahcollege5005@gmail.com"
     },
     {
         "college_code": "5006",
         "college_name": "GOVT.  ABDUL KHALEK MEMORIAL COLLEGE",
-        "email": "akmemorialcollege@gmail.com",
-        "id": 728,
-        "role": "user",
-        "approved": "1"
+        "email": "akmemorialcollege@gmail.com"
     },
     {
         "college_code": "5007",
         "college_name": "SANONDABARI COLLEGE",
-        "email": "ahalim.akanda@gmail.com",
-        "id": 1646,
-        "role": "user",
-        "approved": "1"
+        "email": "ahalim.akanda@gmail.com"
     },
     {
         "college_code": "5008",
         "college_name": "GOVT. ISLAMPUR COLLEGE",
-        "email": "islampurcollege@yahoo.com",
-        "id": 164,
-        "role": "user",
-        "approved": "1"
+        "email": "islampurcollege@yahoo.com"
     },
     {
         "college_code": "5009",
         "college_name": "SHARISABARI MAHMUDA SALAM MOHILA COLLEGE",
-        "email": "principalsmmc@gmail.com",
-        "id": 1277,
-        "role": "user",
-        "approved": "1"
+        "email": "principalsmmc@gmail.com"
     },
     {
         "college_code": "5010",
         "college_name": "SUJAT ALI COLLEGE, PINGNA",
-        "email": "sujatalicollege@gmail.com",
-        "id": 527,
-        "role": "user",
-        "approved": "1"
+        "email": "sujatalicollege@gmail.com"
     },
     {
         "college_code": "5011",
         "college_name": "SARISHABARI COLLEGE",
-        "email": "principalsbaricollege@gmail.com",
-        "id": 814,
-        "role": "user",
-        "approved": "1"
+        "email": "principalsbaricollege@gmail.com"
     },
     {
         "college_code": "5012",
         "college_name": "BAKSHIGANJ KEAMATULLAH GOVT. COLLEGE",
-        "email": "bakshiganjkuc@ymail.com",
-        "id": 1550,
-        "role": "user",
-        "approved": "1"
+        "email": "bakshiganjkuc@ymail.com"
     },
     {
         "college_code": "5013",
         "college_name": "NURUNNAHAR MIRZA KASEM MAHILA COLLEGE",
-        "email": "nmkmohilacollege@yahoo.com",
-        "id": 1526,
-        "role": "user",
-        "approved": "1"
+        "email": "nmkmohilacollege@yahoo.com"
     },
     {
         "college_code": "5014",
         "college_name": "JAHANARA LATIF MAHILA COLLEGE",
-        "email": "jlmcmelandah@yahoo.com",
-        "id": 869,
-        "role": "user",
-        "approved": "1"
+        "email": "jlmcmelandah@yahoo.com"
     },
     {
         "college_code": "5015",
         "college_name": "JHOWLA GUPALPUR COLLEGE",
-        "email": "c5015@nu.ac.bd",
-        "id": 1639,
-        "role": "user",
-        "approved": "1"
+        "email": "c5015@nu.ac.bd"
     },
     {
         "college_code": "5016",
         "college_name": "HAZRABARI SERAJUL HUQ COLLEGE",
-        "email": "hshdcollege@yahoo.com",
-        "id": 368,
-        "role": "user",
-        "approved": "1"
+        "email": "hshdcollege@yahoo.com"
     },
     {
         "college_code": "5017",
         "college_name": "ISLAMPUR MD. ABDUS SAMAD- PERVEZ MEMORIAL MOHILA COLLEGE",
-        "email": "samad_parvazmohilacollege@yahoo.com",
-        "id": 348,
-        "role": "user",
-        "approved": "1"
+        "email": "samad_parvazmohilacollege@yahoo.com"
     },
     {
         "college_code": "5018",
         "college_name": "DIGPAIT SHAMSUL HAQ COLLEGE",
-        "email": "digpaitcollege@yahoo.com",
-        "id": 1314,
-        "role": "user",
-        "approved": "1"
+        "email": "digpaitcollege@yahoo.com"
     },
     {
         "college_code": "5019",
@@ -13698,2762 +13302,1727 @@
     {
         "college_code": "5020",
         "college_name": "MIRZA AZAM COLLEGE",
-        "email": "mirzaazamuni@gmail.com",
-        "id": 2004,
-        "role": "user",
-        "approved": "1"
+        "email": "mirzaazamuni@gmail.com"
     },
     {
         "college_code": "5021",
         "college_name": "KHATEMOON MOIN MOHILA COLLEGE",
-        "email": "kmmdc.edu@gmail.com",
-        "id": 215,
-        "role": "user",
-        "approved": "1"
+        "email": "kmmdc.edu@gmail.com"
     },
     {
         "college_code": "5023",
         "college_name": "INSTITUTE OF BUSINESS ADMINISTRATION JAMALPUR",
-        "email": "ibajamalpur87@gmail.com",
-        "id": 2233,
-        "role": "user",
-        "approved": "1"
+        "email": "ibajamalpur87@gmail.com"
     },
     {
         "college_code": "5024",
         "college_name": "SHAHID ZIAUR RAHMAN DEGREE COLLEGE",
-        "email": "shzc.college@yahoo.com",
-        "id": 595,
-        "role": "user",
-        "approved": "1"
+        "email": "shzc.college@yahoo.com"
     },
     {
         "college_code": "5025",
         "college_name": "HABIBUR RAHAMAN COLLEGE",
-        "email": "habiburrahamancollege@gmail.com",
-        "id": 898,
-        "role": "user",
-        "approved": "1"
+        "email": "habiburrahamancollege@gmail.com"
     },
     {
         "college_code": "5026",
         "college_name": "DR. ABDUL MAZID TALUKDER DEGREE COLLEGE",
-        "email": "dr.abdulmojidtalukdercollage@gmail.com",
-        "id": 1317,
-        "role": "user",
-        "approved": "1"
+        "email": "dr.abdulmojidtalukdercollage@gmail.com"
     },
     {
         "college_code": "5027",
         "college_name": "POGALDIGHA COLLEGE",
-        "email": "pogaldighacollege110218@gmail.com",
-        "id": 656,
-        "role": "user",
-        "approved": "1"
+        "email": "pogaldighacollege110218@gmail.com"
     },
     {
         "college_code": "5028",
         "college_name": "KHAWJA SHAH SUFI YUNUS ALI COLLEGE",
-        "email": "khaja.ssucollege@gmail.com",
-        "id": 553,
-        "role": "user",
-        "approved": "1"
+        "email": "khaja.ssucollege@gmail.com"
     },
     {
         "college_code": "5029",
         "college_name": "BANGABANDHU GOVT. COLLEGE JHAWGARA",
-        "email": "bbc110146@gmail.com",
-        "id": 2189,
-        "role": "user",
-        "approved": "1"
+        "email": "bbc110146@gmail.com"
     },
     {
         "college_code": "5030",
         "college_name": "M M MEMORIAL COLLEGE",
-        "email": "mmmemorialcollege109778@gmail.com",
-        "id": 2481,
-        "role": "user",
-        "approved": "1"
+        "email": "mmmemorialcollege109778@gmail.com"
     },
     {
         "college_code": "5031",
         "college_name": "TULSHIPUR COLLEGE",
-        "email": "tulshipurcollege109999@gmail.com",
-        "id": 2492,
-        "role": "user",
-        "approved": "1"
+        "email": "tulshipurcollege109999@gmail.com"
     },
     {
         "college_code": "5032",
         "college_name": "JINNATON AFSOR MOHILA COLLEGE",
-        "email": "jamc109993@gmail.com",
-        "id": 2487,
-        "role": "user",
-        "approved": "1"
+        "email": "jamc109993@gmail.com"
     },
     {
         "college_code": "5101",
         "college_name": "SHERPUR GOVT. COLLEGE",
-        "email": "sgovcollege@yahoo.com",
-        "id": 681,
-        "role": "user",
-        "approved": "1"
+        "email": "sgovcollege@yahoo.com"
     },
     {
         "college_code": "5102",
         "college_name": "GOVT. NAZMUL SMRITI COLLEGE",
-        "email": "nazmulsmritimohabiddyalaya@yahoo.com",
-        "id": 712,
-        "role": "user",
-        "approved": "1"
+        "email": "nazmulsmritimohabiddyalaya@yahoo.com"
     },
     {
         "college_code": "5103",
         "college_name": "GOVT. HAZI JAL MAHMUD COLLEGE",
-        "email": "hjmc71@gmail.com",
-        "id": 1927,
-        "role": "user",
-        "approved": "1"
+        "email": "hjmc71@gmail.com"
     },
     {
         "college_code": "5104",
         "college_name": "SHERPUR MAHILA COLLEGE",
-        "email": "shergmc@gmail.com",
-        "id": 265,
-        "role": "user",
-        "approved": "1"
+        "email": "shergmc@gmail.com"
     },
     {
         "college_code": "5105",
         "college_name": "SRIBORDI GOVT. COLLEGE",
-        "email": "sgcollege09@yahoo.com",
-        "id": 866,
-        "role": "user",
-        "approved": "1"
+        "email": "sgcollege09@yahoo.com"
     },
     {
         "college_code": "5106",
         "college_name": "CHOWDHURY SABRUNNESSA MAHILA COLLEGE",
-        "email": "csncnakla@yahoo.com",
-        "id": 1737,
-        "role": "user",
-        "approved": "1"
+        "email": "csncnakla@yahoo.com"
     },
     {
         "college_code": "5107",
         "college_name": "NALITABARI SHAHID ABDUR RASHID MOHILA COLLEGE",
-        "email": "nsarmc@gmail.com",
-        "id": 628,
-        "role": "user",
-        "approved": "1"
+        "email": "nsarmc@gmail.com"
     },
     {
         "college_code": "5108",
         "college_name": "GOVT. ADARSHA COLLEGE",
-        "email": "adarsha5108@yahoo.com",
-        "id": 1361,
-        "role": "user",
-        "approved": "1"
+        "email": "adarsha5108@yahoo.com"
     },
     {
         "college_code": "5109",
         "college_name": "JAMSHED ALI MEMORIAL (DEGREE) COLLEGE",
-        "email": "jamc.sherpur@gmail.com",
-        "id": 280,
-        "role": "user",
-        "approved": "1"
+        "email": "jamc.sherpur@gmail.com"
     },
     {
         "college_code": "5110",
         "college_name": "CHANDRAKONA COLLEGE",
-        "email": "chandrakonacollege@yahoo.com",
-        "id": 1975,
-        "role": "user",
-        "approved": "1"
+        "email": "chandrakonacollege@yahoo.com"
     },
     {
         "college_code": "5111",
         "college_name": "JHENAIGATI MAHILA ADARSHA DEGREE COLLEGE",
-        "email": "jmadc113717@gmail.com",
-        "id": 1915,
-        "role": "user",
-        "approved": "1"
+        "email": "jmadc113717@gmail.com"
     },
     {
         "college_code": "5112",
         "college_name": "DR. SEKANDER ALI COLLEGE",
-        "email": "dsacollege@gmail.com",
-        "id": 2182,
-        "role": "user",
-        "approved": "1"
+        "email": "dsacollege@gmail.com"
     },
     {
         "college_code": "5113",
         "college_name": "ALHAZ SHAFIUDDIN AHMED COLLEGE",
-        "email": "safiuddincollege3@gmail.com",
-        "id": 2224,
-        "role": "user",
-        "approved": "1"
+        "email": "safiuddincollege3@gmail.com"
     },
     {
         "college_code": "5114",
         "college_name": "MODEL GIRLS COLLEGE",
-        "email": "mgc.sherpur@gmail.com",
-        "id": 2693,
-        "role": "user",
-        "approved": "1"
+        "email": "mgc.sherpur@gmail.com"
     },
     {
         "college_code": "5115",
         "college_name": "BEER MUKTIJUDDHA ATIUR RAHMAN MODEL COLLEGE",
-        "email": "bmarmc9274@gmail.com",
-        "id": 2729,
-        "role": "user",
-        "approved": "1"
+        "email": "bmarmc9274@gmail.com"
     },
     {
         "college_code": "5201",
         "college_name": "ANANDAMOHAN COLLEGE",
-        "email": "anandamohan1908@yahoo.com",
-        "id": 1761,
-        "role": "user",
-        "approved": "1"
+        "email": "anandamohan1908@yahoo.com"
     },
     {
         "college_code": "5202",
         "college_name": "GOVT. MOMINUNNESSA MAHILA COLLEGE",
-        "email": "muminunnisagovtcollege@gmail.com",
-        "id": 191,
-        "role": "user",
-        "approved": "1"
+        "email": "muminunnisagovtcollege@gmail.com"
     },
     {
         "college_code": "5203",
         "college_name": "MYMENSINGH MAHILA COLLEGE",
-        "email": "mymenmdc7300@gmail.com",
-        "id": 1679,
-        "role": "user",
-        "approved": "1"
+        "email": "mymenmdc7300@gmail.com"
     },
     {
         "college_code": "5204",
         "college_name": "NASIRABAD COLLEGE",
-        "email": "nasirabaduniversitycollege@yahoo.com",
-        "id": 217,
-        "role": "user",
-        "approved": "1"
+        "email": "nasirabaduniversitycollege@yahoo.com"
     },
     {
         "college_code": "5205",
         "college_name": "MYMENSINGH COLLEGE",
-        "email": "mymensinghmohavidylaya@gmail.com",
-        "id": 1172,
-        "role": "user",
-        "approved": "1"
+        "email": "mymensinghmohavidylaya@gmail.com"
     },
     {
         "college_code": "5206",
         "college_name": "A. M. M. COLLEGE",
-        "email": "alamgir_monsur@yahoo.com",
-        "id": 1227,
-        "role": "user",
-        "approved": "1"
+        "email": "alamgir_monsur@yahoo.com"
     },
     {
         "college_code": "5207",
         "college_name": "GAFARGAON GOVT. COLLEGE",
-        "email": "gafargaon.college@yahoo.com",
-        "id": 1113,
-        "role": "user",
-        "approved": "1"
+        "email": "gafargaon.college@yahoo.com"
     },
     {
         "college_code": "5208",
         "college_name": "ABDUR RAHMAN COLLEGE",
-        "email": "abdurrahman.college69@gmail.com",
-        "id": 1612,
-        "role": "user",
-        "approved": "1"
+        "email": "abdurrahman.college69@gmail.com"
     },
     {
         "college_code": "5209",
         "college_name": "PHULPUR GOVT. COLLEGE",
-        "email": "phulpurcollege@gmail.com",
-        "id": 100,
-        "role": "user",
-        "approved": "1"
+        "email": "phulpurcollege@gmail.com"
     },
     {
         "college_code": "5210",
         "college_name": "GOVERNMENT DHOBAURA ADARSHA COLLEGE",
-        "email": "dhobauraac@gmail.com",
-        "id": 1442,
-        "role": "user",
-        "approved": "1"
+        "email": "dhobauraac@gmail.com"
     },
     {
         "college_code": "5211",
         "college_name": "HALUAGHAT SHAHID SMRITI GOVT. COLLEGE",
-        "email": "hssdchgt@gmail.com",
-        "id": 471,
-        "role": "user",
-        "approved": "1"
+        "email": "hssdchgt@gmail.com"
     },
     {
         "college_code": "5212",
         "college_name": "GOURIPUR GOVT. COLLEGE",
-        "email": "ggcmym1964@gmail.com",
-        "id": 256,
-        "role": "user",
-        "approved": "1"
+        "email": "ggcmym1964@gmail.com"
     },
     {
         "college_code": "5213",
         "college_name": "GOURIPUR MAHILA COLLEGE",
-        "email": "gmdcollegemym@gmail.com",
-        "id": 1765,
-        "role": "user",
-        "approved": "1"
+        "email": "gmdcollegemym@gmail.com"
     },
     {
         "college_code": "5214",
         "college_name": "GOVT. NAZRUL COLLEGE, TRISHAL",
-        "email": "nazrulcollegetrishal@gmail.com",
-        "id": 469,
-        "role": "user",
-        "approved": "1"
+        "email": "nazrulcollegetrishal@gmail.com"
     },
     {
         "college_code": "5215",
         "college_name": "FULBARIA COLLEGE",
-        "email": "fulbariacollege@yahoo.com",
-        "id": 805,
-        "role": "user",
-        "approved": "1"
+        "email": "fulbariacollege@yahoo.com"
     },
     {
         "college_code": "5216",
         "college_name": "SHAHID SMRITI GOVT. COLLEGE, MUKTAGACHHA",
-        "email": "gsscollege_mukta@yahoo.com",
-        "id": 239,
-        "role": "user",
-        "approved": "1"
+        "email": "gsscollege_mukta@yahoo.com"
     },
     {
         "college_code": "5217",
         "college_name": "GOVT.  SHAHID SMRITI ADARSHA COLLEGE, NANDAIL",
-        "email": "ssac_nandail@yahoo.com",
-        "id": 492,
-        "role": "user",
-        "approved": "1"
+        "email": "ssac_nandail@yahoo.com"
     },
     {
         "college_code": "5218",
         "college_name": "ISWARGANJ GOVERNMENT COLLEGE",
-        "email": "ishwargonjdegreecollege@yahoo.com",
-        "id": 1603,
-        "role": "user",
-        "approved": "1"
+        "email": "ishwargonjdegreecollege@yahoo.com"
     },
     {
         "college_code": "5219",
         "college_name": "BHALUKA GOVERNMENT COLLEGE",
-        "email": "principalbhalukagovtcollege@gmail.com",
-        "id": 1632,
-        "role": "user",
-        "approved": "1"
+        "email": "principalbhalukagovtcollege@gmail.com"
     },
     {
         "college_code": "5220",
         "college_name": "BANGABANDU DEGREE COLLEGE",
-        "email": "bangabandhucollege1973@gmail.com",
-        "id": 1817,
-        "role": "user",
-        "approved": "1"
+        "email": "bangabandhucollege1973@gmail.com"
     },
     {
         "college_code": "5221",
         "college_name": "ATHAROBARI COLLEGE",
-        "email": "atharobaridegreecollege@gmail.com",
-        "id": 1933,
-        "role": "user",
-        "approved": "1"
+        "email": "atharobaridegreecollege@gmail.com"
     },
     {
         "college_code": "5222",
         "college_name": "TRISHAL MAHILA COLLEGE",
-        "email": "trishalmohilacollage@yahoo.com",
-        "id": 328,
-        "role": "user",
-        "approved": "1"
+        "email": "trishalmohilacollage@yahoo.com"
     },
     {
         "college_code": "5223",
         "college_name": "HAZI KASHEM ALI MOHILA DEGREE COLLEGE",
-        "email": "hkamdc@yahoo.com",
-        "id": 1759,
-        "role": "user",
-        "approved": "1"
+        "email": "hkamdc@yahoo.com"
     },
     {
         "college_code": "5224",
         "college_name": "ALTAF GOLONDAJ MAHABIDDALAYA",
-        "email": "principalaltafgolaandazcollege@gmail.com",
-        "id": 1534,
-        "role": "user",
-        "approved": "1"
+        "email": "principalaltafgolaandazcollege@gmail.com"
     },
     {
         "college_code": "5225",
         "college_name": "SONAR BANGLA DEGREE COLLEGE",
-        "email": "sbdegreecollege@gmail.com",
-        "id": 2100,
-        "role": "user",
-        "approved": "1"
+        "email": "sbdegreecollege@gmail.com"
     },
     {
         "college_code": "5226",
         "college_name": "GABTOLI DEGREE COLLEGE",
-        "email": "gabtalidegreecollegemm@gmail.com",
-        "id": 1744,
-        "role": "user",
-        "approved": "1"
+        "email": "gabtalidegreecollegemm@gmail.com"
     },
     {
         "college_code": "5227",
         "college_name": "STATE INSTITUTE OF BUSINESS ADMINISTRATION AND COMPUTER SCIENCE (SIBACS)",
-        "email": "sibacsmym@gmail.com",
-        "id": 2222,
-        "role": "user",
-        "approved": "1"
+        "email": "sibacsmym@gmail.com"
     },
     {
         "college_code": "5228",
         "college_name": "COLLEGE OF BUSINESS, SCIENCE & TECHNOLOGY (CBST)",
-        "email": "cbst.2002@gmail.com",
-        "id": 2217,
-        "role": "user",
-        "approved": "1"
+        "email": "cbst.2002@gmail.com"
     },
     {
         "college_code": "5229",
         "college_name": "PHULPUR MOHILA DEGREE COLLEGE",
-        "email": "phulpurmohilacollege@gmail.com",
-        "id": 1396,
-        "role": "user",
-        "approved": "1"
+        "email": "phulpurmohilacollege@gmail.com"
     },
     {
         "college_code": "5230",
         "college_name": "MOMENSHAHI LAW COLLEGE",
-        "email": "momenlc75@gmail.com",
-        "id": 2395,
-        "role": "user",
-        "approved": "1"
+        "email": "momenlc75@gmail.com"
     },
     {
         "college_code": "5231",
         "college_name": "TEACHERS' EDUCATION COMPLEX, MUKTAGACHA",
-        "email": "tecmuk5231@gmail.com",
-        "id": 2447,
-        "role": "user",
-        "approved": "1"
+        "email": "tecmuk5231@gmail.com"
     },
     {
         "college_code": "5232",
         "college_name": "GOVT. TEACHERS' TRAINING COLLEGE (MOHILA)",
-        "email": "ttcw_mym@yahoo.com",
-        "id": 2279,
-        "role": "user",
-        "approved": "1"
+        "email": "ttcw_mym@yahoo.com"
     },
     {
         "college_code": "5233",
         "college_name": "GOVT. TEACHERS' TRAINING COLLEGE",
-        "email": "ttccomym@gmail.com",
-        "id": 2272,
-        "role": "user",
-        "approved": "1"
+        "email": "ttccomym@gmail.com"
     },
     {
         "college_code": "5235",
         "college_name": "INSTITUTE OF LIBRARY AND INFORMATION SCIENCE",
-        "email": "ilis_mym95@gmail.com",
-        "id": 2164,
-        "role": "user",
-        "approved": "1"
+        "email": "ilis_mym95@gmail.com"
     },
     {
         "college_code": "5236",
         "college_name": "SHILPACHARYA ZAINUL ABEDIN FINE ART INSTITUTE",
-        "email": "szainulabedinm@gmail.com",
-        "id": 2135,
-        "role": "user",
-        "approved": "1"
+        "email": "szainulabedinm@gmail.com"
     },
     {
         "college_code": "5237",
         "college_name": "DHARA ADARSHA DEGREE COLLEGE",
-        "email": "dharaadarshadegreecollege@gmail.com",
-        "id": 873,
-        "role": "user",
-        "approved": "1"
+        "email": "dharaadarshadegreecollege@gmail.com"
     },
     {
         "college_code": "5238",
         "college_name": "GAFARGAON MOHILA COLLEGE",
-        "email": "md.abdulkhalek46@yahoo.com",
-        "id": 658,
-        "role": "user",
-        "approved": "1"
+        "email": "md.abdulkhalek46@yahoo.com"
     },
     {
         "college_code": "5239",
         "college_name": "GOVT. PHYSICAL EDUCATION COLLEGE",
-        "email": "mpec_ds@yahoo.com",
-        "id": 2368,
-        "role": "user",
-        "approved": "1"
+        "email": "mpec_ds@yahoo.com"
     },
     {
         "college_code": "5240",
         "college_name": "SHAHABUDDIN COLLEGE",
-        "email": "shahabuddin_college@yahoo.com",
-        "id": 201,
-        "role": "user",
-        "approved": "1"
+        "email": "shahabuddin_college@yahoo.com"
     },
     {
         "college_code": "5241",
         "college_name": "SHOMURTA JAHAN MAHILA COLLEGE",
-        "email": "sjmcndlmyn@yahoo.com",
-        "id": 1664,
-        "role": "user",
-        "approved": "1"
+        "email": "sjmcndlmyn@yahoo.com"
     },
     {
         "college_code": "5242",
         "college_name": "DHOBAURA MOHILA DEGREE COLLEGE",
-        "email": "dmc7255@yahoo.com",
-        "id": 483,
-        "role": "user",
-        "approved": "1"
+        "email": "dmc7255@yahoo.com"
     },
     {
         "college_code": "5243",
         "college_name": "FULBARIA MOHILA COLLEGE",
-        "email": "fulbariamohilacollege@yahoo.com",
-        "id": 1437,
-        "role": "user",
-        "approved": "1"
+        "email": "fulbariamohilacollege@yahoo.com"
     },
     {
         "college_code": "5244",
         "college_name": "KHURRAM KHAN CHOWDHURY DEGREE COLLEGE",
-        "email": "kkcc112068@gmail.com",
-        "id": 958,
-        "role": "user",
-        "approved": "1"
+        "email": "kkcc112068@gmail.com"
     },
     {
         "college_code": "5245",
         "college_name": "CITY INSTITUTE",
-        "email": "cityinstitute2012@gmail.com",
-        "id": 2207,
-        "role": "user",
-        "approved": "1"
+        "email": "cityinstitute2012@gmail.com"
     },
     {
         "college_code": "5246",
         "college_name": "SHAMBHUGONJ GKP COLLEGE",
-        "email": "gkpcollege@gmail.com",
-        "id": 2325,
-        "role": "user",
-        "approved": "1"
+        "email": "gkpcollege@gmail.com"
     },
     {
         "college_code": "5247",
         "college_name": "BOWLA COLLEGE",
-        "email": "bdc112187@gmail.com",
-        "id": 2317,
-        "role": "user",
-        "approved": "1"
+        "email": "bdc112187@gmail.com"
     },
     {
         "college_code": "5248",
         "college_name": "HAJI CHERAG ALI DEGREE COLLEGE",
-        "email": "hajicheragalidegreecollege@yahoo.com",
-        "id": 2185,
-        "role": "user",
-        "approved": "1"
+        "email": "hajicheragalidegreecollege@yahoo.com"
     },
     {
         "college_code": "5249",
         "college_name": "HALUAGHAT ADARSHA MOHILA COLLEGE",
-        "email": "hamc111769@gmail.com",
-        "id": 2328,
-        "role": "user",
-        "approved": "1"
+        "email": "hamc111769@gmail.com"
     },
     {
         "college_code": "5250",
         "college_name": "SUPREME LAW COLLEGE",
-        "email": "supremelaw.14@gmail.com",
-        "id": 2197,
-        "role": "user",
-        "approved": "1"
+        "email": "supremelaw.14@gmail.com"
     },
     {
         "college_code": "5251",
         "college_name": "BHALUKA TRISHAL MAITRY COLLEGE",
-        "email": "maitry.college@yahoo.com",
-        "id": 2530,
-        "role": "user",
-        "approved": "1"
+        "email": "maitry.college@yahoo.com"
     },
     {
         "college_code": "5252",
         "college_name": "KESHORGONJ DEGREE COLLEGE",
-        "email": "keshorgonjcollege15@gmail.com",
-        "id": 2520,
-        "role": "user",
-        "approved": "1"
+        "email": "keshorgonjcollege15@gmail.com"
     },
     {
         "college_code": "5253",
         "college_name": "BRITISH BANGLA INSTITUTE OF MANAGEMENT & TECHNOLOGY",
-        "email": "bbimt2016@gmail.com",
-        "id": 2685,
-        "role": "user",
-        "approved": "1"
+        "email": "bbimt2016@gmail.com"
     },
     {
         "college_code": "5254",
         "college_name": "KAORAID GOYESPUR COLLEGE",
-        "email": "principalkgcollege@gmail.com",
-        "id": 2724,
-        "role": "user",
-        "approved": "1"
+        "email": "principalkgcollege@gmail.com"
     },
     {
         "college_code": "5255",
         "college_name": "METROPOLITAN COLLEGE",
-        "email": "collegeofmetropolitan16@gmail.com",
-        "id": 2734,
-        "role": "user",
-        "approved": "1"
+        "email": "collegeofmetropolitan16@gmail.com"
     },
     {
         "college_code": "5256",
         "college_name": "CHANDAPUR COLLEGE",
-        "email": "chandapurdegeecollege97@gmail.com",
-        "id": 2752,
-        "role": "user",
-        "approved": "1"
+        "email": "chandapurdegeecollege97@gmail.com"
     },
     {
         "college_code": "5257",
         "college_name": "MUSHULI COLLEGE                                                                 ",
-        "email": "mushulicollege1995@gmail.com",
-        "id": 2829,
-        "role": "user",
-        "approved": "1"
+        "email": "mushulicollege1995@gmail.com"
     },
     {
         "college_code": "5301",
         "college_name": "GOVT. SAADAT COLLEGE",
-        "email": "principalsaadatcollege@yahoo.com",
-        "id": 330,
-        "role": "user",
-        "approved": "1"
+        "email": "principalsaadatcollege@yahoo.com"
     },
     {
         "college_code": "5302",
         "college_name": "GOVT. M. M. ALI COLLEGE",
-        "email": "mm_ali_tangail@yahoo.com",
-        "id": 635,
-        "role": "user",
-        "approved": "1"
+        "email": "mm_ali_tangail@yahoo.com"
     },
     {
         "college_code": "5303",
         "college_name": "GOVT. SYED MOHABBAT ALI COLLEGE",
-        "email": "principalsmacollege@gmail.com",
-        "id": 2110,
-        "role": "user",
-        "approved": "1"
+        "email": "principalsmacollege@gmail.com"
     },
     {
         "college_code": "5304",
         "college_name": "LION NAZRUL ISLAM DEGREE COLLEGE",
-        "email": "lnidcollege@yahoo.com",
-        "id": 1493,
-        "role": "user",
-        "approved": "1"
+        "email": "lnidcollege@yahoo.com"
     },
     {
         "college_code": "5306",
         "college_name": "SHAMSHER FAKIR COLLEGE",
-        "email": "c5306@nu.ac.bd",
-        "id": 371,
-        "role": "user",
-        "approved": "1"
+        "email": "c5306@nu.ac.bd"
     },
     {
         "college_code": "5307",
         "college_name": "GOVT. KUMUDINI COLLEGE",
-        "email": "kgc10.tangail@gmail.com",
-        "id": 249,
-        "role": "user",
-        "approved": "1"
+        "email": "kgc10.tangail@gmail.com"
     },
     {
         "college_code": "5308",
         "college_name": "GHATAIL BRAHMANSHASON GOVT. COLLEGE",
-        "email": "gbgcollege@yahoo.com",
-        "id": 121,
-        "role": "user",
-        "approved": "1"
+        "email": "gbgcollege@yahoo.com"
     },
     {
         "college_code": "5309",
         "college_name": "NAGARPUR GOVT. COLLEGE",
-        "email": "nagarpurgovtcollege@yahoo.com",
-        "id": 1629,
-        "role": "user",
-        "approved": "1"
+        "email": "nagarpurgovtcollege@yahoo.com"
     },
     {
         "college_code": "5310",
         "college_name": "GOPALPUR GOVT. COLLEGE",
-        "email": "info@gopalpurcollege.edu.bd",
-        "id": 438,
-        "role": "user",
-        "approved": "1"
+        "email": "info@gopalpurcollege.edu.bd"
     },
     {
         "college_code": "5311",
         "college_name": "HEMNAGAR COLLEGE",
-        "email": "hdc114270@gmail.com",
-        "id": 1480,
-        "role": "user",
-        "approved": "1"
+        "email": "hdc114270@gmail.com"
     },
     {
         "college_code": "5312",
         "college_name": "KALIHATI SHAJAHAN SIRAJ COLLEGE",
-        "email": "info@kalihaticollege.edu.bd",
-        "id": 1578,
-        "role": "user",
-        "approved": "1"
+        "email": "info@kalihaticollege.edu.bd"
     },
     {
         "college_code": "5313",
         "college_name": "GOVT. SHAMSUL HAQUE COLLEGE, ELENGA",
-        "email": "shc114352@gmail.com",
-        "id": 1137,
-        "role": "user",
-        "approved": "1"
+        "email": "shc114352@gmail.com"
     },
     {
         "college_code": "5314",
         "college_name": "MIRZAPUR GOVERNMENT COLLEGE",
-        "email": "mirzapurcollege1970@gmail.com",
-        "id": 1513,
-        "role": "user",
-        "approved": "1"
+        "email": "mirzapurcollege1970@gmail.com"
     },
     {
         "college_code": "5315",
         "college_name": "ALAUDDIN SIDDIQUI COLLEGE",
-        "email": "asic_5315@yahoo.com",
-        "id": 933,
-        "role": "user",
-        "approved": "1"
+        "email": "asic_5315@yahoo.com"
     },
     {
         "college_code": "5316",
         "college_name": "MADHUPUR GOVT. COLLEGE",
-        "email": "madhupurcollege@yahoo.com",
-        "id": 1439,
-        "role": "user",
-        "approved": "1"
+        "email": "madhupurcollege@yahoo.com"
     },
     {
         "college_code": "5317",
         "college_name": "DHANBARI GOVT. COLLEGE",
-        "email": "dhanbaricollege@yahoo.com",
-        "id": 821,
-        "role": "user",
-        "approved": "1"
+        "email": "dhanbaricollege@yahoo.com"
     },
     {
         "college_code": "5318",
         "college_name": "ASYA HASAN ALI MAHILA COLLEGE",
-        "email": "ahamc1991@gmail.com",
-        "id": 1226,
-        "role": "user",
-        "approved": "1"
+        "email": "ahamc1991@gmail.com"
     },
     {
         "college_code": "5319",
         "college_name": "BASAIL DEGREE COLLEGE",
-        "email": "basaildegreecollege@gmail.com",
-        "id": 807,
-        "role": "user",
-        "approved": "1"
+        "email": "basaildegreecollege@gmail.com"
     },
     {
         "college_code": "5320",
         "college_name": "IBRAHIM KHAN GOVT. COLLEGE",
-        "email": "ekc5320@yahoo.com",
-        "id": 565,
-        "role": "user",
-        "approved": "1"
+        "email": "ekc5320@yahoo.com"
     },
     {
         "college_code": "5321",
         "college_name": "GOVERNMENT MUJIB COLLEGE, SAKHIPUR",
-        "email": "mujibcollege1972@gmail.com",
-        "id": 625,
-        "role": "user",
-        "approved": "1"
+        "email": "mujibcollege1972@gmail.com"
     },
     {
         "college_code": "5322",
         "college_name": "MAJ. GEN. MAHMUDUL HASAN ADARSHA COLLEGE",
-        "email": "mgmhactg@gmail.com",
-        "id": 1739,
-        "role": "user",
-        "approved": "1"
+        "email": "mgmhactg@gmail.com"
     },
     {
         "college_code": "5323",
         "college_name": "NAGARPUR MAHILA COLLEGE",
-        "email": "nagarpurmohilacollege@gmail.com",
-        "id": 1986,
-        "role": "user",
-        "approved": "1"
+        "email": "nagarpurmohilacollege@gmail.com"
     },
     {
         "college_code": "5324",
         "college_name": "MOWLANA ABDUL HAMID KHAN BHASANI COLLEGE",
-        "email": "mahkbdcollege@gmail.com",
-        "id": 2020,
-        "role": "user",
-        "approved": "1"
+        "email": "mahkbdcollege@gmail.com"
     },
     {
         "college_code": "5325",
         "college_name": "MAJ. GEN. MAHMUDUL HASAN DEGREE COLLEGE",
-        "email": "mgmhdegcol@gmail.com",
-        "id": 2088,
-        "role": "user",
-        "approved": "1"
+        "email": "mgmhdegcol@gmail.com"
     },
     {
         "college_code": "5326",
         "college_name": "SHAKHIPUR RESIDENTIAL MAHILA COLLEGE",
-        "email": "principalsrwc@gmail.com",
-        "id": 839,
-        "role": "user",
-        "approved": "1"
+        "email": "principalsrwc@gmail.com"
     },
     {
         "college_code": "5327",
         "college_name": "LOKMAN FAKIR MAHILA DEGREE COLLEGE",
-        "email": "lfmdc5327@gmail.com",
-        "id": 1425,
-        "role": "user",
-        "approved": "1"
+        "email": "lfmdc5327@gmail.com"
     },
     {
         "college_code": "5328",
         "college_name": "GLOBAL INSTITUTE OF INFORMATION TECHNOLOGY",
-        "email": "faizul_anam@yahoo.com",
-        "id": 2223,
-        "role": "user",
-        "approved": "1"
+        "email": "faizul_anam@yahoo.com"
     },
     {
         "college_code": "5329",
         "college_name": "MAHERUNNESHA MOHILA COLLEGE, GOPALPUR",
-        "email": "meherunnesamohilacollege@yahoo.com",
-        "id": 1825,
-        "role": "user",
-        "approved": "1"
+        "email": "meherunnesamohilacollege@yahoo.com"
     },
     {
         "college_code": "5330",
         "college_name": "SHAHID ZIA MOHILA COLLEGE",
-        "email": "szmcollege@gmail.com",
-        "id": 744,
-        "role": "user",
-        "approved": "1"
+        "email": "szmcollege@gmail.com"
     },
     {
         "college_code": "5331",
         "college_name": "HAJI ABUL HOSSAIN INSTITUTE OF TECHNOLOGY (HABHIT)",
-        "email": "rakibtangail@gmail.com",
-        "id": 2216,
-        "role": "user",
-        "approved": "1"
+        "email": "rakibtangail@gmail.com"
     },
     {
         "college_code": "5332",
         "college_name": "TANGAIL LAW COLLEGE",
-        "email": "khanmkhaled@gmail.com",
-        "id": 2420,
-        "role": "user",
-        "approved": "1"
+        "email": "khanmkhaled@gmail.com"
     },
     {
         "college_code": "5333",
         "college_name": "TANGAIL TEACHERS' TRAINING COLLEGE",
-        "email": "tttc5333@gmail.com",
-        "id": 2380,
-        "role": "user",
-        "approved": "1"
+        "email": "tttc5333@gmail.com"
     },
     {
         "college_code": "5334",
         "college_name": "B. C. R. G. COLLEGE, PAKUTIA",
-        "email": "pakutiacollege@gmail.com",
-        "id": 289,
-        "role": "user",
-        "approved": "1"
+        "email": "pakutiacollege@gmail.com"
     },
     {
         "college_code": "5335",
         "college_name": "SHEHAB UDDIN DEGREE COLLEGE",
-        "email": "bhajan_sen@yahoo.com",
-        "id": 1710,
-        "role": "user",
-        "approved": "1"
+        "email": "bhajan_sen@yahoo.com"
     },
     {
         "college_code": "5336",
         "college_name": "PANCHPOTAL DEGREE COLLEGE",
-        "email": "rishanetvubon@yahoo.com",
-        "id": 1871,
-        "role": "user",
-        "approved": "1"
+        "email": "rishanetvubon@yahoo.com"
     },
     {
         "college_code": "5337",
         "college_name": "ARFAN KHAN MEMORIAL COLLEGE, LOWHATI",
-        "email": "arfankhan4627@gmail.com",
-        "id": 837,
-        "role": "user",
-        "approved": "1"
+        "email": "arfankhan4627@gmail.com"
     },
     {
         "college_code": "5338",
         "college_name": "GOVT. SHEIKH FAZILATUN NESA MUJIB MOHILA COLLEGE",
-        "email": "fazilatunnesacollege@yahoo.com",
-        "id": 800,
-        "role": "user",
-        "approved": "1"
+        "email": "fazilatunnesacollege@yahoo.com"
     },
     {
         "college_code": "5339",
         "college_name": "KHANDAKER FAZLUL HAQUE COLLEGE",
-        "email": "ahamedf60@yahoo.com",
-        "id": 2312,
-        "role": "user",
-        "approved": "1"
+        "email": "ahamedf60@yahoo.com"
     },
     {
         "college_code": "5340",
         "college_name": "KHALILUR RAHMAN COLLEGE",
-        "email": "krctangail@gmail.com",
-        "id": 2327,
-        "role": "user",
-        "approved": "1"
+        "email": "krctangail@gmail.com"
     },
     {
         "college_code": "5341",
         "college_name": "UKHARIABARI COLLEGE",
-        "email": "ukhariabaricollege7@gmail.com",
-        "id": 2354,
-        "role": "user",
-        "approved": "1"
+        "email": "ukhariabaricollege7@gmail.com"
     },
     {
         "college_code": "5342",
         "college_name": "HATIA COLLEGE",
-        "email": "hatiacst@yahoo.com",
-        "id": 2483,
-        "role": "user",
-        "approved": "1"
+        "email": "hatiacst@yahoo.com"
     },
     {
         "college_code": "5343",
         "college_name": "SHAHID RAUSHAN ALI KHAN COLLEGE",
-        "email": "srakcollege@yahoo.com",
-        "id": 2346,
-        "role": "user",
-        "approved": "1"
+        "email": "srakcollege@yahoo.com"
     },
     {
         "college_code": "5344",
         "college_name": "JANATA COLLEGE",
-        "email": "janatacollege_72@yahoo.com",
-        "id": 2450,
-        "role": "user",
-        "approved": "1"
+        "email": "janatacollege_72@yahoo.com"
     },
     {
         "college_code": "5345",
         "college_name": "LUTFOR RAHMAN MATIN MOHILA DEGREE COLLEGE",
-        "email": "c5345@nu.ac.bd",
-        "id": 2595,
-        "role": "user",
-        "approved": "1"
+        "email": "c5345@nu.ac.bd"
     },
     {
         "college_code": "5346",
         "college_name": "BARACHOWNA KUTUBPUR COLLEGE",
-        "email": "bkcollege20@gmail.com",
-        "id": 2670,
-        "role": "user",
-        "approved": "1"
+        "email": "bkcollege20@gmail.com"
     },
     {
         "college_code": "5347",
         "college_name": "BHAIGHAT IDEAL COLLEGE",
-        "email": "bicdt@yahoo.com",
-        "id": 2586,
-        "role": "user",
-        "approved": "1"
+        "email": "bicdt@yahoo.com"
     },
     {
         "college_code": "5348",
         "college_name": "RAZABARI COLLEGE",
-        "email": "razabaricollege2004@gmail.com",
-        "id": 2611,
-        "role": "user",
-        "approved": "1"
+        "email": "razabaricollege2004@gmail.com"
     },
     {
         "college_code": "5349",
         "college_name": "MIRZAPUR MOHILA COLLEGE",
-        "email": "mmcmirzapurtangail97@gmail.com",
-        "id": 2618,
-        "role": "user",
-        "approved": "1"
+        "email": "mmcmirzapurtangail97@gmail.com"
     },
     {
         "college_code": "5350",
         "college_name": "BOALI COLLEGE",
-        "email": "boalidegreecollege@gmail.com",
-        "id": 2633,
-        "role": "user",
-        "approved": "1"
+        "email": "boalidegreecollege@gmail.com"
     },
     {
         "college_code": "5351",
         "college_name": "BRAHMON SHASHON MOHILA COLLEGE",
-        "email": "bshahsoncollege@gmail.com",
-        "id": 2744,
-        "role": "user",
-        "approved": "1"
+        "email": "bshahsoncollege@gmail.com"
     },
     {
         "college_code": "5352",
         "college_name": "SHAHEED SHAHED HAZARI COLLEGE",
-        "email": "sshazaricollege131690@gmail.com",
-        "id": 2761,
-        "role": "user",
-        "approved": "1"
+        "email": "sshazaricollege131690@gmail.com"
     },
     {
         "college_code": "5353",
         "college_name": "MAWLANA BHASHANI ADARSHA COLLEGE",
-        "email": "mbacsantosh@gmail.com",
-        "id": 2775,
-        "role": "user",
-        "approved": "1"
+        "email": "mbacsantosh@gmail.com"
     },
     {
         "college_code": "5401",
         "college_name": "NARSINGDI GOVT. COLLEGE",
-        "email": "principalngcollege@yahoo.com",
-        "id": 417,
-        "role": "user",
-        "approved": "1"
+        "email": "principalngcollege@yahoo.com"
     },
     {
         "college_code": "5402",
         "college_name": "NARSINGDI GOVT. MAHILA COLLEGE",
-        "email": "ngmcol@yahoo.com",
-        "id": 1949,
-        "role": "user",
-        "approved": "1"
+        "email": "ngmcol@yahoo.com"
     },
     {
         "college_code": "5403",
         "college_name": "MADHABDI COLLEGE",
-        "email": "madhabdicollege73@gmail.com",
-        "id": 115,
-        "role": "user",
-        "approved": "1"
+        "email": "madhabdicollege73@gmail.com"
     },
     {
         "college_code": "5404",
         "college_name": "SHAHID ASAD GOVT. COLLEGE",
-        "email": "govt.sac@gmail.com",
-        "id": 1461,
-        "role": "user",
-        "approved": "1"
+        "email": "govt.sac@gmail.com"
     },
     {
         "college_code": "5405",
         "college_name": "MONOHARDI GOVT. COLLEGE",
-        "email": "monohardidegreecollege@gmail.com",
-        "id": 1676,
-        "role": "user",
-        "approved": "1"
+        "email": "monohardidegreecollege@gmail.com"
     },
     {
         "college_code": "5406",
         "college_name": "RAIPURA GOVERNMENT COLLEGE",
-        "email": "raipuracollege@gmail.com",
-        "id": 1251,
-        "role": "user",
-        "approved": "1"
+        "email": "raipuracollege@gmail.com"
     },
     {
         "college_code": "5407",
         "college_name": "PORADIA WASIM UDDIN KHAN DEGREE COLLEGE",
-        "email": "poradiadegreecollege@yahoo.com",
-        "id": 1158,
-        "role": "user",
-        "approved": "1"
+        "email": "poradiadegreecollege@yahoo.com"
     },
     {
         "college_code": "5408",
         "college_name": "NARAYANPUR RABEYA COLLEGE",
-        "email": "nrmcol@gmail.com",
-        "id": 1013,
-        "role": "user",
-        "approved": "1"
+        "email": "nrmcol@gmail.com"
     },
     {
         "college_code": "5409",
         "college_name": "PALASH SHILPANCHAL GOVERNMENT COLLEGE",
-        "email": "palashshilpanchalcollege11@gmail.com",
-        "id": 534,
-        "role": "user",
-        "approved": "1"
+        "email": "palashshilpanchalcollege11@gmail.com"
     },
     {
         "college_code": "5410",
         "college_name": "HATIRDIA RAZIUDDIN COLLEGE",
-        "email": "hatirdiacollege@yahoo.com",
-        "id": 1613,
-        "role": "user",
-        "approved": "1"
+        "email": "hatirdiacollege@yahoo.com"
     },
     {
         "college_code": "5411",
         "college_name": "JOYNAGAR COLLEGE",
-        "email": "joynagarcollege@gmail.com",
-        "id": 1379,
-        "role": "user",
-        "approved": "1"
+        "email": "joynagarcollege@gmail.com"
     },
     {
         "college_code": "5412",
         "college_name": "AFAZ UDDIN  KHAN MOHILA COLLEGE",
-        "email": "akmcollege1988@gmail.com",
-        "id": 2017,
-        "role": "user",
-        "approved": "1"
+        "email": "akmcollege1988@gmail.com"
     },
     {
         "college_code": "5413",
         "college_name": "BARA CHAPA UNION ADARSHA COLLEGE",
-        "email": "collegenoanagar@gmail.com",
-        "id": 1763,
-        "role": "user",
-        "approved": "1"
+        "email": "collegenoanagar@gmail.com"
     },
     {
         "college_code": "5414",
         "college_name": "PANCHKANDI DEGREE COLLEGE",
-        "email": "pdcollege952@gmail.com",
-        "id": 1042,
-        "role": "user",
-        "approved": "1"
+        "email": "pdcollege952@gmail.com"
     },
     {
         "college_code": "5415",
         "college_name": "GHORASHAL MUSA BIN HAKIM DEGREE COLLEGE",
-        "email": "gmhdcollege95@yahoo.com",
-        "id": 2010,
-        "role": "user",
-        "approved": "1"
+        "email": "gmhdcollege95@yahoo.com"
     },
     {
         "college_code": "5417",
         "college_name": "NARSINGDI LAW COLLEGE",
-        "email": "mansuranlc@yahoo.com",
-        "id": 2398,
-        "role": "user",
-        "approved": "1"
+        "email": "mansuranlc@yahoo.com"
     },
     {
         "college_code": "5418",
         "college_name": "NATIONAL COLLEGE OF EDUCATION",
-        "email": "ncen.bd@gmail.com",
-        "id": 2191,
-        "role": "user",
-        "approved": "1"
+        "email": "ncen.bd@gmail.com"
     },
     {
         "college_code": "5419",
         "college_name": "ABDUL MANNAN BHUIYAN COLLEGE",
-        "email": "ambdcdegree@gmail.com",
-        "id": 2108,
-        "role": "user",
-        "approved": "1"
+        "email": "ambdcdegree@gmail.com"
     },
     {
         "college_code": "5420",
         "college_name": "SHAHID SMRITY DEGREE COLLEGE",
-        "email": "sscoch@yahoo.com",
-        "id": 2082,
-        "role": "user",
-        "approved": "1"
+        "email": "sscoch@yahoo.com"
     },
     {
         "college_code": "5421",
         "college_name": "BAROICHA COLLEGE",
-        "email": "baroichacollege@yahoo.com",
-        "id": 1272,
-        "role": "user",
-        "approved": "1"
+        "email": "baroichacollege@yahoo.com"
     },
     {
         "college_code": "5422",
         "college_name": "SARDAR ASMAT ALI MAHILA COLLEGE",
-        "email": "samc3011@gmail.com",
-        "id": 1631,
-        "role": "user",
-        "approved": "1"
+        "email": "samc3011@gmail.com"
     },
     {
         "college_code": "5423",
         "college_name": "SABUJ PAHAR COLLEGE",
-        "email": "spc112880@gmail.com",
-        "id": 2305,
-        "role": "user",
-        "approved": "1"
+        "email": "spc112880@gmail.com"
     },
     {
         "college_code": "5424",
         "college_name": "HAZI ABED ALI COLLEGE",
-        "email": "haziabedalicollege@gmail.com",
-        "id": 2319,
-        "role": "user",
-        "approved": "1"
+        "email": "haziabedalicollege@gmail.com"
     },
     {
         "college_code": "5425",
         "college_name": "BARACHAPA COLLEGE",
-        "email": "barachapacollege@gmail.com",
-        "id": 2299,
-        "role": "user",
-        "approved": "1"
+        "email": "barachapacollege@gmail.com"
     },
     {
         "college_code": "5426",
         "college_name": "KHIDIRPUR COLLEGE",
-        "email": "khidirpurcollege@yahoo.com",
-        "id": 2517,
-        "role": "user",
-        "approved": "1"
+        "email": "khidirpurcollege@yahoo.com"
     },
     {
         "college_code": "5427",
         "college_name": "GOVT. HOSSAIN ALI COLLEGE",
-        "email": "hac.bn2013@gmail.com",
-        "id": 2575,
-        "role": "user",
-        "approved": "1"
+        "email": "hac.bn2013@gmail.com"
     },
     {
         "college_code": "5501",
         "college_name": "BHAWAL BADRE ALAM GOVT. COLLEGE",
-        "email": "bbacollege@gmail.com",
-        "id": 865,
-        "role": "user",
-        "approved": "1"
+        "email": "bbacollege@gmail.com"
     },
     {
         "college_code": "5502",
         "college_name": "BHAWAL MIRZAPUR COLLEGE",
-        "email": "bmuc2012@gmail.com",
-        "id": 1111,
-        "role": "user",
-        "approved": "1"
+        "email": "bmuc2012@gmail.com"
     },
     {
         "college_code": "5503",
         "college_name": "PEAR ALI COLLEGE",
-        "email": "principal.padc@gmail.com",
-        "id": 892,
-        "role": "user",
-        "approved": "1"
+        "email": "principal.padc@gmail.com"
     },
     {
         "college_code": "5504",
         "college_name": "ROVAR POLLY COLLEGE",
-        "email": "rpc_89@yahoo.com",
-        "id": 1334,
-        "role": "user",
-        "approved": "1"
+        "email": "rpc_89@yahoo.com"
     },
     {
         "college_code": "5505",
         "college_name": "KAZI AZIMUDDIN COLLEGE",
-        "email": "k.azimuddincollege@gmail.com",
-        "id": 1799,
-        "role": "user",
-        "approved": "1"
+        "email": "k.azimuddincollege@gmail.com"
     },
     {
         "college_code": "5506",
         "college_name": "KAPASIA COLLEGE",
-        "email": "kapasiadcollege@yahoo.com",
-        "id": 1752,
-        "role": "user",
-        "approved": "1"
+        "email": "kapasiadcollege@yahoo.com"
     },
     {
         "college_code": "5507",
         "college_name": "SREEPUR MUKTIJODDHA RAHMOT ALI GOVT. COLLEGE",
-        "email": "sreepurmragovtcollege@gmail.com",
-        "id": 864,
-        "role": "user",
-        "approved": "1"
+        "email": "sreepurmragovtcollege@gmail.com"
     },
     {
         "college_code": "5508",
         "college_name": "KALIAKOIR DEGREE COLLEGE",
-        "email": "kaliakairdegreecollege@gmail.com",
-        "id": 1094,
-        "role": "user",
-        "approved": "1"
+        "email": "kaliakairdegreecollege@gmail.com"
     },
     {
         "college_code": "5509",
         "college_name": "GOVT. KALIGANJ SRAMIK COLLEGE",
-        "email": "kaligonj.sramik.college@gmail.com",
-        "id": 1849,
-        "role": "user",
-        "approved": "1"
+        "email": "kaligonj.sramik.college@gmail.com"
     },
     {
         "college_code": "5510",
         "college_name": "JAMALPUR COLLEGE",
-        "email": "jc7hsc@gmail.com",
-        "id": 1342,
-        "role": "user",
-        "approved": "1"
+        "email": "jc7hsc@gmail.com"
     },
     {
         "college_code": "5511",
         "college_name": "TONGI GOVT. COLLEGE",
-        "email": "tongigovcollege72@gmail.com",
-        "id": 777,
-        "role": "user",
-        "approved": "1"
+        "email": "tongigovcollege72@gmail.com"
     },
     {
         "college_code": "5512",
         "college_name": "GAZIPUR CANTONMENT COLLEGE",
-        "email": "gccbof@gmail.com",
-        "id": 1819,
-        "role": "user",
-        "approved": "1"
+        "email": "gccbof@gmail.com"
     },
     {
         "college_code": "5513",
         "college_name": "MODEL INSTITUTE OF SCIENCE & TECHNOLOGY",
-        "email": "mist_info@yahoo.com",
-        "id": 2188,
-        "role": "user",
-        "approved": "1"
+        "email": "mist_info@yahoo.com"
     },
     {
         "college_code": "5514",
         "college_name": "SHAHID TAJUDDIN AHMAD DEGREE COLLEGE",
-        "email": "stadcollege@yahoo.com",
-        "id": 470,
-        "role": "user",
-        "approved": "1"
+        "email": "stadcollege@yahoo.com"
     },
     {
         "college_code": "5515",
         "college_name": "BORMI COLLEGE",
-        "email": "bormicollege1@gmail.com",
-        "id": 1758,
-        "role": "user",
-        "approved": "1"
+        "email": "bormicollege1@gmail.com"
     },
     {
         "college_code": "5516",
         "college_name": "MIZANUR RAHMAN KHAN DEGREE MOHILA COLLEGE",
-        "email": "mrkdmc109420@gmail.com",
-        "id": 493,
-        "role": "user",
-        "approved": "1"
+        "email": "mrkdmc109420@gmail.com"
     },
     {
         "college_code": "5518",
         "college_name": "JATIR PITA BANGABANDHU GOVT. COLLEGE",
-        "email": "jatirpitabbc@gmail.com",
-        "id": 845,
-        "role": "user",
-        "approved": "1"
+        "email": "jatirpitabbc@gmail.com"
     },
     {
         "college_code": "5519",
         "college_name": "GAZIPUR LAW COLLEGE",
-        "email": "lawcollegegazipur@gmail.com",
-        "id": 2363,
-        "role": "user",
-        "approved": "1"
+        "email": "lawcollegegazipur@gmail.com"
     },
     {
         "college_code": "5520",
         "college_name": "PUBAIL ADARSHA COLLEGE",
-        "email": "pubailcollege@gmail.com",
-        "id": 528,
-        "role": "user",
-        "approved": "1"
+        "email": "pubailcollege@gmail.com"
     },
     {
         "college_code": "5521",
         "college_name": "GAZIPUR TEACHERS' TRAINING COLLEGE",
-        "email": "gttc09@gmail.com",
-        "id": 2405,
-        "role": "user",
-        "approved": "1"
+        "email": "gttc09@gmail.com"
     },
     {
         "college_code": "5522",
         "college_name": "GAZIPUR PHYSICAL EDUCATION COLLEGE",
-        "email": "gpec5522@gmail.com",
-        "id": 2367,
-        "role": "user",
-        "approved": "1"
+        "email": "gpec5522@gmail.com"
     },
     {
         "college_code": "5523",
         "college_name": "GAZIPUR GOVT. MOHILA COLLEGE",
-        "email": "ggmcgazipur@yahoo.com",
-        "id": 1134,
-        "role": "user",
-        "approved": "1"
+        "email": "ggmcgazipur@yahoo.com"
     },
     {
         "college_code": "5524",
         "college_name": "BARAIBARI ADARSHA DEGREE COLLEGE",
-        "email": "baraibariac@gmail.com",
-        "id": 1997,
-        "role": "user",
-        "approved": "1"
+        "email": "baraibariac@gmail.com"
     },
     {
         "college_code": "5525",
         "college_name": "ABDUL AWAL COLLEGE",
-        "email": "awalcollege@gmail.com",
-        "id": 1970,
-        "role": "user",
-        "approved": "1"
+        "email": "awalcollege@gmail.com"
     },
     {
         "college_code": "5526",
         "college_name": "BGIFT INSTITUTE OF SCIENCE AND TECHNOLOGY (BIST)",
-        "email": "deluwar.principal@gmail.com",
-        "id": 2236,
-        "role": "user",
-        "approved": "1"
+        "email": "deluwar.principal@gmail.com"
     },
     {
         "college_code": "5527",
         "college_name": "GAZIPUR CENTRAL PUBLIC MANAGEMENT INSTITUTE",
-        "email": "gcpc131217@gmail.com",
-        "id": 2449,
-        "role": "user",
-        "approved": "1"
+        "email": "gcpc131217@gmail.com"
     },
     {
         "college_code": "5528",
         "college_name": "KONABARI DEGREE COLLEGE",
-        "email": "konabaridegreecollege@yahoo.com",
-        "id": 1642,
-        "role": "user",
-        "approved": "1"
+        "email": "konabaridegreecollege@yahoo.com"
     },
     {
         "college_code": "5529",
         "college_name": "BANGATAJ COLLEGE",
-        "email": "bangatajcollege@yahoo.com",
-        "id": 401,
-        "role": "user",
-        "approved": "1"
+        "email": "bangatajcollege@yahoo.com"
     },
     {
         "college_code": "5530",
         "college_name": "BANGLADESH MADRASA TEACHERS' TRAINING INSTITUTE",
-        "email": "bmtti.gov.bd@gmail.com",
-        "id": 2476,
-        "role": "user",
-        "approved": "1"
+        "email": "bmtti.gov.bd@gmail.com"
     },
     {
         "college_code": "5531",
         "college_name": "SHARIF MOMTAJ UDDIN AHMED DEGREE COLLEGE",
-        "email": "sma.college@gmail.com",
-        "id": 1865,
-        "role": "user",
-        "approved": "1"
+        "email": "sma.college@gmail.com"
     },
     {
         "college_code": "5532",
         "college_name": "MUKTIJODDHA COLLEGE",
-        "email": "principal.mcg2003@gmail.com",
-        "id": 906,
-        "role": "user",
-        "approved": "1"
+        "email": "principal.mcg2003@gmail.com"
     },
     {
         "college_code": "5533",
         "college_name": "DHALADIA DEGREE COLLEGE",
-        "email": "dhaladiacollege.edu@gmail.com",
-        "id": 1926,
-        "role": "user",
-        "approved": "1"
+        "email": "dhaladiacollege.edu@gmail.com"
     },
     {
         "college_code": "5534",
         "college_name": "KALIGONJ MOHILA DEGREE COLLEGE",
-        "email": "kaligonj.mohilacollege@gmail.com",
-        "id": 2021,
-        "role": "user",
-        "approved": "1"
+        "email": "kaligonj.mohilacollege@gmail.com"
     },
     {
         "college_code": "5535",
         "college_name": "GAZIPUR LIBRARY SCIENCE & PROFESSIONAL INSTITUTE",
-        "email": "glspi366@gmail.com",
-        "id": 2519,
-        "role": "user",
-        "approved": "1"
+        "email": "glspi366@gmail.com"
     },
     {
         "college_code": "5536",
         "college_name": "GAZIPUR CITY INSTITUTE",
-        "email": "gazipurcityinstitute16@gmail.com",
-        "id": 2630,
-        "role": "user",
-        "approved": "1"
+        "email": "gazipurcityinstitute16@gmail.com"
     },
     {
         "college_code": "5537",
         "college_name": "GAZIPUR MATROPOLITAN INSTITUTE (GMI)",
-        "email": "gmigazipur@gmail.com",
-        "id": 2703,
-        "role": "user",
-        "approved": "1"
+        "email": "gmigazipur@gmail.com"
     },
     {
         "college_code": "5601",
         "college_name": "GOVT. TOLARAM COLLEGE",
-        "email": "info@tolaramcollege.edu.bd",
-        "id": 357,
-        "role": "user",
-        "approved": "1"
+        "email": "info@tolaramcollege.edu.bd"
     },
     {
         "college_code": "5602",
         "college_name": "NARAYANGANJ MAHILA COLLEGE",
-        "email": "ngmcedu@gmail.com",
-        "id": 167,
-        "role": "user",
-        "approved": "1"
+        "email": "ngmcedu@gmail.com"
     },
     {
         "college_code": "5603",
         "college_name": "NARAYANGANJ COLLEGE",
-        "email": "narayanganjcollege1980@gmail.com",
-        "id": 761,
-        "role": "user",
-        "approved": "1"
+        "email": "narayanganjcollege1980@gmail.com"
     },
     {
         "college_code": "5604",
         "college_name": "GOVT. SAFAR ALI COLLEGE",
-        "email": "gsacarai@gmail.com",
-        "id": 430,
-        "role": "user",
-        "approved": "1"
+        "email": "gsacarai@gmail.com"
     },
     {
         "college_code": "5605",
         "college_name": "SONARGAON GOVT. COLLEGE",
-        "email": "SONARGAONCOLLEGE5605@YAHOO.COM",
-        "id": 414,
-        "role": "user",
-        "approved": "1"
+        "email": "SONARGAONCOLLEGE5605@YAHOO.COM"
     },
     {
         "college_code": "5606",
         "college_name": "GOVT. MURAPARA COLLEGE",
-        "email": "muraparacollege.rupgonj@gmail.com",
-        "id": 168,
-        "role": "user",
-        "approved": "1"
+        "email": "muraparacollege.rupgonj@gmail.com"
     },
     {
         "college_code": "5607",
         "college_name": "SONARGAON KAZI FAZLUL HAQUE WOMENS COLLEGE",
-        "email": "sonargaonkfhwcollege@gmail.com",
-        "id": 1905,
-        "role": "user",
-        "approved": "1"
+        "email": "sonargaonkfhwcollege@gmail.com"
     },
     {
         "college_code": "5608",
         "college_name": "SALIMUDDIN CHOWDHURY COLLEGE",
-        "email": "scdc1994@gmail.com",
-        "id": 590,
-        "role": "user",
-        "approved": "1"
+        "email": "scdc1994@gmail.com"
     },
     {
         "college_code": "5609",
         "college_name": "HAJEE BALAYET HOSSION COLLEGE",
-        "email": "hbhdc94@gmail.com",
-        "id": 446,
-        "role": "user",
-        "approved": "1"
+        "email": "hbhdc94@gmail.com"
     },
     {
         "college_code": "5610",
         "college_name": "ROKANUDDIN MOLLA GIRLS' COLLEGE",
-        "email": "rmgirlscollege@yahoo.com",
-        "id": 1974,
-        "role": "user",
-        "approved": "1"
+        "email": "rmgirlscollege@yahoo.com"
     },
     {
         "college_code": "5611",
         "college_name": "HAZI MISIR ALI DEGREE COLLEGE",
-        "email": "hmdc2555@yahoo.com",
-        "id": 1064,
-        "role": "user",
-        "approved": "1"
+        "email": "hmdc2555@yahoo.com"
     },
     {
         "college_code": "5612",
         "college_name": "NAZIMUDDIN BHUIYAN COLLEGE",
-        "email": "nubc1995@yahoo.com",
-        "id": 547,
-        "role": "user",
-        "approved": "1"
+        "email": "nubc1995@yahoo.com"
     },
     {
         "college_code": "5613",
         "college_name": "NARAYANGANJ LAW COLLEGE",
-        "email": "narayanganjlawcollege@yahoo.com",
-        "id": 2436,
-        "role": "user",
-        "approved": "1"
+        "email": "narayanganjlawcollege@yahoo.com"
     },
     {
         "college_code": "5614",
         "college_name": "BANGLADESH COLLEGE OF PHYSICAL EDUCATION",
-        "email": "bcpe5614@yahoo.com",
-        "id": 1652,
-        "role": "user",
-        "approved": "1"
+        "email": "bcpe5614@yahoo.com"
     },
     {
         "college_code": "5615",
         "college_name": "NARAYANGANJ FINE ART INSTITUTE",
-        "email": "njfineartinst@gmail.com",
-        "id": 2260,
-        "role": "user",
-        "approved": "1"
+        "email": "njfineartinst@gmail.com"
     },
     {
         "college_code": "5616",
         "college_name": "GOVT. KADAM RASUL DEGREE COLLEGE",
-        "email": "kadamrasulcollage@gmail.com",
-        "id": 1614,
-        "role": "user",
-        "approved": "1"
+        "email": "kadamrasulcollage@gmail.com"
     },
     {
         "college_code": "5617",
         "college_name": "FATIMA RAHMAN TEACHERS' TRAINING COLLEGE",
-        "email": "fatimarfoundation@gmail.com",
-        "id": 2267,
-        "role": "user",
-        "approved": "1"
+        "email": "fatimarfoundation@gmail.com"
     },
     {
         "college_code": "5618",
         "college_name": "HOSSAINPUR S.P. UNION COLLEGE",
-        "email": "hossainpurcollege@yahoo.com",
-        "id": 905,
-        "role": "user",
-        "approved": "1"
+        "email": "hossainpurcollege@yahoo.com"
     },
     {
         "college_code": "5619",
         "college_name": "BANGLADESH INSTITUTE OF BUSINESS & TECHNOLOGY (BIBT)",
-        "email": "bibtbd@yahoo.com",
-        "id": 2198,
-        "role": "user",
-        "approved": "1"
+        "email": "bibtbd@yahoo.com"
     },
     {
         "college_code": "5620",
         "college_name": "COLLEGE OF TECHNOLOGY (COT)",
-        "email": "info.edu1997@gmail.com",
-        "id": 2172,
-        "role": "user",
-        "approved": "1"
+        "email": "info.edu1997@gmail.com"
     },
     {
         "college_code": "5621",
         "college_name": "PANCHRUKHI BEGUM ANOWARA COLLEGE",
-        "email": "principalpba@gmail.com",
-        "id": 2294,
-        "role": "user",
-        "approved": "1"
+        "email": "principalpba@gmail.com"
     },
     {
         "college_code": "5622",
         "college_name": "SHANARPAR ROWSHAN ARA COLLEGE",
-        "email": "rowshanaracollege7@gmail.com",
-        "id": 2672,
-        "role": "user",
-        "approved": "1"
+        "email": "rowshanaracollege7@gmail.com"
     },
     {
         "college_code": "5623",
         "college_name": "GOPALDI NAZRUL ISLAM BABU COLLEGE",
-        "email": "gnibcollege@gmail.com",
-        "id": 2770,
-        "role": "user",
-        "approved": "1"
+        "email": "gnibcollege@gmail.com"
     },
     {
         "college_code": "5701",
         "college_name": "GOVT. HARAGANGA COLLEGE",
-        "email": "govt.haragangacollege@yahoo.com",
-        "id": 751,
-        "role": "user",
-        "approved": "1"
+        "email": "govt.haragangacollege@yahoo.com"
     },
     {
         "college_code": "5702",
         "college_name": "GOVT. SREENAGAR COLLEGE",
-        "email": "sreenagargovt1970@yahoo.com",
-        "id": 741,
-        "role": "user",
-        "approved": "1"
+        "email": "sreenagargovt1970@yahoo.com"
     },
     {
         "college_code": "5703",
         "college_name": "GOVT. BIKRAMPUR K. B. COLLEGE",
-        "email": "bkbcollege1970@yahoo.com",
-        "id": 848,
-        "role": "user",
-        "approved": "1"
+        "email": "bkbcollege1970@yahoo.com"
     },
     {
         "college_code": "5704",
         "college_name": "GAJARIA GOVT. COLLEGE",
-        "email": "ggc.munshiganj@gmail.com",
-        "id": 660,
-        "role": "user",
-        "approved": "1"
+        "email": "ggc.munshiganj@gmail.com"
     },
     {
         "college_code": "5705",
         "college_name": "BIKRAMPUR ADARSHA COLLEGE",
-        "email": "backuchiamora@yahoo.com",
-        "id": 224,
-        "role": "user",
-        "approved": "1"
+        "email": "backuchiamora@yahoo.com"
     },
     {
         "college_code": "5706",
         "college_name": "ADARSHA MAHABIDDALAYA",
-        "email": "adarshadegreecollege123@yahoo.com",
-        "id": 282,
-        "role": "user",
-        "approved": "1"
+        "email": "adarshadegreecollege123@yahoo.com"
     },
     {
         "college_code": "5707",
         "college_name": "MUNSHIGANJ LAW COLLEGE",
-        "email": "munshigonjlawcollege@gmail.com",
-        "id": 2451,
-        "role": "user",
-        "approved": "1"
+        "email": "munshigonjlawcollege@gmail.com"
     },
     {
         "college_code": "5708",
         "college_name": "GOVT. LOHAJANG MAHABIDHALAYA",
-        "email": "lohajangcollege@yahoo.com",
-        "id": 877,
-        "role": "user",
-        "approved": "1"
+        "email": "lohajangcollege@yahoo.com"
     },
     {
         "college_code": "5709",
         "college_name": "RAMPAL COLLEGE",
-        "email": "rcollege00@gmail.com",
-        "id": 518,
-        "role": "user",
-        "approved": "1"
+        "email": "rcollege00@gmail.com"
     },
     {
         "college_code": "5710",
         "college_name": "GAZARIA KALIMULLAH COLLEGE",
-        "email": "kalimullahcollege@gmail.com",
-        "id": 1626,
-        "role": "user",
-        "approved": "1"
+        "email": "kalimullahcollege@gmail.com"
     },
     {
         "college_code": "5711",
         "college_name": "MIRKADIM HAJI AMJAD ALI COLLEGE",
-        "email": "mirkadimcollage@yahoo.com",
-        "id": 609,
-        "role": "user",
-        "approved": "1"
+        "email": "mirkadimcollage@yahoo.com"
     },
     {
         "college_code": "5712",
         "college_name": "MALKHANAGAR COLLEGE",
-        "email": "malkhanagarcollege@gmail.com",
-        "id": 1476,
-        "role": "user",
-        "approved": "1"
+        "email": "malkhanagarcollege@gmail.com"
     },
     {
         "college_code": "5713",
         "college_name": "BIKRAMPUR TONGIBARI GOVERNMENT COLLEGE",
-        "email": "bikrampurtongibaridegreecollege@yahoo.com",
-        "id": 1357,
-        "role": "user",
-        "approved": "1"
+        "email": "bikrampurtongibaridegreecollege@yahoo.com"
     },
     {
         "college_code": "5714",
         "college_name": "ALI ASGAR AND ABDULLAH DEGREE COLLEGE",
-        "email": "aacollege95@yahoo.com",
-        "id": 984,
-        "role": "user",
-        "approved": "1"
+        "email": "aacollege95@yahoo.com"
     },
     {
         "college_code": "5801",
         "college_name": "GOVT. DEBENDRA COLLEGE",
-        "email": "debendracollege@yahoo.com",
-        "id": 151,
-        "role": "user",
-        "approved": "1"
+        "email": "debendracollege@yahoo.com"
     },
     {
         "college_code": "5802",
         "college_name": "MANIKGANJ MAHILA COLLEGE",
-        "email": "govtmohilacollege@yahoo.com",
-        "id": 706,
-        "role": "user",
-        "approved": "1"
+        "email": "govtmohilacollege@yahoo.com"
     },
     {
         "college_code": "5803",
         "college_name": "MOTILAL COLLEGE",
-        "email": "dha110905@yahoo.com",
-        "id": 1040,
-        "role": "user",
-        "approved": "1"
+        "email": "dha110905@yahoo.com"
     },
     {
         "college_code": "5804",
         "college_name": "TALUKNAGAR COLLEGE",
-        "email": "tnc_edu@yahoo.com",
-        "id": 1184,
-        "role": "user",
-        "approved": "1"
+        "email": "tnc_edu@yahoo.com"
     },
     {
         "college_code": "5805",
         "college_name": "SINGAIR GOVT. COLLEGE",
-        "email": "singaircollege@gmail.com",
-        "id": 564,
-        "role": "user",
-        "approved": "1"
+        "email": "singaircollege@gmail.com"
     },
     {
         "college_code": "5806",
         "college_name": "GHIOR GOVT. COLLEGE",
-        "email": "ghiorgov.college@yahoo.com",
-        "id": 1194,
-        "role": "user",
-        "approved": "1"
+        "email": "ghiorgov.college@yahoo.com"
     },
     {
         "college_code": "5807",
         "college_name": "TEROSREE COLLEGE",
-        "email": "terosreecollege5807@gmail.com",
-        "id": 2048,
-        "role": "user",
-        "approved": "1"
+        "email": "terosreecollege5807@gmail.com"
     },
     {
         "college_code": "5808",
         "college_name": "M. A. RAUF COLLEGE",
-        "email": "roufcollege@yahoo.com",
-        "id": 1428,
-        "role": "user",
-        "approved": "1"
+        "email": "roufcollege@yahoo.com"
     },
     {
         "college_code": "5809",
         "college_name": "MAHADEBPUR UNION GOVT. COLLEGE",
-        "email": "principalmudc1972@Gmail.com",
-        "id": 1501,
-        "role": "user",
-        "approved": "1"
+        "email": "principalmudc1972@Gmail.com"
     },
     {
         "college_code": "5810",
         "college_name": "VIKU MEMO. GOVT. COLLEGE, DARGRAM",
-        "email": "viku.college@yahoo.com",
-        "id": 1875,
-        "role": "user",
-        "approved": "1"
+        "email": "viku.college@yahoo.com"
     },
     {
         "college_code": "5812",
         "college_name": "KHAN BAHADUR AWLAD HOSSAIN KHAN COLLEGE",
-        "email": "khanbahadur_college@yahoo.com",
-        "id": 836,
-        "role": "user",
-        "approved": "1"
+        "email": "khanbahadur_college@yahoo.com"
     },
     {
         "college_code": "5814",
         "college_name": "ADARSHA MAHABIDDALAYA",
-        "email": "admk4050@gmail.com",
-        "id": 1269,
-        "role": "user",
-        "approved": "1"
+        "email": "admk4050@gmail.com"
     },
     {
         "college_code": "5815",
         "college_name": "JHITKA KHAJA RAHMAT ALI DEGREE COLLEGE",
-        "email": "jhitkakhajacoll@yahoo.com",
-        "id": 1363,
-        "role": "user",
-        "approved": "1"
+        "email": "jhitkakhajacoll@yahoo.com"
     },
     {
         "college_code": "5816",
         "college_name": "BEGUM JARINA COLLEGE",
-        "email": "begumjarina.college@yahoo.com",
-        "id": 2142,
-        "role": "user",
-        "approved": "1"
+        "email": "begumjarina.college@yahoo.com"
     },
     {
         "college_code": "5817",
         "college_name": "SATURIA SYED KALU SHAH COLLEGE",
-        "email": "kalushahcollege.saturia@gmail.com",
-        "id": 388,
-        "role": "user",
-        "approved": "1"
+        "email": "kalushahcollege.saturia@gmail.com"
     },
     {
         "college_code": "5818",
         "college_name": "KHONDOKAR NURUL HOSSAIN LAW ACADEMY",
-        "email": "knhla5818@gmail.com",
-        "id": 2202,
-        "role": "user",
-        "approved": "1"
+        "email": "knhla5818@gmail.com"
     },
     {
         "college_code": "5819",
         "college_name": "IDEAL TEACHERS' TRAINING COLLEGE",
-        "email": "ideal_ttcollege@yahoo.com",
-        "id": 2469,
-        "role": "user",
-        "approved": "1"
+        "email": "ideal_ttcollege@yahoo.com"
     },
     {
         "college_code": "5820",
         "college_name": "BICHARPATI NURUL ISLAM DEGREE COLLEGE",
-        "email": "bndcollege@yahoo.com",
-        "id": 2342,
-        "role": "user",
-        "approved": "1"
+        "email": "bndcollege@yahoo.com"
     },
     {
         "college_code": "5821",
         "college_name": "SHIBALAYA SADARUDDIN DEGREE COLLEGE",
-        "email": "ssdc777@yahoo.com",
-        "id": 1509,
-        "role": "user",
-        "approved": "1"
+        "email": "ssdc777@yahoo.com"
     },
     {
         "college_code": "5822",
         "college_name": "BACHAMARA BAGUTIA CHARKATARY ( B B C) COLLEGE",
-        "email": "bbccollegebachamara@gmail.com",
-        "id": 2675,
-        "role": "user",
-        "approved": "1"
+        "email": "bbccollegebachamara@gmail.com"
     },
     {
         "college_code": "5823",
         "college_name": "RAJIBPUR ADARSHA COLLEGE",
-        "email": "rac111003@gmail.com",
-        "id": 2757,
-        "role": "user",
-        "approved": "1"
+        "email": "rac111003@gmail.com"
     },
     {
         "college_code": "5824",
         "college_name": "BAIRA COLLEGE",
-        "email": "bairacollege@gmail.com",
-        "id": 2765,
-        "role": "user",
-        "approved": "1"
+        "email": "bairacollege@gmail.com"
     },
     {
         "college_code": "5901",
         "college_name": "RAJBARI GOVT. COLLEGE",
-        "email": "rajbarigovt.college@yahoo.com",
-        "id": 610,
-        "role": "user",
-        "approved": "1"
+        "email": "rajbarigovt.college@yahoo.com"
     },
     {
         "college_code": "5902",
         "college_name": "GOVT. GOALONDA KAMRUL ISLAM COLLEGE",
-        "email": "gkicollege@yahoo.com",
-        "id": 1605,
-        "role": "user",
-        "approved": "1"
+        "email": "gkicollege@yahoo.com"
     },
     {
         "college_code": "5903",
         "college_name": "RAJBARI GOVT. ADARSHA MAHILA COLLEGE",
-        "email": "rgamc_rajbari@yahoo.com",
-        "id": 451,
-        "role": "user",
-        "approved": "1"
+        "email": "rgamc_rajbari@yahoo.com"
     },
     {
         "college_code": "5904",
         "college_name": "BALIAKANDI GOVT. COLLEGE",
-        "email": "bkndcoll@gmail.com",
-        "id": 1337,
-        "role": "user",
-        "approved": "1"
+        "email": "bkndcoll@gmail.com"
     },
     {
         "college_code": "5905",
         "college_name": "PANGSHA GOVT. COLLEGE",
-        "email": "pangsacollege@gmail.com",
-        "id": 149,
-        "role": "user",
-        "approved": "1"
+        "email": "pangsacollege@gmail.com"
     },
     {
         "college_code": "5906",
         "college_name": "MACHHPARA COLLEGE",
-        "email": "mdcbd.1986@gmail.com",
-        "id": 208,
-        "role": "user",
-        "approved": "1"
+        "email": "mdcbd.1986@gmail.com"
     },
     {
         "college_code": "5907",
         "college_name": "MRIGI SHAHEED DIANAT COLLEGE",
-        "email": "msdcollege1988@gmail.com",
-        "id": 472,
-        "role": "user",
-        "approved": "1"
+        "email": "msdcollege1988@gmail.com"
     },
     {
         "college_code": "5908",
         "college_name": "KALUKHALI GOVT. COLLEGE",
-        "email": "kalukhalicollege@gmail.com",
-        "id": 1977,
-        "role": "user",
-        "approved": "1"
+        "email": "kalukhalicollege@gmail.com"
     },
     {
         "college_code": "5909",
         "college_name": "MIR MOSHAROF HOSSAIN COLLEGE",
-        "email": "mircollege10@gmail.com",
-        "id": 1521,
-        "role": "user",
-        "approved": "1"
+        "email": "mircollege10@gmail.com"
     },
     {
         "college_code": "5910",
         "college_name": "MAJHBARI JAHANARA BEGUM COLLEGE",
-        "email": "majbarijahanarabegumcollege@gmail.com",
-        "id": 2035,
-        "role": "user",
-        "approved": "1"
+        "email": "majbarijahanarabegumcollege@gmail.com"
     },
     {
         "college_code": "5911",
         "college_name": "MUNSUR ALI COLLEGE",
-        "email": "mac95baliraj@yahoo.com",
-        "id": 926,
-        "role": "user",
-        "approved": "1"
+        "email": "mac95baliraj@yahoo.com"
     },
     {
         "college_code": "5912",
         "college_name": "DR. ABUL HOSSAIN COLLEGE",
-        "email": "dr.abulhossaincollege@yahoo.com",
-        "id": 372,
-        "role": "user",
-        "approved": "1"
+        "email": "dr.abulhossaincollege@yahoo.com"
     },
     {
         "college_code": "5913",
         "college_name": "RAJBARI TEACHERS' TRAINING COLLEGE",
-        "email": "rajbttc2023@gmail.com",
-        "id": 2464,
-        "role": "user",
-        "approved": "1"
+        "email": "rajbttc2023@gmail.com"
     },
     {
         "college_code": "5914",
         "college_name": "MOHILA COLLEGE",
-        "email": "pangshamohilacollege@yahoo.com",
-        "id": 923,
-        "role": "user",
-        "approved": "1"
+        "email": "pangshamohilacollege@yahoo.com"
     },
     {
         "college_code": "5915",
         "college_name": "RABEYA IDRIS MAHILA COLLEGE",
-        "email": "rimcollege1999@gmail.com",
-        "id": 2042,
-        "role": "user",
-        "approved": "1"
+        "email": "rimcollege1999@gmail.com"
     },
     {
         "college_code": "5916",
         "college_name": "DR. KAZI MOTAHAR HOSSAIN COLLEGE",
-        "email": "drcollegehabashpur@gmail.com",
-        "id": 1541,
-        "role": "user",
-        "approved": "1"
+        "email": "drcollegehabashpur@gmail.com"
     },
     {
         "college_code": "5917",
         "college_name": "ALHAZ AMZAD HOSSAIN DEGREE COLLEGE",
-        "email": "aahc94@gmail.com",
-        "id": 1305,
-        "role": "user",
-        "approved": "1"
+        "email": "aahc94@gmail.com"
     },
     {
         "college_code": "5920",
         "college_name": "JAMALPUR COLLEGE",
-        "email": "jamalpurcollege1998@gmail.com",
-        "id": 2322,
-        "role": "user",
-        "approved": "1"
+        "email": "jamalpurcollege1998@gmail.com"
     },
     {
         "college_code": "5921",
         "college_name": "BAHARPUR COLLEGE",
-        "email": "baharpurcollege@yahoo.com",
-        "id": 2332,
-        "role": "user",
-        "approved": "1"
+        "email": "baharpurcollege@yahoo.com"
     },
     {
         "college_code": "5922",
         "college_name": "JATIR JANAK BANGABANDHU GOVT. COLLEGE",
-        "email": "nabiulbbc@gmail.com",
-        "id": 2502,
-        "role": "user",
-        "approved": "1"
+        "email": "nabiulbbc@gmail.com"
     },
     {
         "college_code": "6001",
         "college_name": "GOVT. RAJENDRA COLLEGE",
-        "email": "rajendracollege@yahoo.com",
-        "id": 349,
-        "role": "user",
-        "approved": "1"
+        "email": "rajendracollege@yahoo.com"
     },
     {
         "college_code": "6002",
         "college_name": "GOVT. SARDA SUNDARI MAHILA COLLEGE",
-        "email": "govtsaradasundari@gmail.com",
-        "id": 856,
-        "role": "user",
-        "approved": "1"
+        "email": "govtsaradasundari@gmail.com"
     },
     {
         "college_code": "6003",
         "college_name": "GOVT. YASIN COLLEGE",
-        "email": "yasincollege@yahoo.com",
-        "id": 1292,
-        "role": "user",
-        "approved": "1"
+        "email": "yasincollege@yahoo.com"
     },
     {
         "college_code": "6004",
         "college_name": "CHARBHADRASAN GOVT. COLLEGE",
-        "email": "cgcfaridpur@gmail.com",
-        "id": 1455,
-        "role": "user",
-        "approved": "1"
+        "email": "cgcfaridpur@gmail.com"
     },
     {
         "college_code": "6005",
         "college_name": "GOVT. KAZI MAHBUBLLAH(K.M) COLLEGE",
-        "email": "6005kmcbd@gmail.com",
-        "id": 1147,
-        "role": "user",
-        "approved": "1"
+        "email": "6005kmcbd@gmail.com"
     },
     {
         "college_code": "6006",
         "college_name": "NAGARKANDA COLLEGE",
-        "email": "gnmprincipal@gmail.com",
-        "id": 842,
-        "role": "user",
-        "approved": "1"
+        "email": "gnmprincipal@gmail.com"
     },
     {
         "college_code": "6007",
         "college_name": "BOALMARI GOVT. COLLEGE",
-        "email": "boalmaricollege@gmail.com",
-        "id": 723,
-        "role": "user",
-        "approved": "1"
+        "email": "boalmaricollege@gmail.com"
     },
     {
         "college_code": "6008",
         "college_name": "KADIRDI DEGREE COLLEGE",
-        "email": "esharatkdc@yahoo.com",
-        "id": 896,
-        "role": "user",
-        "approved": "1"
+        "email": "esharatkdc@yahoo.com"
     },
     {
         "college_code": "6009",
         "college_name": "ALFADANGA ADARSHA COLLEGE",
-        "email": "principal.aac1992@gmail.com",
-        "id": 1123,
-        "role": "user",
-        "approved": "1"
+        "email": "principal.aac1992@gmail.com"
     },
     {
         "college_code": "6010",
         "college_name": "ALFADANGA GOVT. COLLEGE",
-        "email": "principal@alfadangacollege.edu.bd",
-        "id": 376,
-        "role": "user",
-        "approved": "1"
+        "email": "principal@alfadangacollege.edu.bd"
     },
     {
         "college_code": "6011",
         "college_name": "GOVT. BIRSRESTHA ABDUR ROUF COLLEGE",
-        "email": "pbarcollegekam@gmail.com",
-        "id": 971,
-        "role": "user",
-        "approved": "1"
+        "email": "pbarcollegekam@gmail.com"
     },
     {
         "college_code": "6012",
         "college_name": "GOVT. AINUDDIN COLLEGE",
-        "email": "prin_gacoll@yahoo.com",
-        "id": 278,
-        "role": "user",
-        "approved": "1"
+        "email": "prin_gacoll@yahoo.com"
     },
     {
         "college_code": "6013",
         "college_name": "SADARPUR GOVT. COLLEGE",
-        "email": "sadarpurcollege@gmail.com",
-        "id": 792,
-        "role": "user",
-        "approved": "1"
+        "email": "sadarpurcollege@gmail.com"
     },
     {
         "college_code": "6014",
         "college_name": "KAZI SHIRAJUL ISLAM MOHILA COLLEGE",
-        "email": "ksimohilacollege@yahoo.com",
-        "id": 1430,
-        "role": "user",
-        "approved": "1"
+        "email": "ksimohilacollege@yahoo.com"
     },
     {
         "college_code": "6015",
         "college_name": "NABOKAM PALLY COLLEGE",
-        "email": "nkpcollege@gmail.com",
-        "id": 1419,
-        "role": "user",
-        "approved": "1"
+        "email": "nkpcollege@gmail.com"
     },
     {
         "college_code": "6016",
         "college_name": "BHANGA MOHILA COLLEGE",
-        "email": "bmdc1997@yahoo.com",
-        "id": 1175,
-        "role": "user",
-        "approved": "1"
+        "email": "bmdc1997@yahoo.com"
     },
     {
         "college_code": "6017",
         "college_name": "FARIDPUR LAW COLLEGE",
-        "email": "faridpurlawcollege@gmail.com",
-        "id": 2424,
-        "role": "user",
-        "approved": "1"
+        "email": "faridpurlawcollege@gmail.com"
     },
     {
         "college_code": "6018",
         "college_name": "FARIDPUR CITY COLLEGE",
-        "email": "faridpurcityc@gmail.com",
-        "id": 2036,
-        "role": "user",
-        "approved": "1"
+        "email": "faridpurcityc@gmail.com"
     },
     {
         "college_code": "6019",
         "college_name": "J. M. MODEL TEACHERS' TRAINING COLLEGE",
-        "email": "jmmttc2000@gmail.com",
-        "id": 2473,
-        "role": "user",
-        "approved": "1"
+        "email": "jmmttc2000@gmail.com"
     },
     {
         "college_code": "6020",
         "college_name": "SUNFLOWER TEACHERS' TRAINING COLLEGE",
-        "email": "sunflowerttcfaridpur6020@gmail.com",
-        "id": 2253,
-        "role": "user",
-        "approved": "1"
+        "email": "sunflowerttcfaridpur6020@gmail.com"
     },
     {
         "college_code": "6021",
         "college_name": "GOVT. TEACHERS' TRAINING COLLEGE",
-        "email": "ttcfarid@hotmail.com",
-        "id": 2280,
-        "role": "user",
-        "approved": "1"
+        "email": "ttcfarid@hotmail.com"
     },
     {
         "college_code": "6022",
         "college_name": "ENGINEER KHANDAKER MOSHARRAF HOSSAIN COLLEGE",
-        "email": "ekmhcf@gmail.com",
-        "id": 2014,
-        "role": "user",
-        "approved": "1"
+        "email": "ekmhcf@gmail.com"
     },
     {
         "college_code": "6023",
         "college_name": "HAZI ABDUR RAHMAN ABDUL KARIM COLLEGE",
-        "email": "principalhajicollege@gmail.com",
-        "id": 1964,
-        "role": "user",
-        "approved": "1"
+        "email": "principalhajicollege@gmail.com"
     },
     {
         "college_code": "6024",
         "college_name": "AKHCHASI MAHILA DEGREE COLLEGE",
-        "email": "akhchasimahiladegreecollege@gmail.com",
-        "id": 2186,
-        "role": "user",
-        "approved": "1"
+        "email": "akhchasimahiladegreecollege@gmail.com"
     },
     {
         "college_code": "6025",
         "college_name": "BANGABANDHU GOVT. COLLEGE",
-        "email": "bbcollege.kharsuti@gmail.com",
-        "id": 2345,
-        "role": "user",
-        "approved": "1"
+        "email": "bbcollege.kharsuti@gmail.com"
     },
     {
         "college_code": "6026",
         "college_name": "MAHILA COLLEGE",
-        "email": "mcsadarpur@yahoo.com",
-        "id": 2699,
-        "role": "user",
-        "approved": "1"
+        "email": "mcsadarpur@yahoo.com"
     },
     {
         "college_code": "6027",
         "college_name": "ALHAJ ABDUL KHALEQUE COLLEGE",
-        "email": "aakdcf@gmail.com",
-        "id": 2731,
-        "role": "user",
-        "approved": "1"
+        "email": "aakdcf@gmail.com"
     },
     {
         "college_code": "6101",
         "college_name": "GOVT. BANGABANDHU COLLEGE",
-        "email": "bangabandhucollege@yahoo.com",
-        "id": 775,
-        "role": "user",
-        "approved": "1"
+        "email": "bangabandhucollege@yahoo.com"
     },
     {
         "college_code": "6102",
         "college_name": "SK. FAZILATUNNESSA MAHILA COLLEGE",
-        "email": "skfm_gov@yahoo.com",
-        "id": 342,
-        "role": "user",
-        "approved": "1"
+        "email": "skfm_gov@yahoo.com"
     },
     {
         "college_code": "6103",
         "college_name": "GOVT. NAZRUL COLLEGE, SATPAR",
-        "email": "nazrulcollege@gmail.com",
-        "id": 532,
-        "role": "user",
-        "approved": "1"
+        "email": "nazrulcollege@gmail.com"
     },
     {
         "college_code": "6104",
         "college_name": "BANGA RATNA COLLEGE, GOPALGANJ",
-        "email": "bangaratnacollege@gmail.com",
-        "id": 1293,
-        "role": "user",
-        "approved": "1"
+        "email": "bangaratnacollege@gmail.com"
     },
     {
         "college_code": "6105",
         "college_name": "GOVT. MUKSUDPUR COLLEGE",
-        "email": "principalmuksudpurcollege@yahoo.com",
-        "id": 465,
-        "role": "user",
-        "approved": "1"
+        "email": "principalmuksudpurcollege@yahoo.com"
     },
     {
         "college_code": "6106",
         "college_name": "SK. LUTFAR RAHMAN ADARSHA GOVT. COLLEGE",
-        "email": "kslragc109591@yahoo.com",
-        "id": 784,
-        "role": "user",
-        "approved": "1"
+        "email": "kslragc109591@yahoo.com"
     },
     {
         "college_code": "6107",
         "college_name": "KAZI MANTU COLLEGE, BHANGARHAT",
-        "email": "kazimontucollege@yahoo.com",
-        "id": 1675,
-        "role": "user",
-        "approved": "1"
+        "email": "kazimontucollege@yahoo.com"
     },
     {
         "college_code": "6108",
         "college_name": "M. A. KHALEQ COLLEGE",
-        "email": "khalequecollege@gmail.com",
-        "id": 467,
-        "role": "user",
-        "approved": "1"
+        "email": "khalequecollege@gmail.com"
     },
     {
         "college_code": "6109",
         "college_name": "JOYNAGAR YAR ALI KHAN DEGREE COLLEGE",
-        "email": "yaralikhancollege@yahoo.com",
-        "id": 1382,
-        "role": "user",
-        "approved": "1"
+        "email": "yaralikhancollege@yahoo.com"
     },
     {
         "college_code": "6110",
         "college_name": "RAMDIA GOVT. SREEKRISHNA COLLEGE",
-        "email": "skcollege.1942@yahoo.com",
-        "id": 566,
-        "role": "user",
-        "approved": "1"
+        "email": "skcollege.1942@yahoo.com"
     },
     {
         "college_code": "6111",
         "college_name": "GOVT. SHEIKH MUJIBUR RAHMAN COLLEGE",
-        "email": "gov.skmujibcollege@yahoo.com",
-        "id": 750,
-        "role": "user",
-        "approved": "1"
+        "email": "gov.skmujibcollege@yahoo.com"
     },
     {
         "college_code": "6113",
         "college_name": "RAJPAT COLLEGE",
-        "email": "rajpat.college@gmail.com",
-        "id": 738,
-        "role": "user",
-        "approved": "1"
+        "email": "rajpat.college@gmail.com"
     },
     {
         "college_code": "6114",
         "college_name": "LALMIA CITY COLLEGE",
-        "email": "addakha_hajilalmia@yahoo.com",
-        "id": 440,
-        "role": "user",
-        "approved": "1"
+        "email": "addakha_hajilalmia@yahoo.com"
     },
     {
         "college_code": "6115",
         "college_name": "M. H. KHAN DEGREE COLLEGE",
-        "email": "mhkcollege6115@gmail.com",
-        "id": 131,
-        "role": "user",
-        "approved": "1"
+        "email": "mhkcollege6115@gmail.com"
     },
     {
         "college_code": "6116",
         "college_name": "SHEIKH FAZLUL KARIM SELIM LAW COLLEGE",
-        "email": "deshcomputerit@gmail.com",
-        "id": 2361,
-        "role": "user",
-        "approved": "1"
+        "email": "deshcomputerit@gmail.com"
     },
     {
         "college_code": "6117",
         "college_name": "M A ROUF TEACHERS' TRAINING COLLEGE",
-        "email": "m.arttc@yahoo.com",
-        "id": 2382,
-        "role": "user",
-        "approved": "1"
+        "email": "m.arttc@yahoo.com"
     },
     {
         "college_code": "6119",
         "college_name": "DR. IMDADUL HUQ MEMORIAL COLLEGE",
-        "email": "dr.imdadulhmdcollege5@gmail.com",
-        "id": 2071,
-        "role": "user",
-        "approved": "1"
+        "email": "dr.imdadulhmdcollege5@gmail.com"
     },
     {
         "college_code": "6120",
         "college_name": "N. HAQUE COLLEGE OF BUSINESS & TECHNOLOGY (NCBT)",
-        "email": "nhaquecollege@gmail.com",
-        "id": 2232,
-        "role": "user",
-        "approved": "1"
+        "email": "nhaquecollege@gmail.com"
     },
     {
         "college_code": "6121",
         "college_name": "GOVT. SHEIKH RASEL COLLEGE",
-        "email": "s.raselcollege@gmail.com",
-        "id": 2516,
-        "role": "user",
-        "approved": "1"
+        "email": "s.raselcollege@gmail.com"
     },
     {
         "college_code": "6122",
         "college_name": "RAMSHIL COLLEGE",
-        "email": "info@ramshilcollege.edu.bd",
-        "id": 2590,
-        "role": "user",
-        "approved": "1"
+        "email": "info@ramshilcollege.edu.bd"
     },
     {
         "college_code": "6123",
         "college_name": "UJANI B.K.B UNION DEGREE COLLEGE",
-        "email": "ujanibkbunioncollege109653@gmail.com",
-        "id": 2589,
-        "role": "user",
-        "approved": "1"
+        "email": "ujanibkbunioncollege109653@gmail.com"
     },
     {
         "college_code": "6124",
         "college_name": "SHEIKH HASINA ADARSHA MAHABIDYALAYA",
-        "email": "shambd97@gmail.com",
-        "id": 2717,
-        "role": "user",
-        "approved": "1"
+        "email": "shambd97@gmail.com"
     },
     {
         "college_code": "6201",
         "college_name": "JATIR PITA BANGABANDHU SHEIKH MUJIBUR RAHMAN COLLEGE",
-        "email": "shariatpurgovcollege@yahoo.com",
-        "id": 1583,
-        "role": "user",
-        "approved": "1"
+        "email": "shariatpurgovcollege@yahoo.com"
     },
     {
         "college_code": "6202",
         "college_name": "NARIA GOVT. COLLEGE",
-        "email": "nariagovernmentcollege@yahoo.com",
-        "id": 1102,
-        "role": "user",
-        "approved": "1"
+        "email": "nariagovernmentcollege@yahoo.com"
     },
     {
         "college_code": "6203",
         "college_name": "GOVT. M. A. REZA COLLEGE, BHEDERGANJ",
-        "email": "mareza_college@yahoo.com",
-        "id": 1714,
-        "role": "user",
-        "approved": "1"
+        "email": "mareza_college@yahoo.com"
     },
     {
         "college_code": "6204",
         "college_name": "GOVT. PURBO MADARIPUR COLLEGE, DAMUDYA",
-        "email": "pmc.damu@yahoo.com",
-        "id": 1294,
-        "role": "user",
-        "approved": "1"
+        "email": "pmc.damu@yahoo.com"
     },
     {
         "college_code": "6205",
         "college_name": "JAZIRA COLLEGE",
-        "email": "jajiracollege@gmail.com",
-        "id": 1080,
-        "role": "user",
-        "approved": "1"
+        "email": "jajiracollege@gmail.com"
     },
     {
         "college_code": "6206",
         "college_name": "HAZI SHARIATULLAH COLLEGE",
-        "email": "hazishariatullahcollege94@yahoo.com",
-        "id": 1965,
-        "role": "user",
-        "approved": "1"
+        "email": "hazishariatullahcollege94@yahoo.com"
     },
     {
         "college_code": "6207",
         "college_name": "DR. MOSLEM UDDIN KHAN COLLEGE",
-        "email": "dr.mukdc2019@gmail.com",
-        "id": 1750,
-        "role": "user",
-        "approved": "1"
+        "email": "dr.mukdc2019@gmail.com"
     },
     {
         "college_code": "6208",
         "college_name": "BHOJESWAR UPASY MAHABIDDALAYA",
-        "email": "bhojeswarupashicollage89@gmail.com",
-        "id": 920,
-        "role": "user",
-        "approved": "1"
+        "email": "bhojeswarupashicollage89@gmail.com"
     },
     {
         "college_code": "6209",
         "college_name": "GOVT. SHAMSUR RAHMAN COLLEGE",
-        "email": "srcollege.ghat@gmail.com",
-        "id": 613,
-        "role": "user",
-        "approved": "1"
+        "email": "srcollege.ghat@gmail.com"
     },
     {
         "college_code": "6210",
         "college_name": "GOVT. B.K. NAGAR BANGABANDHU COLLEGE",
-        "email": "bknagarbangabandhucollege@gmail.com",
-        "id": 578,
-        "role": "user",
-        "approved": "1"
+        "email": "bknagarbangabandhucollege@gmail.com"
     },
     {
         "college_code": "6211",
         "college_name": "SIRAJ SIKDER COLLEGE",
-        "email": "sssc.degree@yahoo.com",
-        "id": 544,
-        "role": "user",
-        "approved": "1"
+        "email": "sssc.degree@yahoo.com"
     },
     {
         "college_code": "6212",
         "college_name": "GOVT. GOLAM HAIDER KHAN MOHILA COLLEGE",
-        "email": "ghkm.college.113646@gmail.com",
-        "id": 1200,
-        "role": "user",
-        "approved": "1"
+        "email": "ghkm.college.113646@gmail.com"
     },
     {
         "college_code": "6301",
         "college_name": "MADARIPUR GOVT. COLLEGE",
-        "email": "gnc_edu@yahoo.com",
-        "id": 1353,
-        "role": "user",
-        "approved": "1"
+        "email": "gnc_edu@yahoo.com"
     },
     {
         "college_code": "6302",
         "college_name": "MADARIPUR GOVT. SUFIA MAHILA COLLEGE",
-        "email": "govt.sufia@gmail.com",
-        "id": 2015,
-        "role": "user",
-        "approved": "1"
+        "email": "govt.sufia@gmail.com"
     },
     {
         "college_code": "6303",
         "college_name": "CHARMUGURIA COLLEGE",
-        "email": "charmugria_college@yahoo.com",
-        "id": 652,
-        "role": "user",
-        "approved": "1"
+        "email": "charmugria_college@yahoo.com"
     },
     {
         "college_code": "6304",
         "college_name": "BORHAMGANJ GOVT. COLLEGE",
-        "email": "govbgcollege@gmail.com",
-        "id": 717,
-        "role": "user",
-        "approved": "1"
+        "email": "govbgcollege@gmail.com"
     },
     {
         "college_code": "6305",
         "college_name": "SYED ABUL HOSSAIN COLLEGE",
-        "email": "ksahc@yahoo.com",
-        "id": 648,
-        "role": "user",
-        "approved": "1"
+        "email": "ksahc@yahoo.com"
     },
     {
         "college_code": "6306",
         "college_name": "SHAHID SMRITI COLLEGE, SASHIKAR",
-        "email": "shaheedsmrity660@gmail.com",
-        "id": 671,
-        "role": "user",
-        "approved": "1"
+        "email": "shaheedsmrity660@gmail.com"
     },
     {
         "college_code": "6307",
         "college_name": "GOVT. RAJOIR COLLEGE",
-        "email": "rajoircollege@yahoo.com",
-        "id": 910,
-        "role": "user",
-        "approved": "1"
+        "email": "rajoircollege@yahoo.com"
     },
     {
         "college_code": "6308",
         "college_name": "RIZIA BEGUM MAHILA COLLEGE",
-        "email": "riziabegummohilacollege@gmail.com",
-        "id": 1218,
-        "role": "user",
-        "approved": "1"
+        "email": "riziabegummohilacollege@gmail.com"
     },
     {
         "college_code": "6309",
@@ -16466,1633 +15035,1022 @@
     {
         "college_code": "6310",
         "college_name": "BANGABANDHU LAW COLLEGE",
-        "email": "masudfiroge@ymail.com",
-        "id": 2206,
-        "role": "user",
-        "approved": "1"
+        "email": "masudfiroge@ymail.com"
     },
     {
         "college_code": "6311",
         "college_name": "MADARIPUR TEACHERS' TRAINING COLLEGE",
-        "email": "bedcollegemadaripur@gmail.com",
-        "id": 2288,
-        "role": "user",
-        "approved": "1"
+        "email": "bedcollegemadaripur@gmail.com"
     },
     {
         "college_code": "6312",
         "college_name": "SHAHEBRAMPUR KABI NAZRUL ISLAM COLLEGE",
-        "email": "sknicollege@gmail.com",
-        "id": 1944,
-        "role": "user",
-        "approved": "1"
+        "email": "sknicollege@gmail.com"
     },
     {
         "college_code": "6313",
         "college_name": "ABCK SYED ABUL HOSSAIN COLLEGE",
-        "email": "mr.tareq99@yahoo.com",
-        "id": 2018,
-        "role": "user",
-        "approved": "1"
+        "email": "mr.tareq99@yahoo.com"
     },
     {
         "college_code": "6314",
         "college_name": "ELIAS AHMED CHOWDHURY COLLEGE",
-        "email": "prin.eliasahmedchowdhurycollege@gmail.com",
-        "id": 1616,
-        "role": "user",
-        "approved": "1"
+        "email": "prin.eliasahmedchowdhurycollege@gmail.com"
     },
     {
         "college_code": "6315",
         "college_name": "GOVT. SHEIKH HASINA ACADEMY & WOMEN'S COLLEGE",
-        "email": "shakehasinacollege@gmail.com",
-        "id": 1403,
-        "role": "user",
-        "approved": "1"
+        "email": "shakehasinacollege@gmail.com"
     },
     {
         "college_code": "6316",
         "college_name": "SYED ABUL HOSSAIN COLLEGE",
-        "email": "sahcktmadaripur1989@gmail.com",
-        "id": 768,
-        "role": "user",
-        "approved": "1"
+        "email": "sahcktmadaripur1989@gmail.com"
     },
     {
         "college_code": "6317",
         "college_name": "D.K. IDEAL SYED ATAHAR ALI ACADEMY AND COLLEGE",
-        "email": "dkidealcollege@yahoo.com",
-        "id": 2058,
-        "role": "user",
-        "approved": "1"
+        "email": "dkidealcollege@yahoo.com"
     },
     {
         "college_code": "6318",
         "college_name": "KABIRAJPUR SAIFUDDIN DEGREE COLLEGE",
-        "email": "kscollege1994@gmail.com",
-        "id": 2303,
-        "role": "user",
-        "approved": "1"
+        "email": "kscollege1994@gmail.com"
     },
     {
         "college_code": "6320",
         "college_name": "CHILARCHAR BALIKANDI SHEIKH FAZILATUNNESA MUJIB COLLEGE",
-        "email": "chilarcharbsfmcollage@gmail.com",
-        "id": 2329,
-        "role": "user",
-        "approved": "1"
+        "email": "chilarcharbsfmcollage@gmail.com"
+
     },
     {
         "college_code": "6321",
         "college_name": "SHEIKH RASEL GOVT. COLLEGE",
-        "email": "collegesheikhrasel@gmail.com",
-        "id": 2318,
-        "role": "user",
-        "approved": "1"
+        "email": "collegesheikhrasel@gmail.com"
     },
     {
         "college_code": "6322",
         "college_name": "INSTITUTE OF LIBRARY  AND INFORMATION SCIENCE",
-        "email": "s985855@yahoo.com",
-        "id": 2556,
-        "role": "user",
-        "approved": "1"
+        "email": "s985855@yahoo.com"
     },
     {
         "college_code": "6401",
         "college_name": "SAVAR GOVT. COLLEGE",
-        "email": "savarcollege6401@gmail.com",
-        "id": 557,
-        "role": "user",
-        "approved": "1"
+        "email": "savarcollege6401@gmail.com"
     },
     {
         "college_code": "6402",
         "college_name": "DHAMRAI GOVT. COLLEGE",
-        "email": "pdgc_1972@yahoo.com",
-        "id": 237,
-        "role": "user",
-        "approved": "1"
+        "email": "pdgc_1972@yahoo.com"
     },
     {
         "college_code": "6403",
         "college_name": "NABOJUG COLLEGE",
-        "email": "nabojugcollege@yahoo.com",
-        "id": 1712,
-        "role": "user",
-        "approved": "1"
+        "email": "nabojugcollege@yahoo.com"
     },
     {
         "college_code": "6404",
         "college_name": "JOYPARA COLLEGE",
-        "email": "joyparacollege@yahoo.com",
-        "id": 1595,
-        "role": "user",
-        "approved": "1"
+        "email": "joyparacollege@yahoo.com"
     },
     {
         "college_code": "6405",
         "college_name": "GOVT. DOHAR NAWABGANJ COLLEGE",
-        "email": "dncollege1320@gmail.com",
-        "id": 1153,
-        "role": "user",
-        "approved": "1"
+        "email": "dncollege1320@gmail.com"
     },
     {
         "college_code": "6406",
         "college_name": "ISPAHANI COLLEGE, RAMERKANDA",
-        "email": "ispahanicollegeramerkanda111@yahoo.com",
-        "id": 1304,
-        "role": "user",
-        "approved": "1"
+        "email": "ispahanicollegeramerkanda111@yahoo.com"
     },
     {
         "college_code": "6407",
         "college_name": "KERANIGANJ MAHILA COLLEGE",
-        "email": "principal.kmc.keranigonj@gmail.com",
-        "id": 1063,
-        "role": "user",
-        "approved": "1"
+        "email": "principal.kmc.keranigonj@gmail.com"
     },
     {
         "college_code": "6408",
         "college_name": "DHAKA CITY COLLEGE",
-        "email": "dhakacitycollege6408@gmail.com",
-        "id": 758,
-        "role": "user",
-        "approved": "1"
+        "email": "dhakacitycollege6408@gmail.com"
     },
     {
         "college_code": "6409",
         "college_name": "MIRPUR GIRLS IDEAL COLLEGE",
-        "email": "mirpurgirlsidealcollege78@gmail.com",
-        "id": 1112,
-        "role": "user",
-        "approved": "1"
+        "email": "mirpurgirlsidealcollege78@gmail.com"
     },
     {
         "college_code": "6410",
         "college_name": "NEW MODEL DEGREE COLLEGE",
-        "email": "principalnmdc@gmail.com",
-        "id": 901,
-        "role": "user",
-        "approved": "1"
+        "email": "principalnmdc@gmail.com"
     },
     {
         "college_code": "6411",
         "college_name": "GOVT. MUSIC COLLEGE",
-        "email": "gmusiccollege@gmail.com",
-        "id": 2056,
-        "role": "user",
-        "approved": "1"
+        "email": "gmusiccollege@gmail.com"
     },
     {
         "college_code": "6413",
         "college_name": "ADAMJEE CANTONMENT COLLEGE",
-        "email": "adamjee_college@hotmail.com",
-        "id": 1330,
-        "role": "user",
-        "approved": "1"
+        "email": "adamjee_college@hotmail.com"
     },
     {
         "college_code": "6414",
         "college_name": "DR. MALEKA COLLEGE",
-        "email": "doctormalekacollege@yahoo.com",
-        "id": 634,
-        "role": "user",
-        "approved": "1"
+        "email": "doctormalekacollege@yahoo.com"
     },
     {
         "college_code": "6415",
         "college_name": "PALLABI MOHILA DEGREE COLLEGE",
-        "email": "szmdcollege@yahoo.com",
-        "id": 1867,
-        "role": "user",
-        "approved": "1"
+        "email": "szmdcollege@yahoo.com"
     },
     {
         "college_code": "6416",
         "college_name": "SIDDHESWARI COLLEGE",
-        "email": "principal_sdcollege@yahoo.com",
-        "id": 1149,
-        "role": "user",
-        "approved": "1"
+        "email": "principal_sdcollege@yahoo.com"
     },
     {
         "college_code": "6417",
         "college_name": "UTTARA ANWARA MODEL COLLEGE",
-        "email": "uamuc.info@yahoo.com",
-        "id": 1122,
-        "role": "user",
-        "approved": "1"
+        "email": "uamuc.info@yahoo.com"
     },
     {
         "college_code": "6418",
         "college_name": "GOVT. BIGGYAN COLLEGE",
-        "email": "gsc_1954@yahoo.com",
-        "id": 2472,
-        "role": "user",
-        "approved": "1"
+        "email": "gsc_1954@yahoo.com"
     },
     {
         "college_code": "6421",
         "college_name": "IDEAL COLLEGE",
-        "email": "idealcollege1205@yahoo.com",
-        "id": 2180,
-        "role": "user",
-        "approved": "1"
+        "email": "idealcollege1205@yahoo.com"
     },
     {
         "college_code": "6422",
         "college_name": "TEJGAON COLLEGE",
-        "email": "tejgaoncollege@ymail.com",
-        "id": 116,
-        "role": "user",
-        "approved": "1"
+        "email": "tejgaoncollege@ymail.com"
     },
     {
         "college_code": "6424",
         "college_name": "AHSANULLAH INSTITUTE OF INFORMATION & COMMUNICATION TECH.",
-        "email": "aiict2001@gmail.com",
-        "id": 2153,
-        "role": "user",
-        "approved": "1"
+        "email": "aiict2001@gmail.com"
     },
     {
         "college_code": "6425",
         "college_name": "SK. BORHANUDDIN COLLEGE",
-        "email": "info@sbpgc.edu.bd",
-        "id": 512,
-        "role": "user",
-        "approved": "1"
+        "email": "info@sbpgc.edu.bd"
     },
     {
         "college_code": "6428",
         "college_name": "RAMPURA EKRAMUNNESSA COLLEGE",
-        "email": "rampuraeakramunessacollege@gmail.com",
-        "id": 1910,
-        "role": "user",
-        "approved": "1"
+        "email": "rampuraeakramunessacollege@gmail.com"
     },
     {
         "college_code": "6430",
         "college_name": "RIZAUL KARIM CHOWDHURY COLLEGE",
-        "email": "rkchowdhurycollege@yahoo.com",
-        "id": 543,
-        "role": "user",
-        "approved": "1"
+        "email": "rkchowdhurycollege@yahoo.com"
     },
     {
         "college_code": "6431",
         "college_name": "T & T COLLEGE",
-        "email": "tandtcollege@gmail.com",
-        "id": 1598,
-        "role": "user",
-        "approved": "1"
+        "email": "tandtcollege@gmail.com"
     },
     {
         "college_code": "6432",
         "college_name": "NOTRE DAME COLLEGE",
-        "email": "samarbernard58@gmail.com",
-        "id": 753,
-        "role": "user",
-        "approved": "1"
+        "email": "samarbernard58@gmail.com"
     },
     {
         "college_code": "6433",
         "college_name": "KHILGAON MODEL COLLEGE",
-        "email": "model.college.khilgaon@gmail.com",
-        "id": 298,
-        "role": "user",
-        "approved": "1"
+        "email": "model.college.khilgaon@gmail.com"
     },
     {
         "college_code": "6434",
         "college_name": "SALIMULLAH COLLEGE",
-        "email": "collegesalimullah@gmail.com",
-        "id": 618,
-        "role": "user",
-        "approved": "1"
+        "email": "collegesalimullah@gmail.com"
     },
     {
         "college_code": "6438",
         "college_name": "DHAKA COMMERCE COLLEGE",
-        "email": "dcc1989@dcc.edu.bd",
-        "id": 1795,
-        "role": "user",
-        "approved": "1"
+        "email": "dcc1989@dcc.edu.bd"
     },
     {
         "college_code": "6439",
         "college_name": "ABUDHARR GHIFARI COLLEGE",
-        "email": "principalshirin@yahoo.com",
-        "id": 1694,
-        "role": "user",
-        "approved": "1"
+        "email": "principalshirin@yahoo.com"
     },
     {
         "college_code": "6442",
         "college_name": "TEJGAON MAHILA COLLEGE",
-        "email": "tmcdhaka@gmail.com",
-        "id": 118,
-        "role": "user",
-        "approved": "1"
+        "email": "tmcdhaka@gmail.com"
     },
     {
         "college_code": "6443",
         "college_name": "CENTRAL WOMENS COLLEGE",
-        "email": "cwcdhaka@yahoo.com",
-        "id": 912,
-        "role": "user",
-        "approved": "1"
+        "email": "cwcdhaka@yahoo.com"
     },
     {
         "college_code": "6444",
         "college_name": "UNIVERSITY WOMENS FED. COLLEGE",
-        "email": "uwfcbd.com@gmail.com",
-        "id": 240,
-        "role": "user",
-        "approved": "1"
+        "email": "uwfcbd.com@gmail.com"
     },
     {
         "college_code": "6446",
         "college_name": "MOHAMMADPUR MAHILA COLLEGE",
-        "email": "mmcdhaka91@yahoo.com",
-        "id": 918,
-        "role": "user",
-        "approved": "1"
+        "email": "mmcdhaka91@yahoo.com"
     },
     {
         "college_code": "6447",
         "college_name": "LALMATIA GOVT. MAHILA COLLEGE",
-        "email": "lalmatiagirlscollege@yahoo.com",
-        "id": 509,
-        "role": "user",
-        "approved": "1"
+        "email": "lalmatiagirlscollege@yahoo.com"
     },
     {
         "college_code": "6448",
         "college_name": "SIDDHESWARI GIRLS COLLEGE",
-        "email": "sgcprincipal@ymail.com",
-        "id": 296,
-        "role": "user",
-        "approved": "1"
+        "email": "sgcprincipal@ymail.com"
     },
     {
         "college_code": "6449",
         "college_name": "SHEIKH FAZILATUNNESSA GOVT. MOHILA COLLEGE",
-        "email": "sk.fnessamirpur@gmail.com",
-        "id": 1757,
-        "role": "user",
-        "approved": "1"
+        "email": "sk.fnessamirpur@gmail.com"
     },
     {
         "college_code": "6450",
         "college_name": "MIRZA ABBAS MOHILA COLLEGE",
-        "email": "www.mamc@gmail.com",
-        "id": 1278,
-        "role": "user",
-        "approved": "1"
+        "email": "www.mamc@gmail.com"
     },
     {
         "college_code": "6451",
         "college_name": "DHAKA WOMENS COLLEGE",
-        "email": "principaldwc91@gmail.com",
-        "id": 623,
-        "role": "user",
-        "approved": "1"
+        "email": "principaldwc91@gmail.com"
     },
     {
         "college_code": "6455",
         "college_name": "FAZLUL HAQUE MAHILA COLLEGE",
-        "email": "fhmcollege@yahoo.com",
-        "id": 1643,
-        "role": "user",
-        "approved": "1"
+        "email": "fhmcollege@yahoo.com"
     },
     {
         "college_code": "6456",
         "college_name": "DANIA COLLEGE",
-        "email": "daniacollege85@gmail.com",
-        "id": 1068,
-        "role": "user",
-        "approved": "1"
+        "email": "daniacollege85@gmail.com"
     },
     {
         "college_code": "6457",
         "college_name": "MIRPUR COLLEGE",
-        "email": "mirpurcollege1970@gmail.com",
-        "id": 299,
-        "role": "user",
-        "approved": "1"
+        "email": "mirpurcollege1970@gmail.com"
     },
     {
         "college_code": "6458",
         "college_name": "MOHAMMADPUR KENDRIYA COLLEGE",
-        "email": "mkc_1972@yahoo.com",
-        "id": 1846,
-        "role": "user",
-        "approved": "1"
+        "email": "mkc_1972@yahoo.com"
     },
     {
         "college_code": "6459",
         "college_name": "HABIBULLAH BAHAR COLLEGE",
-        "email": "c6459@nu.ac.bd",
-        "id": 687,
-        "role": "user",
-        "approved": "1"
+        "email": "c6459@nu.ac.bd"
     },
     {
         "college_code": "6460",
         "college_name": "HAZI SALIM DEGREE COLLEGE",
-        "email": "hsdc_2015@yahoo.com",
-        "id": 1611,
-        "role": "user",
-        "approved": "1"
+        "email": "hsdc_2015@yahoo.com"
     },
     {
         "college_code": "6462",
         "college_name": "KOLATIA COLLEGE",
-        "email": "kalatiadegreecollege@yahoo.com",
-        "id": 994,
-        "role": "user",
-        "approved": "1"
+        "email": "kalatiadegreecollege@yahoo.com"
     },
     {
         "college_code": "6464",
         "college_name": "DHAKA MOHANAGAR MOHILA COLLEGE",
-        "email": "dmmccollege@gmail.com",
-        "id": 556,
-        "role": "user",
-        "approved": "1"
+        "email": "dmmccollege@gmail.com"
     },
     {
         "college_code": "6465",
         "college_name": "B. D. R. COLLEGE",
-        "email": "info@abdurroufcollege.ac.bd",
-        "id": 2286,
-        "role": "user",
-        "approved": "1"
+        "email": "info@abdurroufcollege.ac.bd"
     },
     {
         "college_code": "6466",
         "college_name": "SARDAR SURUZZAMAN MAHILA COLLEGE",
-        "email": "ssmc_6466@yahoo.com",
-        "id": 513,
-        "role": "user",
-        "approved": "1"
+        "email": "ssmc_6466@yahoo.com"
     },
     {
         "college_code": "6467",
         "college_name": "KANCHKURA COLLEGE",
-        "email": "kanchkura.college@gmail.com",
-        "id": 441,
-        "role": "user",
-        "approved": "1"
+        "email": "kanchkura.college@gmail.com"
     },
     {
         "college_code": "6468",
         "college_name": "T & T ADARSHA MAHILA COLLEGE",
-        "email": "mahmud28812@gmail.com",
-        "id": 1738,
-        "role": "user",
-        "approved": "1"
+        "email": "mahmud28812@gmail.com"
     },
     {
         "college_code": "6469",
         "college_name": "INSTITUTE OF SCIENCE & TECHNOLOGY, DHANMONDI",
-        "email": "info@ist.edu.bd",
-        "id": 2155,
-        "role": "user",
-        "approved": "1"
+        "email": "info@ist.edu.bd"
     },
     {
         "college_code": "6471",
         "college_name": "INSTITUTE OF SCIENCE TRADE & TECHNOLOGY, PANTHAPATH",
-        "email": "director@istt.edu.bd",
-        "id": 2156,
-        "role": "user",
-        "approved": "1"
+        "email": "director@istt.edu.bd"
     },
     {
         "college_code": "6476",
         "college_name": "BHUIYAN ACADEMY",
-        "email": "infonu@bhuiyanacademyedu.com",
-        "id": 2152,
-        "role": "user",
-        "approved": "1"
+        "email": "infonu@bhuiyanacademyedu.com"
     },
     {
         "college_code": "6477",
         "college_name": "A. K. M. RAHMATULLAH COLLEGE",
-        "email": "rahmatullahcollege@yahoo.com",
-        "id": 1449,
-        "role": "user",
-        "approved": "1"
+        "email": "rahmatullahcollege@yahoo.com"
     },
     {
         "college_code": "6479",
         "college_name": "BANGLADESH INSTITUTE OF SCIENCE & TECHNOLOGY",
-        "email": "bist.bd@live.com",
-        "id": 2238,
-        "role": "user",
-        "approved": "1"
+        "email": "bist.bd@live.com"
     },
     {
         "college_code": "6480",
         "college_name": "B. K. S. P. COLLEGE",
-        "email": "bkspcollege@yahoo.com",
-        "id": 2126,
-        "role": "user",
-        "approved": "1"
+        "email": "bkspcollege@yahoo.com"
     },
     {
         "college_code": "6482",
         "college_name": "ASIAN INSTITUTE OF BUSINESS & TECHNOLOGY",
-        "email": "aibt.bd@gmail.com",
-        "id": 2213,
-        "role": "user",
-        "approved": "1"
+        "email": "aibt.bd@gmail.com"
     },
     {
         "college_code": "6484",
         "college_name": "DAFFODIL INSTITUTE OF INFORMATION TECHNOLOGY",
-        "email": "nup.principal@diit.info",
-        "id": 2220,
-        "role": "user",
-        "approved": "1"
+        "email": "nup.principal@diit.info"
     },
     {
         "college_code": "6485",
         "college_name": "GOVT. BANGABANDHU COLLEGE",
-        "email": "bangabandhucollegedhaka@gmail.com",
-        "id": 2029,
-        "role": "user",
-        "approved": "1"
+        "email": "bangabandhucollegedhaka@gmail.com"
     },
     {
         "college_code": "6486",
         "college_name": "ALHAJ MOCKBUL HOSSAIN DEGREE COLLEGE",
-        "email": "amuc1999@gmail.com",
-        "id": 789,
-        "role": "user",
-        "approved": "1"
+        "email": "amuc1999@gmail.com"
     },
     {
         "college_code": "6487",
         "college_name": "DHAKA IMPERIAL COLLEGE",
-        "email": "imperial_college95@yahoo.com",
-        "id": 1668,
-        "role": "user",
-        "approved": "1"
+        "email": "imperial_college95@yahoo.com"
     },
     {
         "college_code": "6489",
         "college_name": "PALLABI COLLEGE",
-        "email": "pallabicollege@yahoo.com",
-        "id": 601,
-        "role": "user",
-        "approved": "1"
+        "email": "pallabicollege@yahoo.com"
     },
     {
         "college_code": "6490",
         "college_name": "HAZRAT SHAH ALI MAHILA DEGREE COLLEGE",
-        "email": "hsamohilacollege@gmail.com",
-        "id": 826,
-        "role": "user",
-        "approved": "1"
+        "email": "hsamohilacollege@gmail.com"
     },
     {
         "college_code": "6495",
         "college_name": "DHAKA STATE COLLEGE",
-        "email": "dhakastatecollege69@gmail.com",
-        "id": 1930,
-        "role": "user",
-        "approved": "1"
+        "email": "dhakastatecollege69@gmail.com"
     },
     {
         "college_code": "6497",
         "college_name": "NORTHERN COLLEGE BANGLADESH (NCB)",
-        "email": "northern_college2000@yahoo.com",
-        "id": 2210,
-        "role": "user",
-        "approved": "1"
+        "email": "northern_college2000@yahoo.com"
     },
     {
         "college_code": "6505",
         "college_name": "UTTARA TOWN COLLEGE",
-        "email": "uttaratowncollege@gmail.com",
-        "id": 682,
-        "role": "user",
-        "approved": "1"
+        "email": "uttaratowncollege@gmail.com"
     },
     {
         "college_code": "6509",
         "college_name": "BGMEA INSTITUTE OF FASHION & TECHNOLOGY",
-        "email": "info@bift.info",
-        "id": 2205,
-        "role": "user",
-        "approved": "1"
+        "email": "info@bift.info"
     },
     {
         "college_code": "6510",
         "college_name": "ALHAJ ABDUL MANNAN COLLEGE",
-        "email": "alhajabdulmannancollege@yahoo.com",
-        "id": 1755,
-        "role": "user",
-        "approved": "1"
+        "email": "alhajabdulmannancollege@yahoo.com"
     },
     {
         "college_code": "6511",
         "college_name": "TOFAZZAL HOSSAIN CHOWDHURY COLLEGE",
-        "email": "sp.thc.mamun@gmail.com",
-        "id": 1248,
-        "role": "user",
-        "approved": "1"
+        "email": "sp.thc.mamun@gmail.com"
     },
     {
         "college_code": "6512",
         "college_name": "CENTRAL LAW COLLEGE, BIJOYNAGOR",
-        "email": "centrallawcollege@yahoo.com",
-        "id": 2422,
-        "role": "user",
-        "approved": "1"
+        "email": "centrallawcollege@yahoo.com"
     },
     {
         "college_code": "6513",
         "college_name": "DHAKA LAW COLLEGE, SEGUNBAGICHA",
-        "email": "dhakalawcollege72@gmail.com",
-        "id": 2664,
-        "role": "user",
-        "approved": "1"
+        "email": "dhakalawcollege72@gmail.com"
     },
     {
         "college_code": "6514",
         "college_name": "CITY LAW COLLEGE",
-        "email": "citylawcollege57@yahoo.com",
-        "id": 2535,
-        "role": "user",
-        "approved": "1"
+        "email": "citylawcollege57@yahoo.com"
     },
     {
         "college_code": "6515",
         "college_name": "MIRPUR LAW COLLEGE",
-        "email": "mirpurlawcollege6515@gmail.com",
-        "id": 2437,
-        "role": "user",
-        "approved": "1"
+        "email": "mirpurlawcollege6515@gmail.com"
     },
     {
         "college_code": "6516",
         "college_name": "JATIYA LAW COLLEGE",
-        "email": "nationallawcollege6516@gmail.com",
-        "id": 2539,
-        "role": "user",
-        "approved": "1"
+        "email": "nationallawcollege6516@gmail.com"
     },
     {
         "college_code": "6517",
         "college_name": "GREEN VIEW LAW COLLEGE",
-        "email": "greenviewlawcollegebd@gmail.com",
-        "id": 2443,
-        "role": "user",
-        "approved": "1"
+        "email": "greenviewlawcollegebd@gmail.com"
     },
     {
         "college_code": "6518",
         "college_name": "MOHAMMADPUR LAW COLLEGE",
-        "email": "akm.awal49@gmail.com",
-        "id": 2465,
-        "role": "user",
-        "approved": "1"
+        "email": "akm.awal49@gmail.com"
     },
     {
         "college_code": "6519",
         "college_name": "FATEMA LAW COLLEGE",
-        "email": "fatemalawcollege@gmail.com",
-        "id": 2457,
-        "role": "user",
-        "approved": "1"
+        "email": "fatemalawcollege@gmail.com"
     },
     {
         "college_code": "6520",
         "college_name": "METTROPOLIS IDEAL LAW COLLEGE",
-        "email": "mettropolisideallawcollege@yahoo.com",
-        "id": 2419,
-        "role": "user",
-        "approved": "1"
+        "email": "mettropolisideallawcollege@yahoo.com"
     },
     {
         "college_code": "6521",
         "college_name": "BANGABANDHU LAW COLLEGE",
-        "email": "bblawcollege.edu52@yahoo.com",
-        "id": 2423,
-        "role": "user",
-        "approved": "1"
+        "email": "bblawcollege.edu52@yahoo.com"
     },
     {
         "college_code": "6522",
         "college_name": "DEMRA LAW COLLEGE",
-        "email": "demralaw@yahoo.com",
-        "id": 2414,
-        "role": "user",
-        "approved": "1"
+        "email": "demralaw@yahoo.com"
     },
     {
         "college_code": "6523",
         "college_name": "JAN-E-ALAM SARKAR LAW COLLEGE",
-        "email": "janealamlawcollege@gmail.com",
-        "id": 2671,
-        "role": "user",
-        "approved": "1"
+        "email": "janealamlawcollege@gmail.com"
     },
     {
         "college_code": "6524",
         "college_name": "RUPNAGAR LAW COLLEGE",
-        "email": "rupnagarlawcollege@yahoo.com",
-        "id": 2444,
-        "role": "user",
-        "approved": "1"
+        "email": "rupnagarlawcollege@yahoo.com"
     },
     {
         "college_code": "6526",
         "college_name": "DHANMONDI LAW COLLEGE",
-        "email": "dhanmondilawcollege73@gmail.com",
-        "id": 2416,
-        "role": "user",
-        "approved": "1"
+        "email": "dhanmondilawcollege73@gmail.com"
     },
     {
         "college_code": "6527",
         "college_name": "MAHANAGAR LAW COLLEGE",
-        "email": "mahanagarlawcollege@gmail.com",
-        "id": 2375,
-        "role": "user",
-        "approved": "1"
+        "email": "mahanagarlawcollege@gmail.com"
     },
     {
         "college_code": "6528",
         "college_name": "BANGLADESH LAW COLLEGE",
-        "email": "bdlawcollege@yahoo.com",
-        "id": 2316,
-        "role": "user",
-        "approved": "1"
+        "email": "bdlawcollege@yahoo.com"
     },
     {
         "college_code": "6529",
         "college_name": "IDEAL LAW COLLEGE",
-        "email": "ideallawcollege@yahoo.com",
-        "id": 2418,
-        "role": "user",
-        "approved": "1"
+        "email": "ideallawcollege@yahoo.com"
     },
     {
         "college_code": "6530",
         "college_name": "SHAHEED RAMIZ UDDIN COLLEGE",
-        "email": "srucollege@gmail.com",
-        "id": 1864,
-        "role": "user",
-        "approved": "1"
+        "email": "srucollege@gmail.com"
     },
     {
         "college_code": "6531",
         "college_name": "DHAKA MODEL COLLEGE",
-        "email": "dmd_college@yahoo.com",
-        "id": 586,
-        "role": "user",
-        "approved": "1"
+        "email": "dmd_college@yahoo.com"
     },
     {
         "college_code": "6533",
         "college_name": "SHER-E-BANGLA TEACHERS TRAINING COLLEGE, MIRPUR",
-        "email": "sherebanglattc@gmail.com",
-        "id": 2387,
-        "role": "user",
-        "approved": "1"
+        "email": "sherebanglattc@gmail.com"
     },
     {
         "college_code": "6534",
         "college_name": "IDEAL TEACHERS' TRAINING COLLEGE",
-        "email": "ittc6534uttara@gmail.com",
-        "id": 2365,
-        "role": "user",
-        "approved": "1"
+        "email": "ittc6534uttara@gmail.com"
     },
     {
         "college_code": "6535",
         "college_name": "GOVT. TEACHERS' TRAINING COLLEGE",
-        "email": "dhakattc@gmail.com",
-        "id": 2283,
-        "role": "user",
-        "approved": "1"
+        "email": "dhakattc@gmail.com"
     },
     {
         "college_code": "6536",
         "college_name": "DHAKA MODERN TEACHERS' TRAINING COLLEGE, MOWCHAK",
-        "email": "mttcdhaka@yahoo.com",
-        "id": 2258,
-        "role": "user",
-        "approved": "1"
+        "email": "mttcdhaka@yahoo.com"
     },
     {
         "college_code": "6538",
         "college_name": "KHAN BAHADUR AHSAN ULLAH TEACHERS' TRAINING COLLEGE, SHAMOLY",
-        "email": "kattc1992@gmail.com",
-        "id": 2249,
-        "role": "user",
-        "approved": "1"
+        "email": "kattc1992@gmail.com"
     },
     {
         "college_code": "6541",
         "college_name": "COLLEGE OF EDUCATION RESEARCH AND TRAINING",
-        "email": "certdhaka6541@gmail.com",
-        "id": 2130,
-        "role": "user",
-        "approved": "1"
+        "email": "certdhaka6541@gmail.com"
     },
     {
         "college_code": "6543",
         "college_name": "SAVAR TEACHERS' TRAINING INSTITUTE, SAVAR",
-        "email": "stti2000@gmail.com",
-        "id": 2377,
-        "role": "user",
-        "approved": "1"
+        "email": "stti2000@gmail.com"
     },
     {
         "college_code": "6544",
         "college_name": "NEW RAJDHANI TEACHERS' TRAINING COLLEGE, NILKHET",
-        "email": "visiobfoundation1000@gmail.com",
-        "id": 2438,
-        "role": "user",
-        "approved": "1"
+        "email": "visiobfoundation1000@gmail.com"
     },
     {
         "college_code": "6545",
         "college_name": "SHEIKH FAZILATUNNESSA TEACHERS' TRAINING COLLEGE, 627 KAZIPARA",
-        "email": "sfttc45@gmail.com",
-        "id": 2403,
-        "role": "user",
-        "approved": "1"
+        "email": "sfttc45@gmail.com"
     },
     {
         "college_code": "6547",
         "college_name": "MAHANAGAR TEACHERS' TRAINING COLLEGE",
-        "email": "mahanagarttcollege@gmail.com",
-        "id": 2262,
-        "role": "user",
-        "approved": "1"
+        "email": "mahanagarttcollege@gmail.com"
     },
     {
         "college_code": "6548",
         "college_name": "VICTORIA TEACHERS' TRAINING COLLEGE, LUXMIBAZAR",
-        "email": "vttc6548@gmail.com",
-        "id": 2364,
-        "role": "user",
-        "approved": "1"
+        "email": "vttc6548@gmail.com"
     },
     {
         "college_code": "6549",
         "college_name": "BIAM TEACHERS' TRAINING COLLEGE",
-        "email": "principalbttc@biam.gov.bd",
-        "id": 2470,
-        "role": "user",
-        "approved": "1"
+        "email": "principalbttc@biam.gov.bd"
     },
     {
         "college_code": "6550",
         "college_name": "SAIC TEACHERS' TRAINING COLLEGE",
-        "email": "saicttcollege@gmail.com",
-        "id": 2404,
-        "role": "user",
-        "approved": "1"
+        "email": "saicttcollege@gmail.com"
     },
     {
         "college_code": "6552",
         "college_name": "NATIONAL TEACHERS' TRAINING INSTITUTE, KHILKHAT",
-        "email": "nationaltti1995@gmail.com",
-        "id": 2388,
-        "role": "user",
-        "approved": "1"
+        "email": "nationaltti1995@gmail.com"
     },
     {
         "college_code": "6553",
         "college_name": "LIBERTY LAW COLLEGE",
-        "email": "libertylawcollege15@gmail.com",
-        "id": 2460,
-        "role": "user",
-        "approved": "1"
+        "email": "libertylawcollege15@gmail.com"
     },
     {
         "college_code": "6554",
         "college_name": "DEWAN IDRIS LAW COLLEGE, SAVAR",
-        "email": "dillb6554@gmail.com",
-        "id": 2410,
-        "role": "user",
-        "approved": "1"
+        "email": "dillb6554@gmail.com"
     },
     {
         "college_code": "6555",
         "college_name": "CAPITAL LAW COLLEGE",
-        "email": "capitallawcollege1@gmail.com",
-        "id": 2448,
-        "role": "user",
-        "approved": "1"
+        "email": "capitallawcollege1@gmail.com"
     },
     {
         "college_code": "6557",
         "college_name": "GOVT. PHYSICAL EDUCATION COLLEGE",
-        "email": "govt.dpec@gmail.com",
-        "id": 2369,
-        "role": "user",
-        "approved": "1"
+        "email": "govt.dpec@gmail.com"
     },
     {
         "college_code": "6559",
         "college_name": "DEMRA COLLEGE",
-        "email": "demrauniversitycollege@ymail.com",
-        "id": 1044,
-        "role": "user",
-        "approved": "1"
+        "email": "demrauniversitycollege@ymail.com"
     },
     {
         "college_code": "6560",
         "college_name": "INSTITUTE OF LIBRARY AND INFORMATION SCIENCE (ILIS), NILKHET",
-        "email": "ilis.bd1976@gmail.com",
-        "id": 2170,
-        "role": "user",
-        "approved": "1"
+        "email": "ilis.bd1976@gmail.com"
     },
     {
         "college_code": "6561",
         "college_name": "INSTITUTE FOR LIBRARY AND INFORMATION MANAGEMENT (ILIM)",
-        "email": "ilimdhaka@yahoo.com",
-        "id": 2163,
-        "role": "user",
-        "approved": "1"
+        "email": "ilimdhaka@yahoo.com"
     },
     {
         "college_code": "6563",
         "college_name": "SAVAR PHYSICAL EDUCATION",
-        "email": "savarphysicaleducation@gmail.com",
-        "id": 2528,
-        "role": "user",
-        "approved": "1"
+        "email": "savarphysicaleducation@gmail.com"
     },
     {
         "college_code": "6566",
         "college_name": "SULTANA SARWARATARA ZAMAN SPECIAL EDUCATION INSTITUTE",
-        "email": "monira.yesmeen@yahoo.com",
-        "id": 2271,
-        "role": "user",
-        "approved": "1"
+        "email": "monira.yesmeen@yahoo.com"
     },
     {
         "college_code": "6567",
         "college_name": "TEACHERS TRAINING COLLEGE FOR SPECIAL EDUCATION",
-        "email": "ncsemirpur14dhaka@gmail.com",
-        "id": 2461,
-        "role": "user",
-        "approved": "1"
+        "email": "ncsemirpur14dhaka@gmail.com"
     },
     {
         "college_code": "6568",
         "college_name": "PRESS INSTITUTE BANGLADESH (PIB)",
-        "email": "education.pib@gmail.com",
-        "id": 2753,
-        "role": "user",
-        "approved": "1"
+        "email": "education.pib@gmail.com"
     },
     {
         "college_code": "6571",
         "college_name": "ICHAMOTI COLLEGE",
-        "email": "icchamotidegreecollegegalimpur@yahoo.com",
-        "id": 2129,
-        "role": "user",
-        "approved": "1"
+        "email": "icchamotidegreecollegegalimpur@yahoo.com"
     },
     {
         "college_code": "6572",
         "college_name": "PADMA GOVT. COLLEGE",
-        "email": "padmadegreecollege@gmail.com",
-        "id": 948,
-        "role": "user",
-        "approved": "1"
+        "email": "padmadegreecollege@gmail.com"
     },
     {
         "college_code": "6573",
         "college_name": "SWID SPECIAL EDUCATION TEACHERS' TRAINING COLLEGE",
-        "email": "principalswidsettc@gmail.com",
-        "id": 2241,
-        "role": "user",
-        "approved": "1"
+        "email": "principalswidsettc@gmail.com"
     },
     {
         "college_code": "6574",
         "college_name": "PRIME TEACHERS' TRAINING COLLEGE",
-        "email": "primettcollege@gmail.com",
-        "id": 2431,
-        "role": "user",
-        "approved": "1"
+        "email": "primettcollege@gmail.com"
     },
     {
         "college_code": "6575",
         "college_name": "SHEIKH BAZLUR RAHMAN COLLEGE",
-        "email": "sbrcollege108256@gmail.com",
-        "id": 2760,
-        "role": "user",
-        "approved": "1"
+        "email": "sbrcollege108256@gmail.com"
     },
     {
         "college_code": "6577",
         "college_name": "INTERNATIONAL EDUCATION COLLEGE",
-        "email": "iecnu06@yahoo.com",
-        "id": 2211,
-        "role": "user",
-        "approved": "1"
+        "email": "iecnu06@yahoo.com"
     },
     {
         "college_code": "6578",
         "college_name": "HASHEM UDDIN B. ED. COLLEGE",
-        "email": "hubed2007@gmail.com",
-        "id": 2429,
-        "role": "user",
-        "approved": "1"
+        "email": "hubed2007@gmail.com"
     },
     {
         "college_code": "6579",
         "college_name": "NEW ERA LAW COLLEGE",
-        "email": "6579neweralawcollege@gmail.com",
-        "id": 2569,
-        "role": "user",
-        "approved": "1"
+        "email": "6579neweralawcollege@gmail.com"
     },
     {
         "college_code": "6580",
         "college_name": "DHAKA ART COLLEGE",
-        "email": "dhaka_art_college@yahoo.com",
-        "id": 2571,
-        "role": "user",
-        "approved": "1"
+        "email": "dhaka_art_college@yahoo.com"
     },
     {
         "college_code": "6582",
         "college_name": "SAFS BUSINESS INSTITUTE",
-        "email": "safs.headoffice@gmail.com",
-        "id": 2136,
-        "role": "user",
-        "approved": "1"
+        "email": "safs.headoffice@gmail.com"
     },
     {
         "college_code": "6583",
         "college_name": "BUSINESS EDUCATION AND MANAGEMENT COLLEGE",
-        "email": "bemc.6583@gmail.com",
-        "id": 2235,
-        "role": "user",
-        "approved": "1"
+        "email": "bemc.6583@gmail.com"
     },
     {
         "college_code": "6584",
         "college_name": "DHAKA BUSINESS INSTITUTE",
-        "email": "dbi2014@yahoo.com",
-        "id": 2199,
-        "role": "user",
-        "approved": "1"
+        "email": "dbi2014@yahoo.com"
     },
     {
         "college_code": "6585",
         "college_name": "ARCHBISHOP T. A. GANGULY TEACHERS TRAINING COLLEGE",
-        "email": "molli.costa@gmail.com",
-        "id": 2273,
-        "role": "user",
-        "approved": "1"
+        "email": "molli.costa@gmail.com"
     },
     {
         "college_code": "6586",
         "college_name": "NATIONAL INSTITUTE OF FASHION TECHNOLOGY",
-        "email": "rabbani.nift@yahoo.com",
-        "id": 2256,
-        "role": "user",
-        "approved": "1"
+        "email": "rabbani.nift@yahoo.com"
     },
     {
         "college_code": "6587",
         "college_name": "INSTITUTE OF PROGRESSIVE MERITOCRACY (IPM)",
-        "email": "ipmdhaka.nu@gmail.com",
-        "id": 2151,
-        "role": "user",
-        "approved": "1"
+        "email": "ipmdhaka.nu@gmail.com"
     },
     {
         "college_code": "6588",
         "college_name": "POLICE STAFF COLLEGE, BANGLADESH",
-        "email": "macpm.psc@gmail.com",
-        "id": 2561,
-        "role": "user",
-        "approved": "1"
+        "email": "macpm.psc@gmail.com"
     },
     {
         "college_code": "6589",
         "college_name": "SIKDER COLLEGE OF TEXTILE AND FASHION TECHNOLOGY",
-        "email": "sctft_2008@yahoo.com",
-        "id": 2542,
-        "role": "user",
-        "approved": "1"
+        "email": "sctft_2008@yahoo.com"
     },
     {
         "college_code": "6590",
         "college_name": "COLLEGE OF FASHION TECHNOLOGY & MANAGEMENT",
-        "email": "principal@cftm-bd.com",
-        "id": 2174,
-        "role": "user",
-        "approved": "1"
+        "email": "principal@cftm-bd.com"
     },
     {
         "college_code": "6591",
         "college_name": "SHER-E-BANGLA NAGAR ADARSHA MOHILA COLLEGE",
-        "email": "sbcollege1995@gmail.com",
-        "id": 1400,
-        "role": "user",
-        "approved": "1"
+        "email": "sbcollege1995@gmail.com"
     },
     {
         "college_code": "6592",
         "college_name": "NAYABAZAR DEGREE COLLEGE",
-        "email": "principalmalek@yahoo.com",
-        "id": 899,
-        "role": "user",
-        "approved": "1"
+        "email": "principalmalek@yahoo.com"
     },
     {
         "college_code": "6593",
         "college_name": "DCCI BUSINESS INSTITUTE",
-        "email": "info@dbicollege.edu.bd",
-        "id": 2234,
-        "role": "user",
-        "approved": "1"
+        "email": "info@dbicollege.edu.bd"
     },
     {
         "college_code": "6594",
         "college_name": "PROFESSIONAL INSTITUTE OF SCIENCE AND FASHION TECHNOLOGY",
-        "email": "pacificpfl@gmail.com",
-        "id": 2278,
-        "role": "user",
-        "approved": "1"
+        "email": "pacificpfl@gmail.com"
     },
     {
         "college_code": "6596",
         "college_name": "NATIONAL INSTITUTE OF DESIGN",
-        "email": "nidoffice@ymail.com",
-        "id": 2173,
-        "role": "user",
-        "approved": "1"
+        "email": "nidoffice@ymail.com"
     },
     {
         "college_code": "6597",
         "college_name": "UNITED COLLEGE OF AVIATION SCIENCE & MANAGEMENT",
-        "email": "info@uca.edu.bd",
-        "id": 2160,
-        "role": "user",
-        "approved": "1"
+        "email": "info@uca.edu.bd"
     },
     {
         "college_code": "6598",
         "college_name": "MATUAIL HAZI ABDUL LATIF BHUIYAN COLLEGE",
-        "email": "mhalbcollege@gmail.com",
-        "id": 1191,
-        "role": "user",
-        "approved": "1"
+        "email": "mhalbcollege@gmail.com"
     },
     {
         "college_code": "6599",
         "college_name": "IDEAL INSTITUTE OF BUSINESS & SCIENCE",
-        "email": "ideal.bd2011@gmail.com",
-        "id": 2226,
-        "role": "user",
-        "approved": "1"
+        "email": "ideal.bd2011@gmail.com"
     },
     {
         "college_code": "6601",
         "college_name": "STAMFORD COLLEGE",
-        "email": "tarikulislam01636@gmail.com",
-        "id": 2682,
-        "role": "user",
-        "approved": "1"
+        "email": "tarikulislam01636@gmail.com"
     },
     {
         "college_code": "6602",
         "college_name": "DHAKA MOHILA (DEGREE) COLLEGE",
-        "email": "dhakamohilacollege@gmail.com",
-        "id": 870,
-        "role": "user",
-        "approved": "1"
+        "email": "dhakamohilacollege@gmail.com"
     },
     {
         "college_code": "6603",
         "college_name": "DHAKA INSTITUTE OF FASHION AND TECHNOLOGY",
-        "email": "info@dift.edu.bd",
-        "id": 2270,
-        "role": "user",
-        "approved": "1"
+        "email": "info@dift.edu.bd"
     },
     {
         "college_code": "6604",
         "college_name": "INSTITUTE OF BUSINESS & TECHNOLOGY (IBT)",
-        "email": "sapon7x@gmail.com",
-        "id": 2219,
-        "role": "user",
-        "approved": "1"
+        "email": "sapon7x@gmail.com"
     },
     {
         "college_code": "6605",
         "college_name": "UTTARA INSTITUTE OF BUSINESS AND TECHNOLOGY. (UIBT)",
-        "email": "info.uibt@gmail.com",
-        "id": 2214,
-        "role": "user",
-        "approved": "1"
+        "email": "info.uibt@gmail.com"
     },
     {
         "college_code": "6606",
         "college_name": "CROWN INSTITUTE OF BUSINESS AND TECHNOLOGY",
-        "email": "cibt2010@gmail.com",
-        "id": 2208,
-        "role": "user",
-        "approved": "1"
+        "email": "cibt2010@gmail.com"
     },
     {
         "college_code": "6607",
         "college_name": "SHYAMOLI IDEAL COLLEGE",
-        "email": "sic_ac@yahoo.com",
-        "id": 2269,
-        "role": "user",
-        "approved": "1"
+        "email": "sic_ac@yahoo.com"
     },
     {
         "college_code": "6608",
         "college_name": "SHAHEED PRESIDENT ZIAUR RAHMAN COLLEGE",
-        "email": "ziacollege1986@gmail.com",
-        "id": 1405,
-        "role": "user",
-        "approved": "1"
+        "email": "ziacollege1986@gmail.com"
     },
     {
         "college_code": "6609",
         "college_name": "GULSHAN COLLEGE",
-        "email": "gulshancollege6609@yahoo.com",
-        "id": 2301,
-        "role": "user",
-        "approved": "1"
+        "email": "gulshancollege6609@yahoo.com"
     },
     {
         "college_code": "6610",
         "college_name": "SHURER DHARA COLLEGE OF MUSIC",
-        "email": "sdcm201415@gmail.com",
-        "id": 2452,
-        "role": "user",
-        "approved": "1"
+        "email": "sdcm201415@gmail.com"
     },
     {
         "college_code": "6611",
         "college_name": "DR. M. MIZANUR RAHMAN PROFESSIONAL COLLEGE",
-        "email": "drmmrpc@gmail.com",
-        "id": 2518,
-        "role": "user",
-        "approved": "1"
+        "email": "drmmrpc@gmail.com"
     },
     {
         "college_code": "6612",
         "college_name": "BHALUM ATAUR RAHMAN KHAN COLLEGE",
-        "email": "bhalumarkhancollege@yahoo.com",
-        "id": 2525,
-        "role": "user",
-        "approved": "1"
+        "email": "bhalumarkhancollege@yahoo.com"
     },
     {
         "college_code": "6613",
         "college_name": "EMINENCE COLLEGE",
-        "email": "info@eminence.edu.bd",
-        "id": 2560,
-        "role": "user",
-        "approved": "1"
+        "email": "info@eminence.edu.bd"
     },
     {
         "college_code": "6614",
         "college_name": "HAJI ABDUL AWAL COLLEGE",
-        "email": "hajiabdulawalcollege@gmail.com",
-        "id": 2526,
-        "role": "user",
-        "approved": "1"
+        "email": "hajiabdulawalcollege@gmail.com"
     },
     {
         "college_code": "6615",
         "college_name": "UPDATE COLLEGE",
-        "email": "saiful@updatecollege.edu.bd",
-        "id": 2551,
-        "role": "user",
-        "approved": "1"
+        "email": "saiful@updatecollege.edu.bd"
     },
     {
         "college_code": "6616",
         "college_name": "UTTARA ADHUNIK LAW COLLEGE",
-        "email": "uttaraadhuniklawcollege@gmail.com",
-        "id": 2555,
-        "role": "user",
-        "approved": "1"
+        "email": "uttaraadhuniklawcollege@gmail.com"
     },
     {
         "college_code": "6618",
         "college_name": "APPARELS INSTITUTE OF FASHION & TECHNOLOGY (AIFT)",
-        "email": "aiftinfo@gmail.com",
-        "id": 2576,
-        "role": "user",
-        "approved": "1"
+        "email": "aiftinfo@gmail.com"
     },
     {
         "college_code": "6619",
         "college_name": "INSPIRATION INSTITUTE OF DESIGN & TECHNOLOGY",
-        "email": "info@inspiration.com.bd",
-        "id": 2582,
-        "role": "user",
-        "approved": "1"
+        "email": "info@inspiration.com.bd"
     },
     {
         "college_code": "6620",
         "college_name": "COLLEGE OF AVIATION TECHNOLOGY",
-        "email": "info@catechedu.com",
-        "id": 2619,
-        "role": "user",
-        "approved": "1"
+        "email": "info@catechedu.com"
     },
     {
         "college_code": "6621",
         "college_name": "ROKEYA AHSAN COLLEGE",
-        "email": "rokeyaahsancollege1996@gmail.com",
-        "id": 2627,
-        "role": "user",
-        "approved": "1"
+        "email": "rokeyaahsancollege1996@gmail.com"
     },
     {
         "college_code": "6622",
         "college_name": "COUNTER FOTO A CENTER FOR VISUAL ARTS",
-        "email": "info@counterfoto.org",
-        "id": 2648,
-        "role": "user",
-        "approved": "1"
+        "email": "info@counterfoto.org"
     },
     {
         "college_code": "6623",
         "college_name": "DHAKA PROFESSIONALS COLLEGE (DPC)",
-        "email": "dpucbd@yahoo.com",
-        "id": 2698,
-        "role": "user",
-        "approved": "1"
+        "email": "dpucbd@yahoo.com"
     },
     {
         "college_code": "6624",
         "college_name": "SHAHID S. A. MEMORIAL FASHION DESIGN & TEXTILE COLLEGE",
-        "email": "ssamft.bd.2015@gmail.com",
-        "id": 2690,
-        "role": "user",
-        "approved": "1"
+        "email": "ssamft.bd.2015@gmail.com"
     },
     {
         "college_code": "6625",
         "college_name": "MOFAZZAL - MOMENA CHAKLADAR MOHILA COLLEGE",
-        "email": "m.m.c.mohilacollege1902@gmail.com",
-        "id": 2730,
-        "role": "user",
-        "approved": "1"
+        "email": "m.m.c.mohilacollege1902@gmail.com"
     },
     {
         "college_code": "6626",
         "college_name": "GULSHAN COMMERCE COLLEGE",
-        "email": "gcc131904@gmail.com",
-        "id": 2707,
-        "role": "user",
-        "approved": "1"
+        "email": "gcc131904@gmail.com"
     },
     {
         "college_code": "6627",
         "college_name": "NATIONAL INSTITUTE OF SCIENCE AND TECHNOLOGY (NIST)",
-        "email": "principal@nist.edu.bd",
-        "id": 2737,
-        "role": "user",
-        "approved": "1"
+        "email": "principal@nist.edu.bd"
     },
     {
         "college_code": "6628",
         "college_name": "DAFFODIL INSTITUTE OF SCIENCE & TECHNOLOGY",
-        "email": "c6628@nu.ac.bd",
-        "id": 2709,
-        "role": "user",
-        "approved": "1"
+        "email": "c6628@nu.ac.bd"
     },
     {
         "college_code": "6629",
         "college_name": "MIRZA GOLAM HAFIZ COLLEGE",
-        "email": "mirzacollegesavar@gmail.com",
-        "id": 2742,
-        "role": "user",
-        "approved": "1"
+        "email": "mirzacollegesavar@gmail.com"
     },
     {
         "college_code": "6630",
         "college_name": "HARUN MOLLAH COLLEGE",
-        "email": "harunmollahcollege@yahoo.com",
-        "id": 2755,
-        "role": "user",
-        "approved": "1"
+        "email": "harunmollahcollege@yahoo.com"
     },
     {
         "college_code": "6633",
         "college_name": "H R MEMORIAL COLLEGE",
-        "email": "hrmemorialcollege@gmail.com",
-        "id": 2766,
-        "role": "user",
-        "approved": "1"
+        "email": "hrmemorialcollege@gmail.com"
     },
     {
         "college_code": "6634",
         "college_name": "CODERSTRUST BANGLADESH",
-        "email": "hello@coderstrustbd.com",
-        "id": 2768,
-        "role": "user",
-        "approved": "1"
+        "email": "hello@coderstrustbd.com"
     },
     {
         "college_code": "7001",
         "college_name": "PATENGA CITY CORPORATION WOMENS COLLEGE",
-        "email": "pccwcollege@gmail.com",
-        "id": 1435,
-        "role": "user",
-        "approved": "1"
+        "email": "pccwcollege@gmail.com"
     },
     {
         "college_code": "7002",
         "college_name": "SITAKUND MOHILA COLLEGE",
-        "email": "sita.smc@gmail.com",
-        "id": 1773,
-        "role": "user",
-        "approved": "1"
+        "email": "sita.smc@gmail.com"
     },
     {
         "college_code": "7003",
         "college_name": "UTTAR SANDWIP DEGREE COLLEGE",
-        "email": "usdegreecollege@gmail.com",
-        "id": 667,
-        "role": "user",
-        "approved": "1"
+        "email": "usdegreecollege@gmail.com"
     },
     {
         "college_code": "7004",
         "college_name": "SARAIPARA CITY CORPORATION COLLEGE",
-        "email": "saraipara_degree_college@yahoo.com",
-        "id": 1925,
-        "role": "user",
-        "approved": "1"
+        "email": "saraipara_degree_college@yahoo.com"
     },
     {
         "college_code": "7005",
         "college_name": "SYEDA SELIMA QUADER CHOWDHURY COLLEGE",
-        "email": "ssqdcran@gmail.com",
-        "id": 884,
-        "role": "user",
-        "approved": "1"
+        "email": "ssqdcran@gmail.com"
     },
     {
         "college_code": "7006",
         "college_name": "SOUTH SANDWIP COLLEGE",
-        "email": "south.sandwip.college@gmail.com",
-        "id": 1585,
-        "role": "user",
-        "approved": "1"
+        "email": "south.sandwip.college@gmail.com"
     },
     {
         "college_code": "7007",
         "college_name": "CHITTAGONG BGMEA INSTITUTE OF FASHION & TECHNOLOGY (CBIFT)",
-        "email": "principal@cbift.com",
-        "id": 2282,
-        "role": "user",
-        "approved": "1"
+        "email": "principal@cbift.com"
     },
     {
         "college_code": "7008",
         "college_name": "K.C. SHAHEED ZIAUR RAHMAN COLLEGE",
-        "email": "kcszrc2001@yahoo.com",
-        "id": 2300,
-        "role": "user",
-        "approved": "1"
+        "email": "kcszrc2001@yahoo.com"
     },
     {
         "college_code": "7009",
         "college_name": "BAKALIA SHAHID N.M.M.J COLLEGE",
-        "email": "bakaliasnmmjcollege@gmail.com",
-        "id": 2192,
-        "role": "user",
-        "approved": "1"
+        "email": "bakaliasnmmjcollege@gmail.com"
     },
     {
         "college_code": "7010",
         "college_name": "MASTER NAZIR AHMAD DEGREE COLLEGE",
-        "email": "131852@bise-ctg.gov.bd",
-        "id": 2306,
-        "role": "user",
-        "approved": "1"
+        "email": "131852@bise-ctg.gov.bd"
     },
     {
         "college_code": "7011",
         "college_name": "POSTARPAR ASMA KHATUN CITY CORPORATION MOHILA COLLEGE",
-        "email": "postarparakcmc@yahoo.com",
-        "id": 2356,
-        "role": "user",
-        "approved": "1"
+        "email": "postarparakcmc@yahoo.com"
     },
     {
         "college_code": "7012",
         "college_name": "G A M  CHARTERED COLLEGE",
-        "email": "gamcucbd@gmail.com",
-        "id": 2471,
-        "role": "user",
-        "approved": "1"
+        "email": "gamcucbd@gmail.com"
     },
     {
         "college_code": "7013",
         "college_name": "DAFFODIL INSTITUTE OF IT",
-        "email": "dd.ctg@diit.info",
-        "id": 2523,
-        "role": "user",
-        "approved": "1"
+        "email": "dd.ctg@diit.info"
     },
     {
         "college_code": "7014",
         "college_name": "PATIYA LAW COLLEGE",
-        "email": "patiya.ain.college@gmail.com",
-        "id": 2546,
-        "role": "user",
-        "approved": "1"
+        "email": "patiya.ain.college@gmail.com"
     },
     {
         "college_code": "7015",
         "college_name": "FATEYABAD COLLEGE",
-        "email": "fateyabadcollegectg@gmail.com",
-        "id": 2543,
-        "role": "user",
-        "approved": "1"
+        "email": "fateyabadcollegectg@gmail.com"
     },
     {
         "college_code": "7016",
         "college_name": "BANSKHALI GIRLS COLLEGE",
-        "email": "banskhaligirlscollege@gmail.com",
-        "id": 2610,
-        "role": "user",
-        "approved": "1"
+        "email": "banskhaligirlscollege@gmail.com"
     },
     {
         "college_code": "7017",
         "college_name": "SATKANIA ADARSHA MAHILA COLLEGE",
-        "email": "mohilacollegesat1993@gmail.com",
-        "id": 2624,
-        "role": "user",
-        "approved": "1"
+        "email": "mohilacollegesat1993@gmail.com"
     },
     {
         "college_code": "7018",
         "college_name": "PROFESSOR KAMAL UDDIN CHOWDHURY COLLEGE",
-        "email": "pkucc2000@gmail.com",
-        "id": 2681,
-        "role": "user",
-        "approved": "1"
+        "email": "pkucc2000@gmail.com"
     },
     {
         "college_code": "7019",
         "college_name": "SHOVANDANDI COLLEGE",
-        "email": "Shovandegcoll@gmail.com",
-        "id": 2739,
-        "role": "user",
-        "approved": "1"
+        "email": "Shovandegcoll@gmail.com"
     },
     {
         "college_code": "7301",
         "college_name": "ABDUL GONI COLLEGE",
-        "email": "abdulgonicollege@gmail.com",
-        "id": 2621,
-        "role": "user",
-        "approved": "1"
+        "email": "abdulgonicollege@gmail.com"
     },
     {
         "college_code": "7302",
         "college_name": "VARENDRA COLLEGE",
-        "email": "varendracollege1985@gmail.com",
-        "id": 2748,
-        "role": "user",
-        "approved": "1"
+        "email": "varendracollege1985@gmail.com"
     },
     {
         "college_code": "7303",
         "college_name": "KABI KAZI NAZRUL ISLAM COLLEGE",
-        "email": "nel.bdbs@gmail.com",
-        "id": 2741,
-        "role": "user",
-        "approved": "1"
+        "email": "nel.bdbs@gmail.com"
     }
 ]
