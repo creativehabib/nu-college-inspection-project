@@ -99,12 +99,13 @@
                                 <h1 class="text-2xl font-bold text-center mb-6 text-gray-800">College Information Form</h1>
                                     <!-- College Code -->
                                     <div class="flex flex-col">
-                                        <label for="college-code" class="text-gray-700 font-medium">College Code</label>
+                                        <label for="collegeCode" class="text-gray-700 font-medium">College Code</label>
                                         <input
                                             type="text"
-                                            id="college-code"
-                                            readonly
-                                            placeholder="0101"
+                                            id="collegeCode"
+                                            name="college_code"
+                                            placeholder="College code will appear here"
+                                            disabled
                                             class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700"
                                         />
                                     </div>
@@ -122,13 +123,16 @@
 
                                     <!-- College Name -->
                                     <div class="flex flex-col">
-                                        <label for="college-name" class="text-gray-700 font-medium">College Name</label>
-                                        <input
-                                            type="text"
-                                            id="college-name"
-                                            placeholder="Ex. GOVT. P. C. COLLEGE"
-                                            class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700"
-                                        />
+                                        {{-- nucollege dropdown list--}}
+                                        <label for="nucollege" class="text-gray-700 font-medium">College Name</label>
+                                        <select
+                                            id="nucollege"
+                                            class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700">
+                                            <option value="">Select College</option>
+                                            @foreach($nuColleges as $college)
+                                                <option value="{{$college->id}}">{{$college->college_name}}</option>
+                                            @endforeach
+                                        </select>
                                     </div>
 
                                     <!-- College Address -->
@@ -185,26 +189,26 @@
                                         </div>
                                     </div>
 
-                                    <!-- Website and Email -->
-                                    <div class="grid grid-cols-2 gap-4">
-                                        <div class="flex flex-col">
-                                            <label for="college_website" class="text-gray-700 font-medium">College Website</label>
-                                            <input
-                                                type="text"
-                                                id="college_website"
-                                                placeholder="Enter web address"
-                                                class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700"
-                                            />
-                                        </div>
-                                        <div class="flex flex-col">
-                                            <label for="college_email" class="text-gray-700 font-medium">College Email</label>
-                                            <input
-                                                type="email"
-                                                id="college_email"
-                                                placeholder="Enter college mail"
-                                                class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700"
-                                            />
-                                        </div>
+                                    <!-- Email -->
+                                    <div class="flex flex-col">
+                                        <label for="college_email" class="text-gray-700 font-medium">College Email</label>
+                                        <input
+                                            type="email"
+                                            name="college_email"
+                                            id="college_email"
+                                            placeholder="Enter college mail"
+                                            class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700"
+                                        />
+                                    </div>
+                                    {{-- website --}}
+                                    <div class="flex flex-col">
+                                        <label for="college_website" class="text-gray-700 font-medium">College Website</label>
+                                        <input
+                                            type="text"
+                                            id="college_website"
+                                            placeholder="Enter web address"
+                                            class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700"
+                                        />
                                     </div>
 
                                     <!-- Mobile Number and Year of Establishment -->
@@ -514,6 +518,48 @@
 <script>
 
     $(document).ready(function () {
+
+        $('#nucollege').on('change', function () {
+            const collegeId = this.value; // Get the selected college ID
+            const inputCollegeCode = $('#collegeCode'); // Use jQuery to reference the input field
+            const inputCollegeEmail = $('#college_email'); // Use jQuery to reference the input field
+
+            // Perform AJAX request to fetch the college code
+            $.ajax({
+                url: "{{ url('fetch-college-code') }}", // Endpoint for fetching college code
+                type: "POST",
+                data: {
+                    id: collegeId,
+                    _token: '{{ csrf_token() }}' // Include CSRF token for security
+                },
+                dataType: 'json',
+                success: function (response) {
+                    if (response.college_codes && response.college_codes.length > 0) {
+                        // Iterate over the result (in case of multiple results)
+                        $.each(response.college_codes, function (key, value) {
+                            // Update input field value and placeholder
+                            inputCollegeCode.val(value.college_code);
+                            inputCollegeCode.attr('placeholder', `You selected: ${value.college_code}`);
+                            inputCollegeEmail.val(value.college_email);
+                            inputCollegeEmail.attr('placeholder', `You selected: ${value.college_email}`);
+                        });
+                    } else {
+                        // Handle empty response
+                        inputCollegeCode.val('');
+                        inputCollegeCode.attr('placeholder', 'No college code found');
+                        inputCollegeEmail.val('');
+                        inputCollegeEmail.attr('placeholder', 'No college email found');
+
+                    }
+                    console.log(response); // Log the response for debugging
+                },
+                error: function (xhr, status, error) {
+                    console.error("Error fetching college code:", error);
+                    inputField.val('');
+                    inputField.attr('placeholder', 'An error occurred');
+                }
+            });
+        });
 
         /*------------------------------------------
          District Dropdown Change Event

@@ -57,6 +57,12 @@ Route::post('fetch-upazilas', [App\Http\Controllers\HomeController::class, 'fetc
 Route::post('fetch-unions', [App\Http\Controllers\HomeController::class, 'fetchUnion']);
 Route::post('fetch-postcodes', [App\Http\Controllers\HomeController::class, 'fetchPostCode']);
 
+// nu college
+Route::resource('nu-college', App\Http\Controllers\NuCollegeController::class);
+// college fetch
+Route::post('fetch-colleges', [App\Http\Controllers\HomeController::class, 'fetchNuCollege']);
+Route::post('fetch-college-code', [App\Http\Controllers\HomeController::class, 'fetchCollegeCode']);
+
 require __DIR__.'/auth.php';
 
 

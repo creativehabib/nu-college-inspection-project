@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\District;
 use App\Models\Division;
+use App\Models\NuCollege;
 use App\Models\NuCourse;
 use App\Models\NuProgram;
 use App\Models\NuSubject;
@@ -20,12 +21,14 @@ class HomeController extends Controller
         $courses = NuCourse::all()->where('status', 1);
         $programs = NuProgram::all()->where('status', 1);
         $divisions = Division::get(["name", "id"]);
+        $nuColleges = NuCollege::where('status', 1)->get(['college_name', 'college_code', 'id']);
         return view('degree')->with(
             [
                 'subjects' => $subjects,
                 'courses' => $courses,
                 'programs' => $programs,
-                'divisions' => $divisions
+                'divisions' => $divisions,
+                'nuColleges' => $nuColleges
             ]
         );
     }
@@ -58,4 +61,12 @@ class HomeController extends Controller
         $data['post_codes'] = PostCode::where('district_id', $upazila['district_id'])->get(['postCode', 'postOffice', 'upazila']);
         return response()->json($data);
     }
+
+    // fetchCollegeCode
+    public function fetchCollegeCode(Request $request)
+    {
+        $data['college_codes']= NuCollege::where('id', $request->id)->get(['college_code', 'college_name', 'college_email', 'id']);
+        return response()->json($data);
+    }
+
 }
