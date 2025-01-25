@@ -46,4 +46,9 @@ class User extends Authenticatable
             'password' => 'hashed',
         ];
     }
+
+    public function nuColleges()
+    {
+        return $this->hasMany(NuCollege::class, 'user_id');
+    }
 }

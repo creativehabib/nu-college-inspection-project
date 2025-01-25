@@ -65,7 +65,7 @@ class HomeController extends Controller
     // fetchCollegeCode
     public function fetchCollegeCode(Request $request)
     {
-        $data['college_codes']= NuCollege::where('id', $request->id)->get(['college_code', 'college_name', 'college_email', 'id']);
+        $data['college_codes']= NuCollege::where('id', $request->id)->get();
         return response()->json($data);
     }
 
