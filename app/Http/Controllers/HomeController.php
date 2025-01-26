@@ -69,4 +69,13 @@ class HomeController extends Controller
         return response()->json($data);
     }
 
+    // search college
+    public function search(Request $request)
+    {
+        $colleges = NuCollege::where('college_name', 'LIKE', "%{$request->query}%")->get();
+        return response()->json(['colleges' => $colleges]);
+    }
+
+
+
 }

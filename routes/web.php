@@ -62,6 +62,9 @@ Route::resource('nu-college', App\Http\Controllers\NuCollegeController::class);
 // college fetch
 Route::post('fetch-colleges', [App\Http\Controllers\HomeController::class, 'fetchNuCollege']);
 Route::post('fetch-college-code', [App\Http\Controllers\HomeController::class, 'fetchCollegeCode']);
+// search college
+Route::get('/search-colleges', [App\Http\Controllers\HomeController::class, 'search'])->name('search-colleges');
+
 
 require __DIR__.'/auth.php';
 

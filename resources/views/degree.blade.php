@@ -123,10 +123,10 @@
 
                                     <!-- College Name -->
                                     <div class="flex flex-col">
-                                        {{-- nucollege dropdown list--}}
-                                        <label for="nucollege" class="text-gray-700 font-medium">College Name</label>
+                                        {{-- nuCollege dropdown list--}}
+                                        <label for="nuCollege" class="text-gray-700 font-medium">College Name</label>
                                         <select
-                                            id="nucollege"
+                                            id="nuCollege"
                                             class="mt-1 px-3 py-2 border rounded-md bg-gray-100 text-gray-700">
                                             <option value="">Select College</option>
                                             @foreach($nuColleges as $college)
@@ -519,7 +519,7 @@
 
     $(document).ready(function () {
 
-        $('#nucollege').on('change', function () {
+        $('#nuCollege').on('change', function () {
             const collegeId = this.value; // Get the selected college ID
             const inputCollegeCode = $('#collegeCode'); // Use jQuery to reference the input field
             const inputCollegeEmail = $('#college_email'); // Use jQuery to reference the input field
